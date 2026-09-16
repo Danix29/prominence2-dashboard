@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T20:40:58.8784290Z",
+    "updated_at":  "2026-09-16T20:42:12.4983965Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "daaviid_2006",
-                                        "Miguelhl"
+                                        "daaviid_2006"
                                     ]
                     },
                     {
@@ -26,11 +25,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  390.8
+                                          "value":  391.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  378.4
+                                          "value":  379.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -160,11 +159,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  534
+                                          "value":  613.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  184
+                                          "value":  224.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,11 +185,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  11.6
+                                          "value":  12.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8.9
+                                          "value":  10.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -233,6 +232,41 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 22:42",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha salido de Minijuegos"
+                   },
+                   {
+                       "time":  "16/09 22:42",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "16/09 22:41",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha salido de Minijuegos"
+                   },
+                   {
+                       "time":  "16/09 22:41",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "16/09 22:41",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha salido de Minijuegos"
+                   },
+                   {
+                       "time":  "16/09 22:41",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "16/09 22:41",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "16/09 22:40",
                        "type":  "leave",
