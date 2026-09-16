@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T21:56:23.4304248Z",
+    "updated_at":  "2026-09-16T21:57:37.0497423Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "Geltz",
-                                        "daaviid_2006"
+                                        "daaviid_2006",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -26,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  461.7
+                                          "value":  461.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  453.5
+                                          "value":  454.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -38,7 +39,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  155.4
+                                          "value":  156.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -156,7 +157,7 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  6728.5
+                                          "value":  6791.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -168,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  2435.6
+                                          "value":  2436.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,15 +187,15 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  62
+                                          "value":  63.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  47.1
+                                          "value":  47.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  31.6
+                                          "value":  32.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -233,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 23:57",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "16/09 23:55",
                        "type":  "leave",
@@ -427,11 +433,6 @@
                        "time":  "16/09 22:32",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "16/09 21:58",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
                    }
                ]
 }
