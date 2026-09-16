@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T22:20:59.3377015Z",
+    "updated_at":  "2026-09-16T22:22:12.9282582Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz",
-                                        "daaviid_2006"
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -30,7 +29,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  478
+                                          "value":  478.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -38,7 +37,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  179.9
+                                          "value":  181.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -156,7 +155,7 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8995.5
+                                          "value":  9057.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -168,7 +167,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  3233.3
+                                          "value":  3243.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,7 +181,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  86.6
+                                          "value":  87.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -194,7 +193,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  56.1
+                                          "value":  56.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -220,7 +219,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  51
+                                              "value":  52
                                           },
                                           {
                                               "name":  "lasersub",
@@ -233,6 +232,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 00:22",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:21",
+                       "type":  "leave",
+                       "text":  "daaviid_2006 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:21",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Gold Tier Upgrade"
+                   },
                    {
                        "time":  "17/09 00:19",
                        "type":  "mg",
@@ -417,21 +431,6 @@
                        "time":  "16/09 23:35",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Diamonds!"
-                   },
-                   {
-                       "time":  "16/09 23:34",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Sneak 100"
-                   },
-                   {
-                       "time":  "16/09 23:33",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Cover Me with Diamonds"
-                   },
-                   {
-                       "time":  "16/09 23:32",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Source of Evil"
                    }
                ]
 }
