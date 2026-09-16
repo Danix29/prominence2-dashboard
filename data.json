@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T21:00:39.4497509Z",
+    "updated_at":  "2026-09-16T21:01:53.2991525Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -15,8 +15,8 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  false,
-                        "sleeping":  true,
+                        "running":  true,
+                        "sleeping":  false,
                         "players":  [
 
                                     ]
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  406.8
+                                          "value":  408
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  398.1
+                                          "value":  399.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  99.9
+                                          "value":  101.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -143,7 +143,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0
+                                          "value":  9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -161,7 +161,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1725.4
+                                          "value":  1762.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -169,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  318.7
+                                          "value":  393.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -187,15 +187,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  28.6
+                                          "value":  29.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  27.6
+                                          "value":  28.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  6.6
+                                          "value":  7.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 23:01",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha entrado en Minijuegos"
+                   },
                    {
                        "time":  "16/09 22:55",
                        "type":  "mg",
@@ -428,11 +433,6 @@
                        "time":  "16/09 21:56",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Time to sleep"
-                   },
-                   {
-                       "time":  "16/09 21:56",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Swap Tools"
                    }
                ]
 }
