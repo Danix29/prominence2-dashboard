@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T20:37:17.4555331Z",
+    "updated_at":  "2026-09-16T20:38:31.2225960Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -13,7 +13,7 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
 
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  374.8
+                                          "value":  376
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -159,7 +159,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  286.8
+                                          "value":  408.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -185,11 +185,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  9
+                                          "value":  9.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  5.2
+                                          "value":  6.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -232,6 +232,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 22:38",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "16/09 22:38",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "16/09 22:34",
                        "type":  "leave",
