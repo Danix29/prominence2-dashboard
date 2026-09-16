@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T21:42:50.8423101Z",
+    "updated_at":  "2026-09-16T21:44:04.6203932Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -15,7 +15,7 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
 
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  448.6
+                                          "value":  449.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  440
+                                          "value":  441.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  141.8
+                                          "value":  143
                                       },
                                       {
                                           "name":  "lasersub",
@@ -79,7 +79,7 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  64
+                                       "value":  72
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -105,7 +105,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  592.4
+                                          "value":  683.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -131,7 +131,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  396.7
+                                          "value":  455
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -157,7 +157,7 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  5989.2
+                                          "value":  6016.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -165,11 +165,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4166.5
+                                          "value":  4311.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1819.2
+                                          "value":  1880.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -187,15 +187,15 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  48.5
+                                          "value":  49.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  34.2
+                                          "value":  35.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  18.1
+                                          "value":  19.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -209,7 +209,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  134
+                                              "value":  135
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 23:43",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Diamond Tier Upgrade"
+                   },
                    {
                        "time":  "16/09 23:37",
                        "type":  "logro",
@@ -428,11 +433,6 @@
                        "time":  "16/09 21:56",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Gravedigger"
-                   },
-                   {
-                       "time":  "16/09 21:56",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Acquire Hardware"
                    }
                ]
 }
