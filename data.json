@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T21:32:57.6641716Z",
+    "updated_at":  "2026-09-16T21:34:11.1680989Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  438.7
+                                          "value":  440
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  430.1
+                                          "value":  431.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  131.9
+                                          "value":  133.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -79,7 +79,7 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  23
+                                       "value":  29
                                    },
                                    {
                                        "name":  "lasersub",
@@ -87,7 +87,7 @@
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  5
+                                       "value":  7
                                    },
                                    {
                                        "name":  "Geltz",
@@ -105,7 +105,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  270.6
+                                          "value":  278.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -131,7 +131,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  309.2
+                                          "value":  316.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -161,15 +161,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  4775.4
+                                          "value":  4912.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3281.2
+                                          "value":  3353.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1641.2
+                                          "value":  1647.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -187,15 +187,15 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  38.6
+                                          "value":  39.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24.3
+                                          "value":  25.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8.2
+                                          "value":  9.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -217,7 +217,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  98
+                                              "value":  100
                                           },
                                           {
                                               "name":  "lasersub",
@@ -225,7 +225,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  45
+                                              "value":  46
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 23:33",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Cover Me with Diamonds"
+                   },
                    {
                        "time":  "16/09 23:32",
                        "type":  "logro",
@@ -428,11 +433,6 @@
                        "time":  "16/09 21:56",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Isn\u0027t It Iron Pick"
-                   },
-                   {
-                       "time":  "16/09 21:56",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Jaws"
                    }
                ]
 }
