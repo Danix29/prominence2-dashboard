@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T22:18:31.9301342Z",
+    "updated_at":  "2026-09-16T22:19:45.5234912Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -17,7 +17,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "DanixNuts"
                                     ]
                     }
                 ],
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  475.6
+                                          "value":  476.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  177.5
+                                          "value":  178.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -82,7 +82,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  25
+                                       "value":  26
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -138,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  167.8
+                                          "value":  168.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -156,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8822.9
+                                          "value":  8878.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -168,7 +168,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  3137.8
+                                          "value":  3204.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  84.1
+                                          "value":  85.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -194,7 +194,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  53.7
+                                          "value":  54.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -220,7 +220,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  50
+                                              "value":  51
                                           },
                                           {
                                               "name":  "lasersub",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 00:19",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha entrado en Minijuegos"
+                   },
                    {
                        "time":  "17/09 00:18",
                        "type":  "logro",
@@ -427,11 +432,6 @@
                        "time":  "16/09 23:32",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Source of Evil"
-                   },
-                   {
-                       "time":  "16/09 23:32",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Stay dead"
                    }
                ]
 }
