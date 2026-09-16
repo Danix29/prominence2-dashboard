@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T20:36:03.2236503Z",
+    "updated_at":  "2026-09-16T20:37:17.4555331Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -14,7 +14,7 @@
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
                         "running":  false,
-                        "sleeping":  true,
+                        "sleeping":  false,
                         "players":  [
 
                                     ]
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  373.5
+                                          "value":  374.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -159,7 +159,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  249.6
+                                          "value":  286.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  4
+                                          "value":  5.2
                                       },
                                       {
                                           "name":  "DanixNuts",
