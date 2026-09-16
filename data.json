@@ -1,11 +1,11 @@
 {
-    "updated_at":  "2026-09-16T20:24:52.5438788Z",
+    "updated_at":  "2026-09-16T20:31:03.1765764Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
                         "running":  false,
-                        "sleeping":  true,
+                        "sleeping":  false,
                         "players":  [
 
                                     ]
@@ -13,8 +13,8 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  false,
-                        "sleeping":  true,
+                        "running":  true,
+                        "sleeping":  false,
                         "players":  [
 
                                     ]
