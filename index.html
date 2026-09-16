@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prominence II · Estado del servidor</title>
+<style>
+  :root{
+    --bg:#0b0813; --bg2:#12101d; --card:#171226; --line:#2a2340;
+    --gold:#d9b463; --gold2:#8a691f; --text:#e8e2f0; --muted:#8f86a6;
+    --green:#7fae5a; --red:#c9524d; --blue:#6aa1d8;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:radial-gradient(1200px 600px at 50% -10%,#1a1230 0%,var(--bg) 60%);color:var(--text);
+       font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:24px 16px 48px}
+  .wrap{max-width:1100px;margin:0 auto}
+  header{display:flex;align-items:center;gap:16px;margin-bottom:22px;flex-wrap:wrap}
+  header img{width:64px;height:64px;border-radius:12px;image-rendering:pixelated;border:1px solid var(--line)}
+  h1{margin:0;font-size:26px;color:var(--gold);letter-spacing:.5px}
+  .sub{color:var(--muted);font-size:13px}
+  .grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+  .card{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);border-radius:14px;padding:16px}
+  .card h2{margin:0 0 10px;font-size:15px;color:var(--gold);text-transform:uppercase;letter-spacing:1px}
+  .status{display:inline-flex;align-items:center;gap:8px;font-weight:600}
+  .dot{width:10px;height:10px;border-radius:50%;background:var(--muted);box-shadow:0 0 0 3px rgba(255,255,255,.04)}
+  .dot.on{background:var(--green);box-shadow:0 0 12px var(--green)}
+  .dot.sleep{background:var(--gold);box-shadow:0 0 10px var(--gold2)}
+  .addr{font-family:ui-monospace,Consolas,monospace;background:#0e0b18;border:1px solid var(--line);padding:6px 10px;border-radius:8px;display:inline-block;margin-top:8px;color:var(--gold)}
+  .players{margin:10px 0 0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:6px}
+  .players li{background:#221a38;border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:13px}
+  .rank{margin:0;padding:0;list-style:none}
+  .rank li{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px dashed var(--line)}
+  .rank li:last-child{border-bottom:0}
+  .rank .n{color:var(--muted);width:26px;display:inline-block}
+  .rank .v{color:var(--gold);font-variant-numeric:tabular-nums}
+  .feed{margin:0;padding:0;list-style:none;max-height:420px;overflow:auto}
+  .feed li{padding:7px 0;border-bottom:1px solid var(--line);font-size:14px}
+  .feed time{color:var(--muted);font-size:12px;margin-right:8px;font-variant-numeric:tabular-nums}
+  .tag{font-size:11px;padding:1px 7px;border-radius:6px;margin-right:6px;border:1px solid var(--line);color:var(--muted)}
+  .tag.join{color:var(--green)} .tag.death{color:var(--red)} .tag.logro{color:var(--gold)} .tag.mg{color:var(--blue)}
+  .locked{padding:26px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:12px}
+  .locked b{color:var(--gold)}
+  footer{margin-top:26px;color:var(--muted);font-size:12px;text-align:center}
+  .empty{color:var(--muted);font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="icon.png" alt="">
+    <div>
+      <h1>Prominence II: Hasturian Era</h1>
+      <div class="sub">Estado en vivo · <span id="updated">cargando…</span></div>
+    </div>
+  </header>
+
+  <section class="grid" id="servers"></section>
+
+  <h2 style="color:var(--gold);margin:26px 0 10px;font-size:18px">Rankings semanales</h2>
+  <div id="rankings" class="grid"></div>
+
+  <h2 style="color:var(--gold);margin:26px 0 10px;font-size:18px">Movimientos del mundo</h2>
+  <div class="card"><ul class="feed" id="feed"></ul></div>
+
+  <footer>Se reinicia cada lunes a las 00:05 · Rankings ocultos viernes, sábado y domingo hasta las 14:00 · Actualización automática cada minuto</footer>
+</div>
+
+<script>
+const CATS = [
+  ["playtime","Más horas jugadas"," min"],
+  ["deaths","Muertes",""],
+  ["kills","Cazador (mobs)",""],
+  ["dmgdealt","Matador (daño dado)"," pts"],
+  ["dmgtaken","Encajador (daño recibido)"," pts"],
+  ["distance","Explorador"," m"],
+  ["survivor","Superviviente (sin morir)"," min"],
+  ["achievements","Logros",""]
+];
+const MEDALS = ["🥇","🥈","🥉","4.","5."];
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function serverCard(s){
+  const cls = s.running ? "on" : (s.sleeping ? "sleep" : "");
+  const label = s.running ? "Encendido" : (s.sleeping ? "Dormido — conéctate para despertarlo" : "Apagado");
+  const players = (s.players||[]).length
+    ? `<ul class="players">${s.players.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`
+    : `<div class="empty" style="margin-top:8px">Nadie conectado</div>`;
+  return `<div class="card">
+    <h2>${esc(s.name)}</h2>
+    <div class="status"><span class="dot ${cls}"></span>${label}${s.running?` · ${(s.players||[]).length} online`:""}</div>
+    <div><span class="addr">${esc(s.address)}</span></div>
+    ${players}
+  </div>`;
+}
+
+function rankCard(title, rows, suffix){
+  const body = rows && rows.length
+    ? `<ul class="rank">${rows.slice(0,5).map((r,i)=>`<li><span><span class="n">${MEDALS[i]}</span>${esc(r.name)}</span><span class="v">${r.value}${suffix}</span></li>`).join("")}</ul>`
+    : `<div class="empty">Sin datos todavía esta semana.</div>`;
+  return `<div class="card"><h2>${title}</h2>${body}</div>`;
+}
+
+function render(d){
+  document.getElementById("updated").textContent = "actualizado " + new Date(d.updated_at).toLocaleString("es-ES");
+  document.getElementById("servers").innerHTML = (d.servers||[]).map(serverCard).join("");
+  const rk = document.getElementById("rankings");
+  if (d.rankings_locked){
+    rk.innerHTML = `<div class="locked" style="grid-column:1/-1">🔒 Los rankings están ocultos hasta la <b>revelación del domingo a las 14:00</b>. Mantened la intriga.</div>`;
+  } else {
+    rk.innerHTML = CATS.map(([k,t,s]) => rankCard(t, (d.rankings||{})[k], s)).join("");
+  }
+  const feed = document.getElementById("feed");
+  const ev = d.events||[];
+  feed.innerHTML = ev.length ? ev.map(e=>`<li><time>${esc(e.time)}</time><span class="tag ${esc(e.type)}">${esc(e.type)}</span>${esc(e.text)}</li>`).join("")
+                             : `<li class="empty">Todavía no ha pasado nada esta semana.</li>`;
+}
+
+async function load(){
+  try{
+    const r = await fetch("data.json?t=" + Date.now(), {cache:"no-store"});
+    render(await r.json());
+  }catch(e){ document.getElementById("updated").textContent = "sin datos (aún no publicados)"; }
+}
+load();
+setInterval(load, 60000);
+</script>
+</body>
+</html>
