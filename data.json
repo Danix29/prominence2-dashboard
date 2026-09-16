@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T20:39:44.9297655Z",
+    "updated_at":  "2026-09-16T20:40:58.8784290Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,7 @@
                         "sleeping":  false,
                         "players":  [
                                         "daaviid_2006",
-                                        "Miguelhl",
-                                        "DanixNuts"
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -27,15 +26,15 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  389.5
+                                          "value":  390.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  377.2
+                                          "value":  378.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  368.7
+                                          "value":  369.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -161,11 +160,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  459.1
+                                          "value":  534
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  149.6
+                                          "value":  184
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -187,15 +186,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  10.3
+                                          "value":  11.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  7.7
+                                          "value":  8.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  1.3
+                                          "value":  2.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -234,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 22:40",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
                    {
                        "time":  "16/09 22:38",
                        "type":  "join",
