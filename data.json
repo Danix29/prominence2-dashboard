@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T20:47:08.3092821Z",
+    "updated_at":  "2026-09-16T20:48:22.1824348Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  393.2
+                                          "value":  394.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  384.6
+                                          "value":  385.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -134,7 +134,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  11.1
+                                          "value":  20.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -160,11 +160,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  971.6
+                                          "value":  1158.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  303.3
+                                          "value":  387.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,11 +186,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  15.1
+                                          "value":  16.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  14
+                                          "value":  15.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 22:48",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Path of Archery"
+                   },
                    {
                        "time":  "16/09 22:46",
                        "type":  "mg",
