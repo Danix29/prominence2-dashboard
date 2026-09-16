@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T22:14:50.6650444Z",
+    "updated_at":  "2026-09-16T22:16:04.4709502Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,6 @@
                         "sleeping":  false,
                         "players":  [
                                         "Geltz",
-                                        "Miguelhl",
                                         "daaviid_2006"
                                     ]
                     },
@@ -27,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  479
+                                          "value":  479.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  471.9
+                                          "value":  473.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -39,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  173.8
+                                          "value":  175
                                       },
                                       {
                                           "name":  "lasersub",
@@ -139,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  164.4
+                                          "value":  166.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -157,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8569.2
+                                          "value":  8700.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -169,7 +168,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  3049.3
+                                          "value":  3073.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -183,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  80.4
+                                          "value":  81.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -191,11 +190,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  64.6
+                                          "value":  65.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  50
+                                          "value":  51.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -234,6 +233,31 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 00:15",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:15",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:15",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:15",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:15",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "17/09 00:11",
                        "type":  "logro",
@@ -408,31 +432,6 @@
                        "time":  "16/09 22:45",
                        "type":  "join",
                        "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "16/09 22:42",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha salido de Minijuegos"
-                   },
-                   {
-                       "time":  "16/09 22:42",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "16/09 22:41",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha salido de Minijuegos"
-                   },
-                   {
-                       "time":  "16/09 22:41",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "16/09 22:41",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha salido de Minijuegos"
                    }
                ]
 }
