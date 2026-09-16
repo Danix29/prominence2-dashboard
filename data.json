@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T20:48:22.1824348Z",
+    "updated_at":  "2026-09-16T20:49:36.1070907Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  394.5
+                                          "value":  395.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  385.8
+                                          "value":  387.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -160,11 +160,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1158.2
+                                          "value":  1270.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  387.6
+                                          "value":  492.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,11 +186,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  16.3
+                                          "value":  17.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  15.3
+                                          "value":  16.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -216,7 +216,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  96
+                                              "value":  97
                                           },
                                           {
                                               "name":  "lasersub",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "16/09 22:49",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Weather Warning"
+                   },
                    {
                        "time":  "16/09 22:48",
                        "type":  "logro",
