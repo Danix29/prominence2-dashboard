@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T19:57:32.9070609Z",
+    "updated_at":  "2026-09-16T19:58:47.0684254Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub"
+
                                     ]
                     },
                     {
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  121.4
+                                          "value":  121.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -155,7 +155,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  5140.1
+                                          "value":  5156
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -181,7 +181,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  68.1
+                                          "value":  68.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -233,9 +233,9 @@
                  },
     "events":  [
                    {
-                       "time":  "16/09 21:56",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro What a Deal!"
+                       "time":  "16/09 21:58",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
                    },
                    {
                        "time":  "16/09 21:56",
@@ -245,12 +245,12 @@
                    {
                        "time":  "16/09 21:56",
                        "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Penteconter"
+                       "text":  "lasersub ha conseguido el logro Acquire Hardware"
                    },
                    {
                        "time":  "16/09 21:56",
                        "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Isn\u0027t It Iron Pick"
+                       "text":  "lasersub ha conseguido el logro What a Deal!"
                    },
                    {
                        "time":  "16/09 21:56",
@@ -260,7 +260,7 @@
                    {
                        "time":  "16/09 21:56",
                        "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Cobweb Entanglement"
+                       "text":  "lasersub ha conseguido el logro Penteconter"
                    },
                    {
                        "time":  "16/09 21:56",
@@ -269,13 +269,13 @@
                    },
                    {
                        "time":  "16/09 21:56",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Well prepared"
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
                    },
                    {
                        "time":  "16/09 21:56",
                        "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Acquire Hardware"
+                       "text":  "lasersub ha conseguido el logro Cobweb Entanglement"
                    },
                    {
                        "time":  "16/09 21:56",
@@ -285,7 +285,7 @@
                    {
                        "time":  "16/09 21:56",
                        "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Time to sleep"
+                       "text":  "lasersub ha conseguido el logro Well prepared"
                    },
                    {
                        "time":  "16/09 21:56",
@@ -294,13 +294,13 @@
                    },
                    {
                        "time":  "16/09 21:56",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Swap Tools"
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
                    },
                    {
                        "time":  "16/09 21:56",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Time to sleep"
                    },
                    {
                        "time":  "16/09 21:56",
@@ -310,7 +310,7 @@
                    {
                        "time":  "16/09 21:56",
                        "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Expand functionality"
+                       "text":  "lasersub ha conseguido el logro Swap Tools"
                    },
                    {
                        "time":  "16/09 21:56",
@@ -320,17 +320,22 @@
                    {
                        "time":  "16/09 21:56",
                        "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Base for upgrades"
+                       "text":  "lasersub ha conseguido el logro Isn\u0027t It Iron Pick"
                    },
                    {
                        "time":  "16/09 21:56",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Expand functionality"
                    },
                    {
                        "time":  "16/09 21:56",
                        "type":  "join",
                        "text":  "lasersub ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "16/09 21:56",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Base for upgrades"
                    }
                ]
 }
