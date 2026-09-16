@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T22:16:04.4709502Z",
+    "updated_at":  "2026-09-16T22:17:18.2940094Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  479.8
+                                          "value":  480.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  473.1
+                                          "value":  474.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  175
+                                          "value":  176.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -138,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  166.7
+                                          "value":  167.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -156,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8700.8
+                                          "value":  8766.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -168,7 +168,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  3073.5
+                                          "value":  3103.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  81.7
+                                          "value":  82.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -190,11 +190,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  65.2
+                                          "value":  65.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  51.2
+                                          "value":  52.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -233,6 +233,66 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 00:17",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:17",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:17",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 00:16",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 00:15",
                        "type":  "leave",
@@ -372,66 +432,6 @@
                        "time":  "16/09 23:24",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Enderman"
-                   },
-                   {
-                       "time":  "16/09 23:21",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was shot by Baby Skeleton"
-                   },
-                   {
-                       "time":  "16/09 23:08",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by daaviid_2006"
-                   },
-                   {
-                       "time":  "16/09 23:06",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha salido de Minijuegos"
-                   },
-                   {
-                       "time":  "16/09 23:01",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "16/09 22:55",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha salido de Minijuegos"
-                   },
-                   {
-                       "time":  "16/09 22:54",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "16/09 22:49",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Weather Warning"
-                   },
-                   {
-                       "time":  "16/09 22:48",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Path of Archery"
-                   },
-                   {
-                       "time":  "16/09 22:46",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "16/09 22:45",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "16/09 22:45",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "16/09 22:45",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
