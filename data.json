@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-16T21:09:17.5363231Z",
+    "updated_at":  "2026-09-16T21:10:31.3166769Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -15,7 +15,7 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
 
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  415.4
+                                          "value":  416.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  406.7
+                                          "value":  408
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  108.5
+                                          "value":  109.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -161,15 +161,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  2137
+                                          "value":  2185.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1452.8
+                                          "value":  1551.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  690.5
+                                          "value":  743.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -187,11 +187,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  37.2
+                                          "value":  38.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  15.2
+                                          "value":  16.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1
+                                          "value":  2.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
