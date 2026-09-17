@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:06:58.7618244Z",
+    "updated_at":  "2026-09-17T21:08:12.6753923Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -16,8 +16,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Miguelhl"
                                     ]
                     }
                 ],
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  476.7
+                                          "value":  477.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17511.4
+                                          "value":  17537.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -190,7 +190,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  23.4
+                                          "value":  24.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -233,6 +233,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:08",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha salido de Minijuegos"
+                   },
+                   {
+                       "time":  "17/09 23:08",
+                       "type":  "mg",
+                       "text":  "Miguelhl ha salido de Minijuegos"
+                   },
                    {
                        "time":  "17/09 23:00",
                        "type":  "join",
@@ -417,16 +427,6 @@
                        "time":  "17/09 19:07",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:06",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:06",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Warden"
                    },
                    {
                        "time":  "17/09 19:06",
