@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T19:44:01.7023296Z",
+    "updated_at":  "2026-09-17T20:06:27.1355837Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -16,7 +16,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+
                                     ]
                     }
                 ],
@@ -233,6 +233,11 @@
                  },
     "events":  [
                    {
+                       "time":  "17/09 22:05",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha salido de Minijuegos"
+                   },
+                   {
                        "time":  "17/09 21:43",
                        "type":  "mg",
                        "text":  "DanixNuts ha entrado en Minijuegos"
@@ -426,11 +431,6 @@
                        "time":  "17/09 19:05",
                        "type":  "death",
                        "text":  "Geltz was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:05",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Warden"
                    }
                ]
 }
