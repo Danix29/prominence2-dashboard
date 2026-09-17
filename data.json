@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T14:51:06.2720862Z",
+    "updated_at":  "2026-09-17T14:52:20.5924665Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -16,8 +16,8 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  true,
-                        "sleeping":  false,
+                        "running":  false,
+                        "sleeping":  true,
                         "players":  [
 
                                     ]
@@ -28,7 +28,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  493.4
+                                          "value":  494.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -40,15 +40,15 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  286.8
+                                          "value":  288
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  284.7
+                                          "value":  285.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  249.6
+                                          "value":  250.9
                                       }
                                   ],
                      "deaths":  [
@@ -84,7 +84,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  50
+                                       "value":  51
                                    },
                                    {
                                        "name":  "lasersub",
@@ -92,7 +92,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  32
+                                       "value":  38
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -110,7 +110,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  717.9
+                                          "value":  812.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -118,7 +118,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  575.8
+                                          "value":  630.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -132,7 +132,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  625.2
+                                          "value":  675.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -140,7 +140,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  432.6
+                                          "value":  452.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -158,19 +158,19 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  12656.2
+                                          "value":  12660.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  10115.6
+                                          "value":  10247.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  9990.7
+                                          "value":  10181.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  8406.8
+                                          "value":  8575.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,11 +184,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  196.4
+                                          "value":  197.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  71.5
+                                          "value":  72.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -196,11 +196,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  52
+                                          "value":  53.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  26.7
+                                          "value":  28
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -230,11 +230,16 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  52
+                                              "value":  53
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 16:51",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Dye your backpack!"
+                   },
                    {
                        "time":  "17/09 16:45",
                        "type":  "logro",
@@ -429,11 +434,6 @@
                        "time":  "17/09 15:03",
                        "type":  "leave",
                        "text":  "Dan_niel03 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 15:03",
-                       "type":  "join",
-                       "text":  "Dan_niel03 ha entrado en Prominence II"
                    }
                ]
 }
