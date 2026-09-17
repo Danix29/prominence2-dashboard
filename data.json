@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:34:11.3379765Z",
+    "updated_at":  "2026-09-17T21:35:26.1442788Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz",
                                         "Miguelhl",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  503.2
+                                          "value":  504.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  503.2
+                                          "value":  504.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  370
+                                          "value":  371.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -57,7 +57,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  25
+                                        "value":  26
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -131,7 +131,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3806
+                                          "value":  3906.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -147,7 +147,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  755.5
+                                          "value":  782.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -165,7 +165,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  18284.5
+                                          "value":  18311.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -173,21 +173,17 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  6939.4
+                                          "value":  7044.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  65.5
+                                          "value":  73.3
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  88.8
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  50
+                                          "value":  90
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -203,7 +199,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2.6
+                                          "value":  3.9
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:35",
+                       "type":  "death",
+                       "text":  "Geltz was blown up by Dark Oak Creeper"
+                   },
                    {
                        "time":  "17/09 23:33",
                        "type":  "join",
@@ -428,11 +433,6 @@
                        "time":  "17/09 19:17",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Corrupted Vindicator"
-                   },
-                   {
-                       "time":  "17/09 19:15",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha entrado en Minijuegos"
                    }
                ]
 }
