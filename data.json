@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T13:01:43.0272133Z",
+    "updated_at":  "2026-09-17T13:02:57.3108547Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub",
                                         "Geltz"
                                     ]
                     },
@@ -38,15 +37,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  219.5
+                                          "value":  219.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  217.2
+                                          "value":  217.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  214.3
+                                          "value":  215.5
                                       }
                                   ],
                      "deaths":  [
@@ -172,7 +171,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4206.1
+                                          "value":  4235.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,11 +185,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  121
+                                          "value":  122.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  86.6
+                                          "value":  86.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -233,6 +232,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:01",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 15:01",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 15:01",
                        "type":  "leave",
@@ -422,16 +431,6 @@
                        "time":  "17/09 13:03",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro The Beginning of An Adventure"
-                   },
-                   {
-                       "time":  "17/09 12:55",
-                       "type":  "death",
-                       "text":  "Dan_niel03 fell from a high place"
-                   },
-                   {
-                       "time":  "17/09 12:53",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Unknown Technology"
                    }
                ]
 }
