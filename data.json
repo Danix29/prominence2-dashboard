@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:40:23.0924628Z",
+    "updated_at":  "2026-09-17T21:41:37.2701272Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,7 @@
                         "sleeping":  false,
                         "players":  [
                                         "Miguelhl",
-                                        "Geltz",
-                                        "DanixNuts"
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -31,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  509.4
+                                          "value":  510.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  509.4
+                                          "value":  510.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -87,7 +86,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  93
+                                       "value":  94
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -131,7 +130,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3949.5
+                                          "value":  3959.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -143,7 +142,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  822.5
+                                          "value":  846.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -165,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  18779.6
+                                          "value":  18815.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -173,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  7472.2
+                                          "value":  7542
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -183,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  95
+                                          "value":  96.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -199,7 +198,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  5.2
+                                          "value":  6.4
                                       },
                                       {
                                           "name":  "DanixNuts",
