@@ -14,6 +14,7 @@
     --bg:#0a0810; --stone:#15121f; --stone2:#1d1828; --parch:#efe2c4; --parch2:#d9c79c;
     --line:rgba(217,180,99,.22); --line2:rgba(217,180,99,.55);
     --text:#ece4d2; --muted:#a79b83; --gold:#e6c169; --gold2:#a8842f; --ember:#ff8a3d; --arcane:#9d6bff; --cyan:#4fd8ff; --green:#7ee08a; --red:#ff5c6c;
+    --rose:#ff6fa5; --steel:#8892a6;
     --glow:0 0 26px rgba(230,193,105,.28);
     --display:"Cinzel",serif; --deco:"Cinzel Decorative",serif; --ui:"Rajdhani",system-ui,sans-serif;
   }
@@ -62,9 +63,13 @@
   .card{position:relative;background:linear-gradient(180deg,rgba(29,24,40,.85),rgba(15,12,22,.9));border:1px solid var(--line);border-radius:16px;padding:18px 18px 16px;
     box-shadow:0 12px 40px rgba(0,0,0,.4);transition:transform .2s,border-color .2s}
   .card:hover{transform:translateY(-3px);border-color:var(--line2)}
-  .card::before{content:"";position:absolute;left:14px;right:14px;top:0;height:2px;background:linear-gradient(90deg,transparent,var(--gold),transparent)}
+  .card::before{content:"";position:absolute;left:14px;right:14px;top:0;height:2px;background:linear-gradient(90deg,transparent,var(--accent,var(--gold)),transparent)}
   .card h3{margin:0 0 10px;font:700 14px var(--display);letter-spacing:2px;text-transform:uppercase;color:var(--parch)}
-  .card h3 span{color:var(--gold);margin-right:6px}
+  .card h3 span{color:var(--accent,var(--gold));margin-right:6px}
+  .card.compact{max-width:250px;justify-self:start;padding:14px 14px 12px}
+  .card.compact h3{font-size:13px}
+  .card.compact .rank li{padding:6px 0}
+  .card.compact .rank .v{font-size:15px}
   .status{display:flex;align-items:center;gap:10px;font-weight:600;font-size:17px}
   .dot{width:12px;height:12px;border-radius:50%;background:#4a4455;flex:none}
   .dot.on{background:var(--green);box-shadow:0 0 14px var(--green)}
@@ -80,11 +85,11 @@
   .rank li{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}
   .rank li:last-child{border-bottom:0}
   .rank .n{width:30px;font:700 15px var(--display);color:var(--muted);text-align:center}
-  .rank li:nth-child(1) .n{color:var(--gold);text-shadow:0 0 10px var(--gold)}
+  .rank li:nth-child(1) .n{color:var(--accent,var(--gold));text-shadow:0 0 10px var(--accent,var(--gold))}
   .rank li:nth-child(2) .n{color:#d9dcec} .rank li:nth-child(3) .n{color:#e09a5b}
   .rank .name{flex:1;font-weight:600}
-  .rank .v{color:var(--gold);font-variant-numeric:tabular-nums;font-weight:700}
-  .rank .honor{display:block;font-size:12px;color:var(--arcane);letter-spacing:1px;text-transform:uppercase}
+  .rank .v{color:var(--accent,var(--gold));font-variant-numeric:tabular-nums;font-weight:700}
+  .rank .honor{display:block;font-size:12px;color:var(--accent,var(--arcane));letter-spacing:1px;text-transform:uppercase}
   .feed{margin:0;padding:0;list-style:none;max-height:460px;overflow:auto}
   .feed li{display:flex;align-items:center;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);font-size:16px}
   .feed time{color:var(--muted);font-size:13px;font-variant-numeric:tabular-nums;min-width:74px}
@@ -257,14 +262,14 @@ const GAMES = [
   ["💀","UHC","Sin regeneración; borde de 800 a 60 bloques en 20 min."]
 ];
 const CATS = [
-  ["playtime","⌛ Vigilia del Trono","más horas jugadas"," min","Guardián Insomne"],
-  ["kills","⚔️ Azote de Bestias","criaturas abatidas","","Cazador Real"],
-  ["dmgdealt","🔥 Martillo de Guerra","daño infligido"," pts","Señor de la Batalla"],
-  ["dmgtaken","🛡️ Muro de Escudos","daño encajado"," pts","Yunque del Reino"],
-  ["distance","👢 Errante de los Caminos","distancia recorrida"," m","Explorador de Carcosa"],
-  ["survivor","🕯️ Llama Inextinguible","más tiempo sin caer"," min","Inmortal de la Semana"],
-  ["achievements","⭐ Cronista de Hazañas","logros conseguidos","","Leyenda Viva"],
-  ["deaths","💀 Tributo a la Parca","muertes","","Favorito de la Muerte"]
+  ["playtime","⌛ Vigilia del Trono","más horas jugadas"," min","Guardián Insomne","var(--arcane)",true],
+  ["kills","⚔️ Azote de Bestias","criaturas abatidas","","Cazador Real","var(--red)"],
+  ["dmgdealt","🔥 Martillo de Guerra","daño infligido"," pts","Señor de la Batalla","var(--ember)"],
+  ["dmgtaken","🛡️ Muro de Escudos","daño encajado"," pts","Yunque del Reino","var(--cyan)"],
+  ["distance","👢 Errante de los Caminos","distancia recorrida"," m","Explorador de Carcosa","var(--green)"],
+  ["survivor","🕯️ Llama Inextinguible","más tiempo sin caer"," min","Inmortal de la Semana","var(--rose)"],
+  ["achievements","⭐ Cronista de Hazañas","logros conseguidos","","Leyenda Viva","var(--gold)"],
+  ["deaths","💀 Tributo a la Parca","muertes","","Favorito de la Muerte","var(--steel)"]
 ];
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const head = n => `<img src="https://mc-heads.net/avatar/${encodeURIComponent(n)}/26" alt="" loading="lazy" onerror="this.style.display='none'">`;
@@ -286,11 +291,13 @@ function serverCard(s){
 }
 function copyAddr(el, a){ navigator.clipboard && navigator.clipboard.writeText(a).then(()=>{ el.lastElementChild.textContent="copiado ✓"; setTimeout(()=>el.lastElementChild.textContent="copiar",1500); }); }
 
-function rankCard([key,title,sub,suffix,honor], rows){
+function rankCard([key,title,sub,suffix,honor,color,compact], rows){
   const body = rows && rows.length
     ? `<ul class="rank">${rows.slice(0,5).map((r,i)=>`<li><span class="n">${i+1}</span>${head(r.name)}<span class="name">${esc(r.name)}${i===0?`<span class="honor">${honor}</span>`:""}</span><span class="v">${r.value}${suffix}</span></li>`).join("")}</ul>`
     : `<div class="empty">Nadie ha reclamado este título todavía.</div>`;
-  return `<div class="card"><h3>${title}</h3><div class="meta" style="margin:-6px 0 8px">${sub}</div>${body}</div>`;
+  const cls = "card" + (compact ? " compact" : "");
+  const style = color ? ` style="--accent:${color}"` : "";
+  return `<div class="${cls}"${style}><h3>${title}</h3><div class="meta" style="margin:-6px 0 8px">${sub}</div>${body}</div>`;
 }
 function nextReveal(){
   const n = new Date(); const d = new Date(n); d.setDate(n.getDate() + ((7 - n.getDay()) % 7)); d.setHours(17,0,0,0);
@@ -318,7 +325,7 @@ async function load(){
   catch(e){ document.getElementById("updated").textContent = "sin datos (aún no publicados)"; }
 }
 document.getElementById("games").innerHTML = GAMES.map(([i,n,t])=>`<div class="game"><i>${i}</i><div><b>${n}</b><span>${t}</span></div></div>`).join("");
-document.getElementById("honors").innerHTML = CATS.map(([k,t,s,x,h])=>`<li><b>${h}</b><span>${t.replace(/^\S+\s/,"")} · ${s}</span></li>`).join("");
+document.getElementById("honors").innerHTML = CATS.map(([k,t,s,x,h,c])=>`<li><b style="color:${c||'var(--gold)'}">${h}</b><span>${t.replace(/^\S+\s/,"")} · ${s}</span></li>`).join("");
 
 /* ====== Sorpresa ====== */
 const revealAt = new Date(SURPRISE.revealAt);
