@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:24:17.9256992Z",
+    "updated_at":  "2026-09-17T21:25:32.3354837Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  493.3
+                                          "value":  494.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  493.3
+                                          "value":  494.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  369.8
+                                          "value":  369.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -130,7 +130,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3766.1
+                                          "value":  3798
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  18036.4
+                                          "value":  18146.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  6326.1
+                                          "value":  6414.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,11 +182,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  78.9
+                                          "value":  80.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  40.1
+                                          "value":  41.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -202,7 +202,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2.3
+                                          "value":  2.4
                                       }
                                   ],
                      "achievements":  [
@@ -233,6 +233,41 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:25",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:25",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:25",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:25",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:25",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:25",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:24",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 23:16",
                        "type":  "logro",
@@ -397,41 +432,6 @@
                        "time":  "17/09 19:14",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Acolyte"
-                   },
-                   {
-                       "time":  "17/09 19:12",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Who turned the lights off?"
-                   },
-                   {
-                       "time":  "17/09 19:12",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Wraith"
-                   },
-                   {
-                       "time":  "17/09 19:11",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Wraith"
-                   },
-                   {
-                       "time":  "17/09 19:11",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Wraith"
-                   },
-                   {
-                       "time":  "17/09 19:10",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Iron, but dark"
-                   },
-                   {
-                       "time":  "17/09 19:09",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Taking from the Dead"
-                   },
-                   {
-                       "time":  "17/09 19:08",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Warden"
                    }
                ]
 }
