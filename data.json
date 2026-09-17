@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:45:19.7420668Z",
+    "updated_at":  "2026-09-17T21:46:33.8896371Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  514.4
+                                          "value":  515.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  514.3
+                                          "value":  515.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -130,7 +130,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  4050.6
+                                          "value":  4058.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -142,7 +142,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  869.9
+                                          "value":  934.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  19088.8
+                                          "value":  19167.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  7842.7
+                                          "value":  7895.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  99.9
+                                          "value":  101.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -198,7 +198,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  10.1
+                                          "value":  11.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:46",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Full Moon in a Pocket"
+                   },
                    {
                        "time":  "17/09 23:42",
                        "type":  "logro",
@@ -427,11 +432,6 @@
                        "time":  "17/09 20:35",
                        "type":  "mg",
                        "text":  "DanixNuts ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "17/09 19:55",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
