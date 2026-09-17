@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:52:44.9881582Z",
+    "updated_at":  "2026-09-17T21:53:59.1163944Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  521.8
+                                          "value":  523
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  521.8
+                                          "value":  523
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  377.2
+                                          "value":  378.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -165,7 +165,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  19611.7
+                                          "value":  19682
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -173,29 +173,29 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  8478.5
+                                          "value":  8558.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  165.8
+                                          "value":  213.7
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  107.3
+                                          "value":  108.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
                                           "value":  38.6
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  18.4
+                                          "name":  "Geltz",
+                                          "value":  18.8
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  17.6
+                                          "name":  "lasersub",
+                                          "value":  18.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -203,7 +203,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9.8
+                                          "value":  11.1
                                       }
                                   ],
                      "achievements":  [
@@ -217,7 +217,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  106
+                                              "value":  108
                                           },
                                           {
                                               "name":  "Geltz",
@@ -234,6 +234,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:53",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro The Beginning of An Adventure"
+                   },
+                   {
+                       "time":  "17/09 23:53",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Need A Map?"
+                   },
                    {
                        "time":  "17/09 23:47",
                        "type":  "join",
@@ -421,16 +431,6 @@
                    },
                    {
                        "time":  "17/09 22:05",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha salido de Minijuegos"
-                   },
-                   {
-                       "time":  "17/09 21:43",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "17/09 21:00",
                        "type":  "mg",
                        "text":  "DanixNuts ha salido de Minijuegos"
                    }
