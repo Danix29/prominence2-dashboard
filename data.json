@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T12:48:03.0243135Z",
+    "updated_at":  "2026-09-17T12:49:18.1668603Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -39,15 +39,15 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  212.8
+                                          "value":  214
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  205.8
+                                          "value":  207.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  200.6
+                                          "value":  201.9
                                       }
                                   ],
                      "deaths":  [
@@ -183,15 +183,15 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  152.6
+                                          "value":  153.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  107.3
+                                          "value":  108.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  82.3
+                                          "value":  83.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -221,7 +221,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  54
+                                              "value":  55
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 14:48",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Ice Maze"
+                   },
                    {
                        "time":  "17/09 14:43",
                        "type":  "logro",
@@ -428,11 +433,6 @@
                        "time":  "17/09 00:16",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 00:16",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
                    }
                ]
 }
