@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T13:51:42.0678753Z",
+    "updated_at":  "2026-09-17T13:52:57.1047264Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,11 +38,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  227.6
+                                          "value":  228.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  225.6
+                                          "value":  226.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -112,7 +112,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  401.8
+                                          "value":  405.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  6638.2
+                                          "value":  6702.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4501.6
+                                          "value":  4636.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,7 +186,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  95.1
+                                          "value":  96.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -202,7 +202,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0.7
+                                          "value":  1.9
                                       }
                                   ],
                      "achievements":  [
@@ -233,6 +233,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:52",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro The Lighthouse"
+                   },
+                   {
+                       "time":  "17/09 15:52",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Behind bars"
+                   },
+                   {
+                       "time":  "17/09 15:52",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Cobweb Entanglement"
+                   },
                    {
                        "time":  "17/09 15:51",
                        "type":  "death",
@@ -417,21 +432,6 @@
                        "time":  "17/09 14:43",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Stay dead"
-                   },
-                   {
-                       "time":  "17/09 14:42",
-                       "type":  "join",
-                       "text":  "Dan_niel03 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 14:42",
-                       "type":  "leave",
-                       "text":  "Dan_niel03 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 14:39",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Path of Archery"
                    }
                ]
 }
