@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T17:31:03.6514760Z",
+    "updated_at":  "2026-09-17T17:32:17.5310567Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  649.7
+                                          "value":  651
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -35,11 +35,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  445.7
+                                          "value":  447
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  409.3
+                                          "value":  410.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -157,15 +157,15 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  24043.2
+                                          "value":  24166.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  21236
+                                          "value":  21428.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  15471.9
+                                          "value":  15475.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -183,7 +183,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  356
+                                          "value":  357.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -195,11 +195,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  15.8
+                                          "value":  17.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  12.9
+                                          "value":  14.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -229,11 +229,16 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  57
+                                              "value":  58
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 19:31",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Heart of the Machine"
+                   },
                    {
                        "time":  "17/09 19:23",
                        "type":  "logro",
@@ -428,11 +433,6 @@
                        "time":  "17/09 18:07",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 18:06",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
                    }
                ]
 }
