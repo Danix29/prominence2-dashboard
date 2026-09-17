@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:15:37.8647316Z",
+    "updated_at":  "2026-09-17T21:16:52.2360870Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  484.7
+                                          "value":  485.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  484.6
+                                          "value":  485.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17774.2
+                                          "value":  17805.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5596.9
+                                          "value":  5683.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  70.2
+                                          "value":  71.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -190,7 +190,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  31.4
+                                          "value":  32.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -216,7 +216,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  104
+                                              "value":  105
                                           },
                                           {
                                               "name":  "Geltz",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:16",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Ice Bucket Challenge"
+                   },
                    {
                        "time":  "17/09 23:12",
                        "type":  "logro",
@@ -427,11 +432,6 @@
                        "time":  "17/09 19:08",
                        "type":  "death",
                        "text":  "Geltz was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:08",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Warden"
                    }
                ]
 }
