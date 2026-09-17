@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T16:19:04.2980977Z",
+    "updated_at":  "2026-09-17T16:20:18.4656117Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  578.2
+                                          "value":  579.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  374
+                                          "value":  375.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  337.6
+                                          "value":  338.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -157,15 +157,15 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  18104.2
+                                          "value":  18139.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  16010.7
+                                          "value":  16076.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  12111.7
+                                          "value":  12130.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -183,11 +183,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  284.3
+                                          "value":  285.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  80.7
+                                          "value":  82
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  16.3
+                                          "value":  17.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -229,11 +229,16 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  55
+                                              "value":  56
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 18:19",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Unknown Technology"
+                   },
                    {
                        "time":  "17/09 18:07",
                        "type":  "join",
@@ -428,11 +433,6 @@
                        "time":  "17/09 16:16",
                        "type":  "death",
                        "text":  "Dan_niel03 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "17/09 16:13",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Always Watching"
                    }
                ]
 }
