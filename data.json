@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T12:51:47.1933014Z",
+    "updated_at":  "2026-09-17T12:53:01.5906590Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,7 @@
                         "sleeping":  false,
                         "players":  [
                                         "lasersub",
-                                        "Geltz",
-                                        "Dan_niel03"
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -39,15 +38,15 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  216.5
+                                          "value":  216.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  209.6
+                                          "value":  210.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  204.4
+                                          "value":  205.6
                                       }
                                   ],
                      "deaths":  [
@@ -157,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  10224.8
+                                          "value":  10257.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -173,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  3774.5
+                                          "value":  3795.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -183,15 +182,15 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  156.3
+                                          "value":  157.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  111
+                                          "value":  112.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  86
+                                          "value":  86.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -234,6 +233,41 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 14:52",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 14:52",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 14:52",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 14:52",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 14:51",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 14:51",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 14:51",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
                    {
                        "time":  "17/09 14:48",
                        "type":  "logro",
@@ -398,41 +432,6 @@
                        "time":  "17/09 00:17",
                        "type":  "leave",
                        "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 00:16",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 00:16",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 00:16",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 00:16",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 00:16",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 00:16",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 00:16",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
                    }
                ]
 }
