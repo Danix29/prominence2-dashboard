@@ -1,10 +1,10 @@
 {
-    "updated_at":  "2026-09-17T13:18:59.5243488Z",
+    "updated_at":  "2026-09-17T13:21:16.8578927Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
 
@@ -145,7 +145,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  2.4
+                                          "value":  127.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  86.9
+                                          "value":  87
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -232,6 +232,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:21",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 15:21",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 15:07",
                        "type":  "leave",
@@ -421,16 +431,6 @@
                        "time":  "17/09 13:49",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Time to sleep"
-                   },
-                   {
-                       "time":  "17/09 13:16",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 13:14",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Mine Cells"
                    }
                ]
 }
