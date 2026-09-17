@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T17:45:50.8892437Z",
+    "updated_at":  "2026-09-17T17:47:05.0518855Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -34,11 +34,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  460.5
+                                          "value":  461.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  424.1
+                                          "value":  425.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -156,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  25273.6
+                                          "value":  25371
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17099.4
+                                          "value":  17171.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -194,11 +194,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  9.1
+                                          "value":  10.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  7.3
+                                          "value":  8.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -220,7 +220,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  68
+                                              "value":  69
                                           },
                                           {
                                               "name":  "lasersub",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 19:45",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Ice Bucket Challenge"
+                   },
                    {
                        "time":  "17/09 19:39",
                        "type":  "logro",
@@ -427,11 +432,6 @@
                        "time":  "17/09 18:47",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Sneak 100"
-                   },
-                   {
-                       "time":  "17/09 18:36",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Diamond Tier Upgrade"
                    }
                ]
 }
