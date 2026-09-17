@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T13:50:28.0830885Z",
+    "updated_at":  "2026-09-17T13:51:42.0678753Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,11 +38,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  226.4
+                                          "value":  227.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  224.4
+                                          "value":  225.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  1
+                                        "value":  2
                                     },
                                     {
                                         "name":  "lasersub",
@@ -138,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  205.4
+                                          "value":  256.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  6629.8
+                                          "value":  6638.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4426.6
+                                          "value":  4501.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -185,12 +185,8 @@
                                           "value":  166.2
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  133.1
-                                      },
-                                      {
                                           "name":  "Dan_niel03",
-                                          "value":  93.8
+                                          "value":  95.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -203,6 +199,10 @@
                                       {
                                           "name":  "DanixNuts",
                                           "value":  2.2
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  0.7
                                       }
                                   ],
                      "achievements":  [
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:51",
+                       "type":  "death",
+                       "text":  "Geltz fell from a high place"
+                   },
                    {
                        "time":  "17/09 15:43",
                        "type":  "join",
@@ -427,11 +432,6 @@
                        "time":  "17/09 14:39",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Path of Archery"
-                   },
-                   {
-                       "time":  "17/09 14:28",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
