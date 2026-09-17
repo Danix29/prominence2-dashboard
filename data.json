@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T13:52:57.1047264Z",
+    "updated_at":  "2026-09-17T13:54:11.0367345Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,11 +38,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  228.9
+                                          "value":  230.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  226.8
+                                          "value":  228.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  2
+                                        "value":  3
                                     },
                                     {
                                         "name":  "lasersub",
@@ -94,7 +94,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  9
+                                       "value":  11
                                    },
                                    {
                                        "name":  "DanixNuts",
@@ -120,7 +120,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  175.2
+                                          "value":  223.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -138,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  256.5
+                                          "value":  295.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -146,7 +146,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  129.6
+                                          "value":  140
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  6702.1
+                                          "value":  6846.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4636.8
+                                          "value":  4735.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,7 +186,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  96.3
+                                          "value":  97.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -202,7 +202,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1.9
+                                          "value":  0.3
                                       }
                                   ],
                      "achievements":  [
@@ -220,11 +220,11 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  55
+                                              "value":  57
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  52
+                                              "value":  53
                                           },
                                           {
                                               "name":  "lasersub",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:53",
+                       "type":  "death",
+                       "text":  "Geltz fell from a high place"
+                   },
                    {
                        "time":  "17/09 15:52",
                        "type":  "logro",
@@ -427,11 +432,6 @@
                        "time":  "17/09 14:43",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Source of Evil"
-                   },
-                   {
-                       "time":  "17/09 14:43",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Stay dead"
                    }
                ]
 }
