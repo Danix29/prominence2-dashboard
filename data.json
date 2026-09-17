@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T17:08:35.6781116Z",
+    "updated_at":  "2026-09-17T17:09:50.1604882Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  627.5
+                                          "value":  628.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -35,11 +35,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  423.5
+                                          "value":  424.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  387.1
+                                          "value":  388.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -53,7 +53,7 @@
                      "deaths":  [
                                     {
                                         "name":  "daaviid_2006",
-                                        "value":  37
+                                        "value":  39
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -65,7 +65,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  19
+                                        "value":  20
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -79,11 +79,11 @@
                      "kills":  [
                                    {
                                        "name":  "Geltz",
-                                       "value":  124
+                                       "value":  125
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  109
+                                       "value":  116
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -105,19 +105,19 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3455.5
+                                          "value":  3705.2
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1939.3
+                                          "value":  2112.7
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  1673.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
                                           "value":  1540.6
-                                      },
-                                      {
-                                          "name":  "daaviid_2006",
-                                          "value":  1520.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -131,11 +131,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  2786.5
+                                          "value":  2984.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1769.3
+                                          "value":  1986.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -147,7 +147,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  345.4
+                                          "value":  349
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -157,15 +157,15 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  21818.1
+                                          "value":  22000.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  19330.8
+                                          "value":  19449.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  14176.8
+                                          "value":  14239.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -183,7 +183,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  333.8
+                                          "value":  335
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -199,11 +199,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0.2
+                                          "value":  1.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  0
+                                          "value":  0.7
                                       }
                                   ],
                      "achievements":  [
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 19:09",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Taking from the Dead"
+                   },
                    {
                        "time":  "17/09 19:08",
                        "type":  "death",
@@ -428,11 +433,6 @@
                        "time":  "17/09 17:50",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Taste for Blood"
-                   },
-                   {
-                       "time":  "17/09 17:49",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Path of Strength"
                    }
                ]
 }
