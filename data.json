@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T22:15:00.8151984Z",
+    "updated_at":  "2026-09-17T22:16:15.4988717Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  544.1
+                                          "value":  545.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  542.1
+                                          "value":  543.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  399.5
+                                          "value":  400.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -131,7 +131,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  4474.3
+                                          "value":  4480.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -165,7 +165,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  21128.7
+                                          "value":  21224.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -173,25 +173,25 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  9928.2
+                                          "value":  9944.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  1201.1
+                                          "value":  1253.8
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  127.6
+                                          "value":  128.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  39.8
+                                          "value":  41.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  32.1
+                                          "value":  33.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  110
+                                              "value":  111
                                           },
                                           {
                                               "name":  "Geltz",
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 00:15",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Bright-o-Vision"
+                   },
                    {
                        "time":  "18/09 00:07",
                        "type":  "leave",
@@ -428,11 +433,6 @@
                        "time":  "17/09 23:10",
                        "type":  "join",
                        "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 23:10",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
