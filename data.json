@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T13:02:57.3108547Z",
+    "updated_at":  "2026-09-17T13:04:11.7035137Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -41,11 +41,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  217.3
+                                          "value":  217.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  215.5
+                                          "value":  216.8
                                       }
                                   ],
                      "deaths":  [
@@ -171,7 +171,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4235.7
+                                          "value":  4256.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -185,11 +185,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  122.2
+                                          "value":  123.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  86.7
+                                          "value":  86.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -232,6 +232,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:03",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 15:03",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 15:01",
                        "type":  "leave",
@@ -421,16 +431,6 @@
                        "time":  "17/09 13:04",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Diamonds!"
-                   },
-                   {
-                       "time":  "17/09 13:03",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro A Nice-y Look"
-                   },
-                   {
-                       "time":  "17/09 13:03",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro The Beginning of An Adventure"
                    }
                ]
 }
