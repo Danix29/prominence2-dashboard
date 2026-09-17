@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:25:32.3354837Z",
+    "updated_at":  "2026-09-17T21:26:46.4163359Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  494.6
+                                          "value":  495.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  494.5
+                                          "value":  495.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  369.9
+                                          "value":  370
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -130,7 +130,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3798
+                                          "value":  3806
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  18146.7
+                                          "value":  18208.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  6414.2
+                                          "value":  6525
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,11 +182,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  80.1
+                                          "value":  81.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  41.3
+                                          "value":  42.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:25",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
                    {
                        "time":  "17/09 23:25",
                        "type":  "join",
@@ -422,11 +427,6 @@
                        "time":  "17/09 19:14",
                        "type":  "death",
                        "text":  "Geltz was slain by Acolyte"
-                   },
-                   {
-                       "time":  "17/09 19:14",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Acolyte"
                    },
                    {
                        "time":  "17/09 19:14",
