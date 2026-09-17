@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T17:14:47.3410243Z",
+    "updated_at":  "2026-09-17T17:16:02.7902749Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,15 +8,15 @@
                         "sleeping":  false,
                         "players":  [
                                         "lasersub",
-                                        "Geltz",
-                                        "daaviid_2006"
+                                        "daaviid_2006",
+                                        "Geltz"
                                     ]
                     },
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
                         "running":  false,
-                        "sleeping":  true,
+                        "sleeping":  false,
                         "players":  [
 
                                     ]
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  633.7
+                                          "value":  634.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -35,11 +35,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  429.7
+                                          "value":  431
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  393.3
+                                          "value":  394.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -53,7 +53,7 @@
                      "deaths":  [
                                     {
                                         "name":  "daaviid_2006",
-                                        "value":  43
+                                        "value":  44
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -61,7 +61,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  23
+                                        "value":  24
                                     },
                                     {
                                         "name":  "DanixNuts",
@@ -79,11 +79,11 @@
                      "kills":  [
                                    {
                                        "name":  "lasersub",
-                                       "value":  138
+                                       "value":  148
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  131
+                                       "value":  132
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -105,11 +105,11 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3880.1
+                                          "value":  3943.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2621.5
+                                          "value":  2885.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -131,11 +131,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3431.5
+                                          "value":  3515.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  2369.1
+                                          "value":  2436.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -147,7 +147,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  423.5
+                                          "value":  455.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -157,15 +157,15 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  22609.9
+                                          "value":  22831.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  20126.1
+                                          "value":  20253.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  14750.8
+                                          "value":  14928.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -183,7 +183,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  340
+                                          "value":  341.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -198,12 +198,12 @@
                                           "value":  2.2
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  0.7
+                                          "name":  "daaviid_2006",
+                                          "value":  1.3
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  0
+                                          "name":  "Geltz",
+                                          "value":  1.1
                                       }
                                   ],
                      "achievements":  [
@@ -234,6 +234,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 19:15",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "17/09 19:14",
+                       "type":  "death",
+                       "text":  "Geltz was slain by Acolyte"
+                   },
                    {
                        "time":  "17/09 19:14",
                        "type":  "death",
@@ -423,16 +433,6 @@
                        "time":  "17/09 18:03",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Sinister Intentions"
-                   },
-                   {
-                       "time":  "17/09 18:02",
-                       "type":  "death",
-                       "text":  "Geltz fell from a high place"
-                   },
-                   {
-                       "time":  "17/09 18:02",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro The Secrets of Enchanting"
                    }
                ]
 }
