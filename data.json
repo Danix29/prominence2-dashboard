@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T15:59:15.2618070Z",
+    "updated_at":  "2026-09-17T16:00:29.4460342Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  561.5
+                                          "value":  562.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -39,11 +39,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  354.2
+                                          "value":  355.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  317.8
+                                          "value":  319
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -79,7 +79,7 @@
                      "kills":  [
                                    {
                                        "name":  "Geltz",
-                                       "value":  100
+                                       "value":  102
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -105,7 +105,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  2245.3
+                                          "value":  2287.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -131,7 +131,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1043.5
+                                          "value":  1064.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -157,11 +157,11 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  17278.9
+                                          "value":  17352.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  14989.7
+                                          "value":  15104
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -169,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  10861.8
+                                          "value":  10966.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -183,7 +183,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  264.5
+                                          "value":  265.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -191,11 +191,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  64.1
+                                          "value":  65.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  42.5
+                                          "value":  43.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -209,7 +209,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  138
+                                              "value":  139
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 18:00",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Local Librarian"
+                   },
                    {
                        "time":  "17/09 17:55",
                        "type":  "logro",
@@ -428,11 +433,6 @@
                        "time":  "17/09 15:52",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Cobweb Entanglement"
-                   },
-                   {
-                       "time":  "17/09 15:51",
-                       "type":  "death",
-                       "text":  "Geltz fell from a high place"
                    }
                ]
 }
