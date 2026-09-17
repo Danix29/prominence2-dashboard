@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:10:40.5222966Z",
+    "updated_at":  "2026-09-17T21:11:55.3726161Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Geltz",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -28,12 +29,12 @@
                                           "value":  652.2
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  480.2
+                                          "name":  "Geltz",
+                                          "value":  481
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  480
+                                          "name":  "Miguelhl",
+                                          "value":  480.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -81,7 +82,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  143
+                                       "value":  144
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -103,7 +104,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  4219.2
+                                          "value":  4249.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -129,7 +130,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3694.3
+                                          "value":  3747.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -163,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17622
+                                          "value":  17704.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -171,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5359.3
+                                          "value":  5407.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -181,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  65.6
+                                          "value":  66.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -189,7 +190,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  26.6
+                                          "value":  27.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -219,7 +220,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  69
+                                              "value":  70
                                           },
                                           {
                                               "name":  "lasersub",
@@ -232,6 +233,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:11",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Peekaboo, I (still) see you!"
+                   },
+                   {
+                       "time":  "17/09 23:11",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:10",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 23:10",
                        "type":  "leave",
@@ -414,21 +430,6 @@
                    },
                    {
                        "time":  "17/09 19:08",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:08",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:08",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:07",
                        "type":  "death",
                        "text":  "Geltz was slain by Warden"
                    }
