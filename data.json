@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T13:05:25.8188817Z",
+    "updated_at":  "2026-09-17T13:06:40.9416101Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -41,7 +41,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  218
+                                          "value":  219.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -171,7 +171,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4264.2
+                                          "value":  4266.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -185,11 +185,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  124.7
+                                          "value":  125.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  86.8
+                                          "value":  86.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -232,6 +232,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:05",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 15:05",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 15:03",
                        "type":  "leave",
@@ -421,16 +431,6 @@
                        "time":  "17/09 13:06",
                        "type":  "death",
                        "text":  "Dan_niel03 was shot by Skeleton"
-                   },
-                   {
-                       "time":  "17/09 13:04",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Heart of the Machine"
-                   },
-                   {
-                       "time":  "17/09 13:04",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Diamonds!"
                    }
                ]
 }
