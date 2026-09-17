@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T12:57:59.1289333Z",
+    "updated_at":  "2026-09-17T12:59:13.4936488Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -42,11 +42,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  215.8
+                                          "value":  217
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  210.6
+                                          "value":  211.8
                                       }
                                   ],
                      "deaths":  [
@@ -156,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  10458.4
+                                          "value":  10468.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4071.4
+                                          "value":  4094.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,11 +182,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  162.5
+                                          "value":  163.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  117.2
+                                          "value":  118.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -228,11 +228,16 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  49
+                                              "value":  50
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 14:58",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Cover Me with Diamonds"
+                   },
                    {
                        "time":  "17/09 14:56",
                        "type":  "leave",
@@ -427,11 +432,6 @@
                        "time":  "17/09 12:49",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Best Friends Forever"
-                   },
-                   {
-                       "time":  "17/09 00:32",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha salido de Minijuegos"
                    }
                ]
 }
