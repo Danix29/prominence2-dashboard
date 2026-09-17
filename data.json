@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:13:09.4466349Z",
+    "updated_at":  "2026-09-17T21:14:23.5349117Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -14,8 +14,8 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  true,
-                        "sleeping":  false,
+                        "running":  false,
+                        "sleeping":  true,
                         "players":  [
 
                                     ]
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  482.2
+                                          "value":  483.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  482.2
+                                          "value":  483.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17723.2
+                                          "value":  17771.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  67.7
+                                          "value":  69
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -190,7 +190,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  28.9
+                                          "value":  30.2
                                       },
                                       {
                                           "name":  "lasersub",
