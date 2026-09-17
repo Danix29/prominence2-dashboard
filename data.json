@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T17:39:40.2435117Z",
+    "updated_at":  "2026-09-17T17:40:54.3772600Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -14,8 +14,8 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  true,
-                        "sleeping":  false,
+                        "running":  false,
+                        "sleeping":  true,
                         "players":  [
 
                                     ]
@@ -34,11 +34,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  454.3
+                                          "value":  455.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  417.9
+                                          "value":  419.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -156,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  24971.7
+                                          "value":  24975.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  16008.6
+                                          "value":  16283.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -194,15 +194,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2.9
+                                          "value":  4.2
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  2.3
                                       },
                                       {
                                           "name":  "DanixNuts",
                                           "value":  2.2
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  1.1
                                       }
                                   ],
                      "achievements":  [
@@ -223,16 +223,21 @@
                                               "value":  68
                                           },
                                           {
-                                              "name":  "Dan_niel03",
-                                              "value":  58
+                                              "name":  "lasersub",
+                                              "value":  59
                                           },
                                           {
-                                              "name":  "lasersub",
+                                              "name":  "Dan_niel03",
                                               "value":  58
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 19:39",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Ice Bucket Challenge"
+                   },
                    {
                        "time":  "17/09 19:38",
                        "type":  "death",
@@ -427,11 +432,6 @@
                        "time":  "17/09 18:36",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Diamond Tier Upgrade"
-                   },
-                   {
-                       "time":  "17/09 18:34",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Expand functionality"
                    }
                ]
 }
