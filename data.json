@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T18:35:27.7297819Z",
+    "updated_at":  "2026-09-17T19:00:55.8551477Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -16,7 +16,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+
                                     ]
                     }
                 ],
@@ -233,6 +233,11 @@
                  },
     "events":  [
                    {
+                       "time":  "17/09 21:00",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha salido de Minijuegos"
+                   },
+                   {
                        "time":  "17/09 20:35",
                        "type":  "mg",
                        "text":  "DanixNuts ha entrado en Minijuegos"
@@ -426,11 +431,6 @@
                        "time":  "17/09 19:03",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Sneak 100"
-                   },
-                   {
-                       "time":  "17/09 19:00",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Into Darkness"
                    }
                ]
 }
