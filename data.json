@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T16:05:26.8039612Z",
+    "updated_at":  "2026-09-17T16:06:40.9638877Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub",
-                                        "Geltz"
+                                        "Geltz",
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -38,11 +38,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  360.4
+                                          "value":  361.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  324
+                                          "value":  325.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -156,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  17599.6
+                                          "value":  17664.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  11461.8
+                                          "value":  11593.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  270.7
+                                          "value":  271.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -198,7 +198,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  2.7
+                                          "value":  4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -233,6 +233,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 18:06",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 18:05",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "17/09 18:04",
                        "type":  "leave",
@@ -422,16 +432,6 @@
                        "time":  "17/09 16:11",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Cover Me with Diamonds"
-                   },
-                   {
-                       "time":  "17/09 16:02",
-                       "type":  "death",
-                       "text":  "Dan_niel03 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "17/09 15:58",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Bear"
                    }
                ]
 }
