@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T13:06:40.9416101Z",
+    "updated_at":  "2026-09-17T13:07:55.1288723Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+
                                     ]
                     },
                     {
@@ -36,12 +36,12 @@
                                           "value":  369.8
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  219.6
+                                          "name":  "Geltz",
+                                          "value":  220
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  219.3
+                                          "name":  "lasersub",
+                                          "value":  219.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -171,7 +171,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4266.5
+                                          "value":  4275.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -185,7 +185,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  125.9
+                                          "value":  126.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -232,6 +232,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:07",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "17/09 15:05",
                        "type":  "leave",
@@ -426,11 +431,6 @@
                        "time":  "17/09 13:14",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Mine Cells"
-                   },
-                   {
-                       "time":  "17/09 13:06",
-                       "type":  "death",
-                       "text":  "Dan_niel03 was shot by Skeleton"
                    }
                ]
 }
