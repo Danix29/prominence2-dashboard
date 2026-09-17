@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T17:54:30.3815934Z",
+    "updated_at":  "2026-09-17T17:55:44.5536762Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub",
-                                        "Geltz"
+
                                     ]
                     },
                     {
@@ -34,11 +33,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  469.2
+                                          "value":  470.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  432.7
+                                          "value":  433.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -108,7 +107,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3329
+                                          "value":  3329.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -130,7 +129,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3694.1
+                                          "value":  3694.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -156,7 +155,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  25842.6
+                                          "value":  25905.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -164,7 +163,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17316.8
+                                          "value":  17356.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -190,11 +189,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  17.8
+                                          "value":  18.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  15.9
+                                          "value":  16.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -233,6 +232,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 19:55",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 19:55",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "17/09 19:45",
                        "type":  "logro",
@@ -422,16 +431,6 @@
                        "time":  "17/09 18:56",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Gravedigger"
-                   },
-                   {
-                       "time":  "17/09 18:48",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Taking from the Dead"
-                   },
-                   {
-                       "time":  "17/09 18:47",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Sneak 100"
                    }
                ]
 }
