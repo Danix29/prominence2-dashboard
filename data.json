@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T14:12:44.6296274Z",
+    "updated_at":  "2026-09-17T14:13:58.3542590Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,11 +38,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  248.4
+                                          "value":  249.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  246.3
+                                          "value":  247.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -138,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  343.3
+                                          "value":  348.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -164,11 +164,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  7824
+                                          "value":  7856
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  6723.7
+                                          "value":  6876.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -194,11 +194,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  13.7
+                                          "value":  14.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  9.8
+                                          "value":  11
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -224,7 +224,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  54
+                                              "value":  55
                                           },
                                           {
                                               "name":  "lasersub",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 16:13",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Always Watching"
+                   },
                    {
                        "time":  "17/09 16:11",
                        "type":  "logro",
@@ -427,11 +432,6 @@
                        "time":  "17/09 14:52",
                        "type":  "join",
                        "text":  "Dan_niel03 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 14:51",
-                       "type":  "leave",
-                       "text":  "Dan_niel03 ha salido de Prominence II"
                    }
                ]
 }
