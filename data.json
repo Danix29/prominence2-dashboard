@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T18:01:36.9509186Z",
+    "updated_at":  "2026-09-17T18:35:27.7297819Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -13,10 +13,10 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  false,
-                        "sleeping":  true,
+                        "running":  true,
+                        "sleeping":  false,
                         "players":  [
-
+                                        "DanixNuts"
                                     ]
                     }
                 ],
@@ -233,6 +233,11 @@
                  },
     "events":  [
                    {
+                       "time":  "17/09 20:35",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha entrado en Minijuegos"
+                   },
+                   {
                        "time":  "17/09 19:55",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
@@ -426,11 +431,6 @@
                        "time":  "17/09 19:00",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Into Darkness"
-                   },
-                   {
-                       "time":  "17/09 18:56",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Gravedigger"
                    }
                ]
 }
