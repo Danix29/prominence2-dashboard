@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:11:55.3726161Z",
+    "updated_at":  "2026-09-17T21:13:09.4466349Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  481
+                                          "value":  482.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  480.9
+                                          "value":  482.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17704.6
+                                          "value":  17723.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5407.1
+                                          "value":  5446.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  66.5
+                                          "value":  67.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -190,7 +190,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  27.7
+                                          "value":  28.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -216,7 +216,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  103
+                                              "value":  104
                                           },
                                           {
                                               "name":  "Geltz",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:12",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Lethal Shots"
+                   },
                    {
                        "time":  "17/09 23:11",
                        "type":  "logro",
@@ -427,11 +432,6 @@
                        "time":  "17/09 19:08",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:08",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Warden"
                    }
                ]
 }
