@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:41:37.2701272Z",
+    "updated_at":  "2026-09-17T21:42:51.4502471Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  510.7
+                                          "value":  511.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  510.6
+                                          "value":  511.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  372.5
+                                          "value":  372.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -82,11 +82,11 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  144
+                                       "value":  145
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  94
+                                       "value":  95
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -104,7 +104,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  4249.7
+                                          "value":  4309.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -130,7 +130,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  3959.6
+                                          "value":  4014
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -142,7 +142,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  846.2
+                                          "value":  869.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  18815.4
+                                          "value":  18915.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  7542
+                                          "value":  7643.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  96.2
+                                          "value":  97.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -198,11 +198,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  6.4
+                                          "value":  7.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  4.9
+                                          "value":  5.1
                                       }
                                   ],
                      "achievements":  [
@@ -220,7 +220,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  70
+                                              "value":  71
                                           },
                                           {
                                               "name":  "lasersub",
@@ -233,6 +233,41 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:42",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Chest Slayer"
+                   },
+                   {
+                       "time":  "17/09 23:42",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:41",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:41",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:41",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:41",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:41",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 23:40",
                        "type":  "leave",
@@ -397,41 +432,6 @@
                        "time":  "17/09 19:55",
                        "type":  "leave",
                        "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 19:45",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Ice Bucket Challenge"
-                   },
-                   {
-                       "time":  "17/09 19:39",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Ice Bucket Challenge"
-                   },
-                   {
-                       "time":  "17/09 19:38",
-                       "type":  "death",
-                       "text":  "Geltz was blown up by Skeleton Creeper"
-                   },
-                   {
-                       "time":  "17/09 19:36",
-                       "type":  "death",
-                       "text":  "lasersub was blown up by Creeper"
-                   },
-                   {
-                       "time":  "17/09 19:35",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha salido de Minijuegos"
-                   },
-                   {
-                       "time":  "17/09 19:33",
-                       "type":  "leave",
-                       "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 19:31",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Heart of the Machine"
                    }
                ]
 }
