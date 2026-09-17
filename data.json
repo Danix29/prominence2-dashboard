@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T13:21:16.8578927Z",
+    "updated_at":  "2026-09-17T13:22:31.0642424Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -45,7 +45,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  217.5
+                                          "value":  217.8
                                       }
                                   ],
                      "deaths":  [
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  87
+                                          "value":  87.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -232,6 +232,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 15:21",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 15:21",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 15:21",
                        "type":  "leave",
@@ -421,16 +431,6 @@
                        "time":  "17/09 14:07",
                        "type":  "leave",
                        "text":  "Dan_niel03 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 14:07",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 13:49",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Time to sleep"
                    }
                ]
 }
