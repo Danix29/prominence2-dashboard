@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T16:47:32.5939421Z",
+    "updated_at":  "2026-09-17T16:48:46.7743446Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  606.5
+                                          "value":  607.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  402.5
+                                          "value":  403.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  366
+                                          "value":  367.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -95,7 +95,7 @@
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  24
+                                       "value":  25
                                    },
                                    {
                                        "name":  "DanixNuts",
@@ -121,7 +121,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  527.5
+                                          "value":  561.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -139,7 +139,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  721.7
+                                          "value":  762.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -157,15 +157,15 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  19936.3
+                                          "value":  19986
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  18184.4
+                                          "value":  18214.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  13299.3
+                                          "value":  13371.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -183,11 +183,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  312.8
+                                          "value":  314
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  109
+                                          "value":  110.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -195,7 +195,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  44.8
+                                          "value":  46
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -209,7 +209,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  141
+                                              "value":  143
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -234,6 +234,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 18:48",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Taking from the Dead"
+                   },
+                   {
+                       "time":  "17/09 18:47",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Sneak 100"
+                   },
                    {
                        "time":  "17/09 18:36",
                        "type":  "logro",
@@ -423,16 +433,6 @@
                        "time":  "17/09 16:20",
                        "type":  "join",
                        "text":  "lasersub ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 16:20",
-                       "type":  "death",
-                       "text":  "Dan_niel03 was blown up by Grenadier"
-                   },
-                   {
-                       "time":  "17/09 16:19",
-                       "type":  "death",
-                       "text":  "Dan_niel03 was slain by Leaping Zombie"
                    }
                ]
 }
