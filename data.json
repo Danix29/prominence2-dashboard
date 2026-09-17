@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T21:09:26.4768817Z",
+    "updated_at":  "2026-09-17T21:10:40.5222966Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+
                                     ]
                     },
                     {
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  479.1
+                                          "value":  480
                                       },
                                       {
                                           "name":  "lasersub",
@@ -163,7 +163,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17582
+                                          "value":  17622
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  25.9
+                                          "value":  26.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -201,7 +201,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2.2
+                                          "value":  2.3
                                       }
                                   ],
                      "achievements":  [
@@ -232,6 +232,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 23:10",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:09",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "17/09 23:09",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
                    {
                        "time":  "17/09 23:08",
                        "type":  "mg",
@@ -414,21 +429,6 @@
                    },
                    {
                        "time":  "17/09 19:07",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:07",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:07",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Warden"
-                   },
-                   {
-                       "time":  "17/09 19:06",
                        "type":  "death",
                        "text":  "Geltz was slain by Warden"
                    }
