@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T14:18:59.3868125Z",
+    "updated_at":  "2026-09-17T14:20:14.2094618Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,11 +38,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  254.7
+                                          "value":  255.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  252.6
+                                          "value":  253.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -64,7 +64,7 @@
                                     },
                                     {
                                         "name":  "Dan_niel03",
-                                        "value":  11
+                                        "value":  13
                                     },
                                     {
                                         "name":  "Geltz",
@@ -82,7 +82,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  34
+                                       "value":  35
                                    },
                                    {
                                        "name":  "lasersub",
@@ -94,7 +94,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  16
+                                       "value":  18
                                    },
                                    {
                                        "name":  "DanixNuts",
@@ -116,7 +116,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  322.7
+                                          "value":  362.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -133,16 +133,16 @@
                                           "value":  621.5
                                       },
                                       {
+                                          "name":  "Dan_niel03",
+                                          "value":  401.7
+                                      },
+                                      {
                                           "name":  "daaviid_2006",
                                           "value":  375.2
                                       },
                                       {
                                           "name":  "Geltz",
                                           "value":  348.5
-                                      },
-                                      {
-                                          "name":  "Dan_niel03",
-                                          "value":  329.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -164,11 +164,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  8265
+                                          "value":  8380.2
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  6934
+                                          "value":  6967
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -194,7 +194,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  19.9
+                                          "value":  21.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -202,7 +202,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  0.7
+                                          "value":  0.5
                                       }
                                   ],
                      "achievements":  [
@@ -233,6 +233,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 16:19",
+                       "type":  "death",
+                       "text":  "Dan_niel03 was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "17/09 16:19",
+                       "type":  "death",
+                       "text":  "Dan_niel03 was slain by Leaping Zombie"
+                   },
                    {
                        "time":  "17/09 16:18",
                        "type":  "death",
@@ -420,16 +430,6 @@
                    },
                    {
                        "time":  "17/09 14:54",
-                       "type":  "leave",
-                       "text":  "Dan_niel03 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 14:54",
-                       "type":  "join",
-                       "text":  "Dan_niel03 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 14:52",
                        "type":  "leave",
                        "text":  "Dan_niel03 ha salido de Prominence II"
                    }
