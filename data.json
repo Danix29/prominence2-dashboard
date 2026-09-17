@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-17T17:34:45.0926404Z",
+    "updated_at":  "2026-09-17T17:35:58.9754472Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -17,7 +17,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+
                                     ]
                     }
                 ],
@@ -34,11 +34,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  449.4
+                                          "value":  450.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  413
+                                          "value":  414.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -156,7 +156,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  24441.3
+                                          "value":  24572
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  15643
+                                          "value":  15671.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -182,7 +182,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  359.7
+                                          "value":  360.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -194,7 +194,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  19.5
+                                          "value":  20.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -233,6 +233,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "17/09 19:35",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha salido de Minijuegos"
+                   },
                    {
                        "time":  "17/09 19:33",
                        "type":  "leave",
@@ -427,11 +432,6 @@
                        "time":  "17/09 18:32",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 18:19",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Unknown Technology"
                    }
                ]
 }
