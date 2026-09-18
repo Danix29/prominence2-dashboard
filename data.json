@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T18:20:14.5577566Z",
+    "updated_at":  "2026-09-18T18:21:30.8841737Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -72,7 +72,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  35
+                                        "value":  38
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -150,7 +150,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  6436.7
+                                          "value":  6800.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -180,11 +180,11 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  37835.4
+                                          "value":  37927.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  37422.2
+                                          "value":  37518
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,37 +192,37 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  32002.7
+                                          "value":  32120.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  27222.8
+                                          "value":  27285.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  26091.2
+                                          "value":  26104.6
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5736.5
+                                          "value":  5846.7
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  154.1
+                                          "value":  155.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  131
+                                          "value":  132.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  69.4
+                                          "value":  70.7
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  53.3
+                                          "value":  54.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -230,11 +230,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  6.3
+                                          "value":  7.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0.7
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -269,6 +269,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 20:21",
+                       "type":  "death",
+                       "text":  "Geltz fell from a high place"
+                   },
+                   {
+                       "time":  "18/09 20:20",
+                       "type":  "death",
+                       "text":  "Geltz fell from a high place"
+                   },
+                   {
+                       "time":  "18/09 20:20",
+                       "type":  "death",
+                       "text":  "Geltz fell from a high place"
+                   },
                    {
                        "time":  "18/09 20:19",
                        "type":  "death",
@@ -453,21 +468,6 @@
                        "time":  "18/09 18:31",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Fallen Sorcerer"
-                   },
-                   {
-                       "time":  "18/09 18:26",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro LIMITED POWER!"
-                   },
-                   {
-                       "time":  "18/09 18:26",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Cover Me with Diamonds"
-                   },
-                   {
-                       "time":  "18/09 18:21",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Not So Sticky"
                    }
                ]
 }
