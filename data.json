@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T19:35:08.8630510Z",
+    "updated_at":  "2026-09-18T19:36:24.8624282Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -103,7 +103,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  155
+                                       "value":  156
                                    },
                                    {
                                        "name":  "DanixNuts",
@@ -129,7 +129,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  3583.7
+                                          "value":  3614.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7097
+                                          "value":  7101
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -163,7 +163,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  3929.6
+                                          "value":  3934.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  41640.1
+                                          "value":  41691.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -193,11 +193,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  31154.3
+                                          "value":  31236.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  30319.5
+                                          "value":  30377.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -211,7 +211,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  66.2
+                                          "value":  67.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -223,11 +223,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  13.4
+                                          "value":  14.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  12
+                                          "value":  13.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -249,11 +249,11 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  91
+                                              "value":  92
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  76
+                                              "value":  77
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 21:35",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Quite the Renovation"
+                   },
+                   {
+                       "time":  "18/09 21:35",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Quite the Renovation"
+                   },
                    {
                        "time":  "18/09 21:27",
                        "type":  "logro",
@@ -455,16 +465,6 @@
                        "time":  "18/09 20:02",
                        "type":  "leave",
                        "text":  "DanixNuts ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "18/09 19:59",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "18/09 19:58",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
                    }
                ]
 }
