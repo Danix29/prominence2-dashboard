@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:30:59.5144895Z",
+    "updated_at":  "2026-09-18T16:32:15.8355872Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -88,7 +88,7 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  263
+                                       "value":  269
                                    },
                                    {
                                        "name":  "Geltz",
@@ -138,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2397.8
+                                          "value":  2494.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -186,19 +186,19 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  31597.2
+                                          "value":  31685.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24666
+                                          "value":  24760.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  21185
+                                          "value":  21305
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  20388.1
+                                          "value":  20444.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -212,19 +212,19 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  45.5
+                                          "value":  46.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  39.4
+                                          "value":  40.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  34.5
+                                          "value":  35.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  22.5
+                                          "value":  23.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -246,7 +246,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  127
+                                              "value":  129
                                           },
                                           {
                                               "name":  "Geltz",
@@ -267,6 +267,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:31",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Fortune Seeker"
+                   },
+                   {
+                       "time":  "18/09 18:31",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Fallen Sorcerer"
+                   },
                    {
                        "time":  "18/09 18:26",
                        "type":  "logro",
@@ -456,16 +466,6 @@
                        "time":  "18/09 13:23",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Sweet Dreams"
-                   },
-                   {
-                       "time":  "18/09 13:23",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Wax Off"
-                   },
-                   {
-                       "time":  "18/09 13:22",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Custom Backpacks"
                    }
                ]
 }
