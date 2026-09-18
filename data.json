@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:30:38.4937627Z",
+    "updated_at":  "2026-09-18T21:31:54.5579507Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -213,19 +214,19 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  106.5
+                                          "value":  107.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
                                           "value":  78.1
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  39
+                                          "name":  "Wenza06",
+                                          "value":  39.3
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  38.9
+                                          "name":  "Miguelhl",
+                                          "value":  39
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:31",
+                       "type":  "join",
+                       "text":  "Wenza06 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "18/09 23:29",
                        "type":  "logro",
@@ -458,11 +464,6 @@
                        "time":  "18/09 20:31",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Source of Evil"
-                   },
-                   {
-                       "time":  "18/09 20:31",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Walking Dead"
                    }
                ]
 }
