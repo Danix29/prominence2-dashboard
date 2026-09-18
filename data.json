@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T22:29:03.8153562Z",
+    "updated_at":  "2026-09-18T22:30:19.8401951Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06"
+
                                     ]
                     },
                     {
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  15.5
+                                          "value":  16.1
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 00:29",
+                       "type":  "leave",
+                       "text":  "Wenza06 ha salido de Prominence II"
+                   },
                    {
                        "time":  "19/09 00:13",
                        "type":  "death",
@@ -458,11 +463,6 @@
                        "time":  "18/09 20:51",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Accelerator is an understatement"
-                   },
-                   {
-                       "time":  "18/09 20:50",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Enderman"
                    }
                ]
 }
