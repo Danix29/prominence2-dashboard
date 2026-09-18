@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T18:12:38.0758101Z",
+    "updated_at":  "2026-09-18T18:13:54.0982867Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,11 +8,11 @@
                         "sleeping":  false,
                         "players":  [
                                         "Dan_niel03",
-                                        "lasersub",
                                         "Geltz",
                                         "Wenza06",
+                                        "DanixNuts",
                                         "Miguelhl",
-                                        "DanixNuts"
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  56
+                                        "value":  57
                                     },
                                     {
                                         "name":  "Geltz",
@@ -140,7 +140,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  2862.5
+                                          "value":  2868.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -150,11 +150,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  6320.3
+                                          "value":  6326.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5579.1
+                                          "value":  5668.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -180,11 +180,11 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  37165.5
+                                          "value":  37174.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  36770.6
+                                          "value":  36870.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,41 +192,41 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  31619.4
+                                          "value":  31643.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  26794.8
+                                          "value":  26843.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  25595.3
+                                          "value":  25659.4
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5040.7
+                                          "value":  5085
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  146.5
+                                          "value":  147.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  141.4
+                                          "value":  142.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  123.5
+                                          "value":  124.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  61.8
+                                          "value":  63
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  45.7
+                                          "value":  46.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -234,7 +234,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1.6
+                                          "value":  1
                                       }
                                   ],
                      "achievements":  [
@@ -269,6 +269,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 20:13",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "18/09 20:12",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 20:12",
                        "type":  "join",
@@ -458,16 +468,6 @@
                        "time":  "18/09 18:15",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Enchanter"
-                   },
-                   {
-                       "time":  "18/09 18:14",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro The Secrets of Enchanting"
-                   },
-                   {
-                       "time":  "18/09 18:11",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
                    }
                ]
 }
