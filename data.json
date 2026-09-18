@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:21:45.4733204Z",
+    "updated_at":  "2026-09-18T21:23:01.4861051Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06",
                                         "DanixNuts"
                                     ]
                     },
@@ -214,7 +213,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  97.6
+                                          "value":  98.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -226,7 +225,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  35.4
+                                          "value":  35.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:22",
+                       "type":  "leave",
+                       "text":  "Wenza06 ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 23:12",
                        "type":  "join",
@@ -459,11 +463,6 @@
                        "time":  "18/09 20:29",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Not Today, Thank You"
-                   },
-                   {
-                       "time":  "18/09 20:24",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
