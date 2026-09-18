@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T20:37:21.2095410Z",
+    "updated_at":  "2026-09-18T20:38:37.2402087Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -164,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4130.7
+                                          "value":  4135.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -178,7 +178,7 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  44470.1
+                                          "value":  44494.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -186,11 +186,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  34837
+                                          "value":  34887.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  33851.7
+                                          "value":  33907.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -212,15 +212,15 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  128.4
+                                          "value":  129.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  75.6
+                                          "value":  76.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  56.5
+                                          "value":  57.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -232,7 +232,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  3.1
+                                          "value":  4.3
                                       }
                                   ],
                      "achievements":  [
@@ -267,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 22:38",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 22:36",
                        "type":  "join",
@@ -461,11 +466,6 @@
                        "time":  "18/09 20:14",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro This Must be a Sign!"
-                   },
-                   {
-                       "time":  "18/09 20:13",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
                    }
                ]
 }
