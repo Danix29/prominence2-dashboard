@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:24:17.6858918Z",
+    "updated_at":  "2026-09-18T21:25:33.9993579Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -199,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  8023.4
+                                          "value":  8028.9
                                       }
                                   ],
                      "survivor":  [
@@ -213,7 +214,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  100.2
+                                          "value":  101.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -225,7 +226,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  35.7
+                                          "value":  36
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:25",
+                       "type":  "join",
+                       "text":  "Wenza06 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "18/09 23:22",
                        "type":  "leave",
@@ -458,11 +464,6 @@
                        "time":  "18/09 20:29",
                        "type":  "death",
                        "text":  "Wenza06 was slain by Ghoul"
-                   },
-                   {
-                       "time":  "18/09 20:29",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Not Today, Thank You"
                    }
                ]
 }
