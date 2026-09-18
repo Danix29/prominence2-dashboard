@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T12:11:42.0288339Z",
+    "updated_at":  "2026-09-18T12:12:58.1184387Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
                                         "Dan_niel03"
                                     ]
                     },
@@ -38,7 +37,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  697.4
+                                          "value":  698.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -46,7 +45,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  417.9
+                                          "value":  419.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -192,7 +191,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19900.2
+                                          "value":  19951.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,11 +221,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  6.7
+                                          "value":  7.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4.6
+                                          "value":  5.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 14:12",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 14:04",
                        "type":  "death",
@@ -454,11 +458,6 @@
                        "time":  "18/09 13:16",
                        "type":  "leave",
                        "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "18/09 13:16",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Cave Spider"
                    },
                    {
                        "time":  "18/09 13:16",
