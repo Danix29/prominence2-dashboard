@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T17:35:48.0596283Z",
+    "updated_at":  "2026-09-18T17:37:04.3698335Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -179,11 +179,11 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  35336.7
+                                          "value":  35415.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  34573.2
+                                          "value":  34619.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -191,7 +191,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  30101.6
+                                          "value":  30137.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  23489.4
+                                          "value":  23537
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -209,23 +209,23 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  110.3
+                                          "value":  111.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  105.2
+                                          "value":  106.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  104.1
+                                          "value":  105.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  87.3
+                                          "value":  88.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  36.8
+                                          "value":  38.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -268,6 +268,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 19:36",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Singularity Impending"
+                   },
                    {
                        "time":  "18/09 19:26",
                        "type":  "logro",
@@ -462,11 +467,6 @@
                        "time":  "18/09 13:30",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Diamond Tier Upgrade"
-                   },
-                   {
-                       "time":  "18/09 13:28",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Voluntary Exile"
                    }
                ]
 }
