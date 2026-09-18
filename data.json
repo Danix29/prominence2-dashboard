@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T18:32:56.2687660Z",
+    "updated_at":  "2026-09-18T18:34:12.3592852Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -84,7 +84,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  4
+                                        "value":  5
                                     }
                                 ],
                      "kills":  [
@@ -114,7 +114,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  28
+                                       "value":  29
                                    }
                                ],
                      "dmgdealt":  [
@@ -144,7 +144,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  718.8
+                                          "value":  839.6
                                       }
                                   ],
                      "dmgtaken":  [
@@ -174,17 +174,17 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  354.6
+                                          "value":  391.1
                                       }
                                   ],
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  38997.4
+                                          "value":  39127.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  37613.6
+                                          "value":  37689.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,37 +192,37 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  32423.6
+                                          "value":  32434.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  27941.4
+                                          "value":  27959.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  26850.6
+                                          "value":  26883.2
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  6752.4
+                                          "value":  6882.7
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  166.8
+                                          "value":  168
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  143.7
+                                          "value":  145
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  82.1
+                                          "value":  83.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  19
+                                          "value":  20.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -230,11 +230,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4
+                                          "value":  5.3
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  0.9
+                                          "value":  0.7
                                       }
                                   ],
                      "achievements":  [
@@ -269,6 +269,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 20:33",
+                       "type":  "death",
+                       "text":  "Wenza06 was slain by Żar-ptak"
+                   },
                    {
                        "time":  "18/09 20:32",
                        "type":  "logro",
@@ -463,11 +468,6 @@
                        "time":  "18/09 19:26",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Local Librarian"
-                   },
-                   {
-                       "time":  "18/09 19:08",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Eye Spy"
                    }
                ]
 }
