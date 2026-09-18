@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:25:33.9993579Z",
+    "updated_at":  "2026-09-18T21:26:49.9023780Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
-                                        "Wenza06"
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -200,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  8028.9
+                                          "value":  8043.1
                                       }
                                   ],
                      "survivor":  [
@@ -214,7 +213,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  101.4
+                                          "value":  102.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -226,7 +225,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  36
+                                          "value":  37
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:26",
+                       "type":  "leave",
+                       "text":  "Wenza06 ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 23:25",
                        "type":  "join",
@@ -459,11 +463,6 @@
                        "time":  "18/09 20:30",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Quite the Renovation"
-                   },
-                   {
-                       "time":  "18/09 20:29",
-                       "type":  "death",
-                       "text":  "Wenza06 was slain by Ghoul"
                    }
                ]
 }
