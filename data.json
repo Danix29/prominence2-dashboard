@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T17:07:51.0599514Z",
+    "updated_at":  "2026-09-18T17:09:07.4127001Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -109,7 +109,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  84
+                                       "value":  87
                                    },
                                    {
                                        "name":  "Wenza06",
@@ -135,7 +135,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2875.5
+                                          "value":  2932.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -161,15 +161,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  4118.4
+                                          "value":  4171.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  3058
+                                          "value":  3068.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2077.2
+                                          "value":  2077.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -179,7 +179,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  33587.1
+                                          "value":  33611.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -187,19 +187,19 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  32833.3
+                                          "value":  32865.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  27955.7
+                                          "value":  28140.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  24417.3
+                                          "value":  24565
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  22200.1
+                                          "value":  22256.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -209,19 +209,19 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  82.3
+                                          "value":  83.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  77.3
+                                          "value":  78.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  76.1
+                                          "value":  77.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  59.4
+                                          "value":  60.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -233,7 +233,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8.8
+                                          "value":  10.1
                                       }
                                   ],
                      "achievements":  [
@@ -255,7 +255,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  75
+                                              "value":  76
                                           },
                                           {
                                               "name":  "lasersub",
@@ -268,6 +268,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 19:08",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Eye Spy"
+                   },
+                   {
+                       "time":  "18/09 19:07",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Getting an Upgrade"
+                   },
                    {
                        "time":  "18/09 18:59",
                        "type":  "join",
@@ -457,16 +467,6 @@
                        "time":  "18/09 13:28",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Enderman"
-                   },
-                   {
-                       "time":  "18/09 13:28",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Always Watching"
-                   },
-                   {
-                       "time":  "18/09 13:28",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Bringer of Storms"
                    }
                ]
 }
