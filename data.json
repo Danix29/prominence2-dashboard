@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:26:49.9023780Z",
+    "updated_at":  "2026-09-18T21:28:06.1094296Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -183,7 +184,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  35582.2
+                                          "value":  35607
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -213,7 +214,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  102.7
+                                          "value":  104
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -225,7 +226,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  37
+                                          "value":  37.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:27",
+                       "type":  "join",
+                       "text":  "Wenza06 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "18/09 23:26",
                        "type":  "leave",
@@ -458,11 +464,6 @@
                        "time":  "18/09 20:30",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Quite the Renovation"
-                   },
-                   {
-                       "time":  "18/09 20:30",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Quite the Renovation"
                    }
                ]
 }
