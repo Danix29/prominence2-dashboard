@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:29:22.2035653Z",
+    "updated_at":  "2026-09-18T21:30:38.4937627Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  35607
+                                          "value":  35619
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -213,7 +213,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  105.2
+                                          "value":  106.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -234,12 +234,12 @@
                                   ],
                      "achievements":  [
                                           {
-                                              "name":  "daaviid_2006",
+                                              "name":  "DanixNuts",
                                               "value":  155
                                           },
                                           {
-                                              "name":  "DanixNuts",
-                                              "value":  154
+                                              "name":  "daaviid_2006",
+                                              "value":  155
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:29",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Spore Galore"
+                   },
                    {
                        "time":  "18/09 23:29",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "18/09 20:31",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Walking Dead"
-                   },
-                   {
-                       "time":  "18/09 20:31",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Stay dead"
                    }
                ]
 }
