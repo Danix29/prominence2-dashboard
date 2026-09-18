@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T17:38:20.4389579Z",
+    "updated_at":  "2026-09-18T17:39:36.4667078Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -10,7 +10,6 @@
                                         "Dan_niel03",
                                         "lasersub",
                                         "Geltz",
-                                        "DanixNuts",
                                         "Miguelhl"
                                     ]
                     },
@@ -165,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  3102.7
+                                          "value":  3107.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -179,11 +178,11 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  35444.1
+                                          "value":  35523.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  34750.8
+                                          "value":  34843.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -191,7 +190,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  30160.1
+                                          "value":  30211.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -199,7 +198,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  23585.6
+                                          "value":  23719.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -209,23 +208,23 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  112.8
+                                          "value":  114.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  107.8
+                                          "value":  109
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  106.6
+                                          "value":  107.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  89.9
+                                          "value":  91.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  39.3
+                                          "value":  39.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -268,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 19:38",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 19:36",
                        "type":  "logro",
@@ -462,11 +466,6 @@
                        "time":  "18/09 13:36",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "18/09 13:30",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Diamond Tier Upgrade"
                    }
                ]
 }
