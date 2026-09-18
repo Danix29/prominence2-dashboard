@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:10:37.9667377Z",
+    "updated_at":  "2026-09-18T16:11:54.2530467Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -9,7 +9,8 @@
                         "players":  [
                                         "DanixNuts",
                                         "Dan_niel03",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -163,7 +164,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  3026
+                                          "value":  3030.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -189,15 +190,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22230.8
+                                          "value":  22303.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20185.2
+                                          "value":  20210.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  19732.4
+                                          "value":  19812.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -211,7 +212,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  25.1
+                                          "value":  26.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -219,7 +220,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  19
+                                          "value":  20.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -227,11 +228,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  14.1
+                                          "value":  15.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3.1
+                                          "value":  3.5
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:11",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "18/09 18:10",
                        "type":  "logro",
@@ -460,11 +466,6 @@
                        "time":  "18/09 13:19",
                        "type":  "death",
                        "text":  "daaviid_2006 was killed by magic"
-                   },
-                   {
-                       "time":  "18/09 13:18",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Cave Spider"
                    }
                ]
 }
