@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:44:36.9022663Z",
+    "updated_at":  "2026-09-18T21:45:53.0107121Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -106,7 +106,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  123
+                                       "value":  126
                                    },
                                    {
                                        "name":  "Wenza06",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  4113.2
+                                          "value":  4192.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  5364.7
+                                          "value":  5371.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  36642.5
+                                          "value":  36743
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  8877.5
+                                          "value":  8916.3
                                       }
                                   ],
                      "survivor":  [
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  120.5
+                                          "value":  121.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  52
+                                          "value":  53.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:45",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro (Optional) Fluid Tanks Upgrade"
+                   },
                    {
                        "time":  "18/09 23:31",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "18/09 20:31",
                        "type":  "join",
                        "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "18/09 20:31",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Source of Evil"
                    }
                ]
 }
