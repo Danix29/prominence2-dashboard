@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:28:06.1094296Z",
+    "updated_at":  "2026-09-18T21:29:22.2035653Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
-                                        "Wenza06"
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -214,7 +213,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  104
+                                          "value":  105.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -226,7 +225,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  37.9
+                                          "value":  38.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:29",
+                       "type":  "leave",
+                       "text":  "Wenza06 ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 23:27",
                        "type":  "join",
@@ -459,11 +463,6 @@
                        "time":  "18/09 20:31",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Stay dead"
-                   },
-                   {
-                       "time":  "18/09 20:30",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Quite the Renovation"
                    }
                ]
 }
