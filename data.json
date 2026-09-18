@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:04:17.1567993Z",
+    "updated_at":  "2026-09-18T16:05:33.3686854Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -191,7 +191,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19951.9
+                                          "value":  20025.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -225,11 +225,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  7.8
+                                          "value":  9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3
+                                          "value":  3.1
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:04",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "18/09 18:04",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "18/09 18:03",
                        "type":  "join",
@@ -453,16 +463,6 @@
                        "time":  "18/09 13:17",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Disme A Dozen"
-                   },
-                   {
-                       "time":  "18/09 13:17",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Cave Spider"
-                   },
-                   {
-                       "time":  "18/09 13:17",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was killed by magic whilst trying to escape Cave Spider"
                    }
                ]
 }
