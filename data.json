@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:52:35.8601793Z",
+    "updated_at":  "2026-09-18T16:53:52.0426449Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  32629.5
+                                          "value":  32653.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -191,15 +191,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  26749.3
+                                          "value":  26797.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  23012.4
+                                          "value":  23090.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  21575.3
+                                          "value":  21579.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -209,23 +209,23 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  67.1
+                                          "value":  68.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  62
+                                          "value":  63.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  61
+                                          "value":  62.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  56.1
+                                          "value":  57.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  44.1
+                                          "value":  45.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -268,6 +268,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:53",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Fluix Energy Connection"
+                   },
                    {
                        "time":  "18/09 18:45",
                        "type":  "join",
@@ -462,11 +467,6 @@
                        "time":  "18/09 13:27",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Unnatural"
-                   },
-                   {
-                       "time":  "18/09 13:25",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Gold Tier Upgrade"
                    }
                ]
 }
