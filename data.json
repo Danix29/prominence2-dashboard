@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:20:48.9097700Z",
+    "updated_at":  "2026-09-18T16:22:05.0398492Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -92,7 +92,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  198
+                                       "value":  234
                                    },
                                    {
                                        "name":  "lasersub",
@@ -138,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1794.5
+                                          "value":  1982.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -156,7 +156,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3732.5
+                                          "value":  3764.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,15 +186,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  31150
+                                          "value":  31223
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  23431.8
+                                          "value":  23605.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20452
+                                          "value":  20522.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -212,15 +212,15 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  35.3
+                                          "value":  36.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  29.2
+                                          "value":  30.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  24.3
+                                          "value":  25.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -232,7 +232,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  12.4
+                                          "value":  13.6
                                       }
                                   ],
                      "achievements":  [
@@ -258,7 +258,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  63
+                                              "value":  64
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -267,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:21",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Not So Sticky"
+                   },
                    {
                        "time":  "18/09 18:16",
                        "type":  "logro",
@@ -461,11 +466,6 @@
                        "time":  "18/09 13:22",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro What a Deal!"
-                   },
-                   {
-                       "time":  "18/09 13:21",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Close Quarters"
                    }
                ]
 }
