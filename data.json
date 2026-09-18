@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T22:06:10.1200308Z",
+    "updated_at":  "2026-09-18T22:07:26.2071606Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -109,7 +109,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  46
+                                       "value":  58
                                    }
                                ],
                      "dmgdealt":  [
@@ -139,7 +139,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1221.1
+                                          "value":  1454.3
                                       }
                                   ],
                      "dmgtaken":  [
@@ -169,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  581.7
+                                          "value":  645.7
                                       }
                                   ],
                      "distance":  [
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  10561.3
+                                          "value":  10759
                                       }
                                   ],
                      "survivor":  [
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  3.8
+                                          "value":  0.1
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 00:07",
+                       "type":  "death",
+                       "text":  "Wenza06 was shot by Skeleton"
+                   },
                    {
                        "time":  "19/09 00:04",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "18/09 20:36",
                        "type":  "leave",
                        "text":  "Wenza06 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "18/09 20:35",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
                    }
                ]
 }
