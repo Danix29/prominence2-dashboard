@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:50:57.4039803Z",
+    "updated_at":  "2026-09-18T21:52:13.5017117Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -110,7 +110,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  32
+                                       "value":  34
                                    }
                                ],
                      "dmgdealt":  [
@@ -140,7 +140,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  949.3
+                                          "value":  970.9
                                       }
                                   ],
                      "dmgtaken":  [
@@ -170,7 +170,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  456
+                                          "value":  472.4
                                       }
                                   ],
                      "distance":  [
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  37050.4
+                                          "value":  37111.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  9137.3
+                                          "value":  9305.8
                                       }
                                   ],
                      "survivor":  [
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  126.8
+                                          "value":  128.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  58.3
+                                          "value":  59.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -260,11 +260,16 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  29
+                                              "value":  30
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:51",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro The Lighthouse"
+                   },
                    {
                        "time":  "18/09 23:45",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "18/09 20:32",
                        "type":  "death",
                        "text":  "Wenza06 was slain by Żar-ptak"
-                   },
-                   {
-                       "time":  "18/09 20:31",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
