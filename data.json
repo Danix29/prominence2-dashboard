@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T11:24:49.0438401Z",
+    "updated_at":  "2026-09-18T11:26:05.1980296Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -28,7 +28,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  772.2
+                                          "value":  773.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -36,11 +36,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  701.4
+                                          "value":  702.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  650.6
+                                          "value":  651.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -48,7 +48,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  371.1
+                                          "value":  372.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -152,7 +152,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  4881.7
+                                          "value":  4910.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -160,7 +160,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3060.5
+                                          "value":  3062.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -178,11 +178,11 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  32062.8
+                                          "value":  32337.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  31585.4
+                                          "value":  31599.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -194,11 +194,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  16464.6
+                                          "value":  16517.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  16402
+                                          "value":  16433
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -208,11 +208,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  42.4
+                                          "value":  43.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  34.1
+                                          "value":  35.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -224,11 +224,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  7.1
+                                          "value":  8.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  5.7
+                                          "value":  7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -254,7 +254,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  66
+                                              "value":  67
                                           },
                                           {
                                               "name":  "lasersub",
@@ -267,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 13:25",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Gold Tier Upgrade"
+                   },
                    {
                        "time":  "18/09 13:24",
                        "type":  "leave",
@@ -461,11 +466,6 @@
                        "time":  "18/09 13:13",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Cave Spider"
-                   },
-                   {
-                       "time":  "18/09 13:13",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Cave Spider"
                    }
                ]
 }
