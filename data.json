@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:08:05.6761045Z",
+    "updated_at":  "2026-09-18T16:09:21.9156840Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -189,15 +189,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22162.1
+                                          "value":  22222
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20106.6
+                                          "value":  20148.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  19663.5
+                                          "value":  19693.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -211,23 +211,23 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  22.6
+                                          "value":  23.8
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  21
                                       },
                                       {
+                                          "name":  "Miguelhl",
+                                          "value":  17.8
+                                      },
+                                      {
                                           "name":  "daaviid_2006",
                                           "value":  17.7
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  16.5
-                                      },
-                                      {
                                           "name":  "DanixNuts",
-                                          "value":  11.6
+                                          "value":  12.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:09",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro It\u0027s Chargin\u0027 Time !"
+                   },
                    {
                        "time":  "18/09 18:06",
                        "type":  "join",
@@ -460,11 +465,6 @@
                        "time":  "18/09 13:17",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Local Librarian"
-                   },
-                   {
-                       "time":  "18/09 13:17",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Cave Spider"
                    }
                ]
 }
