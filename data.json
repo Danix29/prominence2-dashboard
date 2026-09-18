@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T18:59:35.4706699Z",
+    "updated_at":  "2026-09-18T19:00:51.8539162Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  39657.4
+                                          "value":  39688.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -193,11 +193,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  29059.5
+                                          "value":  29089
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  28399.4
+                                          "value":  28445.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  193.4
+                                          "value":  194.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -219,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  30.6
+                                          "value":  31.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -227,7 +227,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9.5
+                                          "value":  10.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -241,7 +241,7 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  146
+                                              "value":  147
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 21:00",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Modern Industrialization"
+                   },
                    {
                        "time":  "18/09 20:52",
                        "type":  "leave",
@@ -460,11 +465,6 @@
                        "time":  "18/09 19:50",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Spooky Scary Skeleton"
-                   },
-                   {
-                       "time":  "18/09 19:47",
-                       "type":  "join",
-                       "text":  "Wenza06 ha entrado en Prominence II"
                    }
                ]
 }
