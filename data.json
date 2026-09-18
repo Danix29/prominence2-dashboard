@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T18:02:28.0489858Z",
+    "updated_at":  "2026-09-18T18:03:44.1660277Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -10,8 +10,8 @@
                                         "Dan_niel03",
                                         "lasersub",
                                         "Geltz",
-                                        "DanixNuts",
-                                        "Wenza06"
+                                        "Wenza06",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -93,7 +93,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  244
+                                       "value":  245
                                    },
                                    {
                                        "name":  "lasersub",
@@ -119,7 +119,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  6686.2
+                                          "value":  6697.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -149,7 +149,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  6299.6
+                                          "value":  6303.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -179,11 +179,11 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  36502.4
+                                          "value":  36588.2
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  36264.2
+                                          "value":  36348.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -199,25 +199,25 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  24981.9
+                                          "value":  25044.3
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  4564.2
+                                          "value":  4623.5
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  136.3
+                                          "value":  137.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  131.3
+                                          "value":  132.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  113.4
+                                          "value":  114.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -225,7 +225,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  35.5
+                                          "value":  36.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -233,7 +233,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1.1
+                                          "value":  1.7
                                       }
                                   ],
                      "achievements":  [
@@ -259,15 +259,30 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  68
+                                              "value":  69
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  20
+                                              "value":  21
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 20:03",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Forged in Flames"
+                   },
+                   {
+                       "time":  "18/09 20:03",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "18/09 20:03",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Storing Power"
+                   },
                    {
                        "time":  "18/09 20:02",
                        "type":  "leave",
@@ -452,21 +467,6 @@
                        "time":  "18/09 18:09",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro It\u0027s Chargin\u0027 Time !"
-                   },
-                   {
-                       "time":  "18/09 18:06",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "18/09 18:06",
-                       "type":  "join",
-                       "text":  "Dan_niel03 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "18/09 18:04",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
                    }
                ]
 }
