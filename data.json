@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T09:40:50.2106324Z",
+    "updated_at":  "2026-09-18T09:42:04.4255910Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  672.1
+                                          "value":  673.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  659.7
+                                          "value":  660.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  548.2
+                                          "value":  549.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -165,11 +165,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  23166
+                                          "value":  23185.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  16051.9
+                                          "value":  16081
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,17 +177,17 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9536.8
+                                          "value":  9598.1
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  245.3
+                                          "value":  246.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  180.8
+                                          "value":  182
                                       },
                                       {
                                           "name":  "Geltz",
@@ -195,7 +195,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  35.4
+                                          "value":  36.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  119
+                                              "value":  120
                                           },
                                           {
                                               "name":  "Geltz",
@@ -234,6 +234,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 11:40",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Tech Reborn"
+                   },
                    {
                        "time":  "18/09 11:38",
                        "type":  "join",
@@ -428,11 +433,6 @@
                        "time":  "17/09 23:46",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Full Moon in a Pocket"
-                   },
-                   {
-                       "time":  "17/09 23:42",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Like Diamonds, But Less Shiny"
                    }
                ]
 }
