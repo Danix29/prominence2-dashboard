@@ -1,10 +1,10 @@
 {
-    "updated_at":  "2026-09-18T15:54:03.0917426Z",
+    "updated_at":  "2026-09-18T15:55:20.6224893Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
 
@@ -24,32 +24,32 @@
     "rankings":  {
                      "playtime":  [
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  784.4
+                                          "name":  "DanixNuts",
+                                          "value":  0
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  754.6
+                                          "value":  0
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  714.4
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  698.2
+                                          "value":  0
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  466.8
-                                      },
-                                      {
-                                          "name":  "Dan_niel03",
-                                          "value":  434.2
+                                          "value":  0
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  66.7
+                                          "value":  0
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  0
+                                      },
+                                      {
+                                          "name":  "Dan_niel03",
+                                          "value":  0
                                       }
                                   ],
                      "deaths":  [
