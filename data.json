@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:25:54.2523349Z",
+    "updated_at":  "2026-09-18T16:27:10.5834202Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -88,7 +88,7 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  242
+                                       "value":  247
                                    },
                                    {
                                        "name":  "Geltz",
@@ -138,7 +138,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2050.4
+                                          "value":  2093.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -156,7 +156,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3888.7
+                                          "value":  3897.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -168,7 +168,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2019.6
+                                          "value":  2020.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -186,19 +186,19 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  31310.5
+                                          "value":  31398
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24032.2
+                                          "value":  24192.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20720.6
+                                          "value":  20737.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  20187.9
+                                          "value":  20209.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -212,27 +212,27 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  40.4
+                                          "value":  41.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  34.3
+                                          "value":  35.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  29.4
+                                          "value":  30.7
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  21
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  17.7
+                                          "name":  "lasersub",
+                                          "value":  18.7
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  17.5
+                                          "name":  "daaviid_2006",
+                                          "value":  17.7
                                       }
                                   ],
                      "achievements":  [
@@ -246,7 +246,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  126
+                                              "value":  127
                                           },
                                           {
                                               "name":  "Geltz",
@@ -258,7 +258,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  64
+                                              "value":  65
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -267,6 +267,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:26",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro LIMITED POWER!"
+                   },
+                   {
+                       "time":  "18/09 18:26",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Cover Me with Diamonds"
+                   },
                    {
                        "time":  "18/09 18:21",
                        "type":  "logro",
@@ -456,16 +466,6 @@
                        "time":  "18/09 13:22",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Custom Backpacks"
-                   },
-                   {
-                       "time":  "18/09 13:22",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Local Librarian"
-                   },
-                   {
-                       "time":  "18/09 13:22",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro What a Deal!"
                    }
                ]
 }
