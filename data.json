@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:05:33.3686854Z",
+    "updated_at":  "2026-09-18T16:06:49.6404393Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Dan_niel03",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -191,11 +193,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20025.7
+                                          "value":  20066.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  19647.8
+                                          "value":  19658
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -208,12 +210,12 @@
                                           "value":  55.1
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  21
+                                          "name":  "Dan_niel03",
+                                          "value":  21.3
                                       },
                                       {
-                                          "name":  "Dan_niel03",
-                                          "value":  20.7
+                                          "name":  "Wenza06",
+                                          "value":  21
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -221,11 +223,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  15
+                                          "value":  15.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9
+                                          "value":  10.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -264,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:06",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "18/09 18:06",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "18/09 18:04",
                        "type":  "leave",
@@ -453,16 +465,6 @@
                        "time":  "18/09 13:17",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Cave Spider"
-                   },
-                   {
-                       "time":  "18/09 13:17",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Diamonds!"
-                   },
-                   {
-                       "time":  "18/09 13:17",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Disme A Dozen"
                    }
                ]
 }
