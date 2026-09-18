@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:09:04.5994892Z",
+    "updated_at":  "2026-09-18T21:10:20.8296010Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
                                         "Wenza06"
                                     ]
                     },
@@ -184,7 +183,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  35230.8
+                                          "value":  35262.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -200,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  7801
+                                          "value":  7885.1
                                       }
                                   ],
                      "survivor":  [
@@ -214,7 +213,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  88.2
+                                          "value":  88.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -226,7 +225,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  22.7
+                                          "value":  24
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:09",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 22:55",
                        "type":  "join",
@@ -457,11 +461,6 @@
                    },
                    {
                        "time":  "18/09 20:21",
-                       "type":  "death",
-                       "text":  "Geltz fell from a high place"
-                   },
-                   {
-                       "time":  "18/09 20:20",
                        "type":  "death",
                        "text":  "Geltz fell from a high place"
                    }
