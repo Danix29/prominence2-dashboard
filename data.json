@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T11:37:29.5339004Z",
+    "updated_at":  "2026-09-18T11:38:45.5554187Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz",
                                         "Dan_niel03",
                                         "DanixNuts"
                                     ]
@@ -35,11 +34,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  714.1
+                                          "value":  714.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  663.2
+                                          "value":  664.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -47,7 +46,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  383.8
+                                          "value":  385.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -107,7 +106,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  39
+                                       "value":  43
                                    },
                                    {
                                        "name":  "Wenza06",
@@ -133,7 +132,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2002.2
+                                          "value":  2116.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -159,7 +158,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3199.8
+                                          "value":  3265.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -181,7 +180,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  31916.3
+                                          "value":  31916.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -193,11 +192,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  17433.8
+                                          "value":  17676.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  16923
+                                          "value":  17059.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -211,7 +210,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  46.8
+                                          "value":  48.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -227,7 +226,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9.3
+                                          "value":  10.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -266,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 13:38",
+                       "type":  "death",
+                       "text":  "DanixNuts was shot by Skeleton"
+                   },
+                   {
+                       "time":  "18/09 13:37",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 13:36",
                        "type":  "leave",
@@ -455,16 +464,6 @@
                        "time":  "18/09 13:16",
                        "type":  "death",
                        "text":  "daaviid_2006 was killed by magic whilst trying to escape Spider"
-                   },
-                   {
-                       "time":  "18/09 13:15",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Hexblade Magister"
-                   },
-                   {
-                       "time":  "18/09 13:15",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Hexblade Magister"
                    }
                ]
 }
