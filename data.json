@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T21:53:29.3986680Z",
+    "updated_at":  "2026-09-18T21:54:45.6778398Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -140,7 +140,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1048.6
+                                          "value":  1058.1
                                       }
                                   ],
                      "dmgtaken":  [
@@ -170,7 +170,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  483.4
+                                          "value":  484.8
                                       }
                                   ],
                      "distance":  [
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  37260.9
+                                          "value":  37320.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  9344
+                                          "value":  9468.6
                                       }
                                   ],
                      "survivor":  [
@@ -209,12 +209,12 @@
                                           "value":  145.8
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  129.5
+                                          "name":  "DanixNuts",
+                                          "value":  130.6
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  129.3
+                                          "name":  "Geltz",
+                                          "value":  129.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  60.8
+                                          "value":  62.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -260,11 +260,16 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  30
+                                              "value":  31
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 23:54",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Cobweb Entanglement"
+                   },
                    {
                        "time":  "18/09 23:51",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "18/09 20:32",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Tech Reborn"
-                   },
-                   {
-                       "time":  "18/09 20:32",
-                       "type":  "death",
-                       "text":  "Wenza06 was slain by Żar-ptak"
                    }
                ]
 }
