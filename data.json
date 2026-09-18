@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T18:18:58.5166392Z",
+    "updated_at":  "2026-09-18T18:20:14.5577566Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,11 +8,11 @@
                         "sleeping":  false,
                         "players":  [
                                         "Dan_niel03",
-                                        "Geltz",
                                         "Wenza06",
                                         "DanixNuts",
                                         "lasersub",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -72,7 +72,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  34
+                                        "value":  35
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -150,7 +150,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  6326.1
+                                          "value":  6436.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -180,11 +180,11 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  37709.6
+                                          "value":  37835.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  37339
+                                          "value":  37422.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,41 +192,37 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  31992.9
+                                          "value":  32002.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  27102.5
+                                          "value":  27222.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  26028.2
+                                          "value":  26091.2
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5656
+                                          "value":  5736.5
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  152.8
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  147.8
+                                          "value":  154.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  129.7
+                                          "value":  131
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  68.1
+                                          "value":  69.4
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  52
+                                          "value":  53.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -234,7 +230,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5
+                                          "value":  6.3
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  0.7
                                       }
                                   ],
                      "achievements":  [
@@ -264,11 +264,21 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  23
+                                              "value":  24
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 20:19",
+                       "type":  "death",
+                       "text":  "Geltz fell from a high place"
+                   },
+                   {
+                       "time":  "18/09 20:19",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Amateur Archaeologist"
+                   },
                    {
                        "time":  "18/09 20:14",
                        "type":  "logro",
@@ -458,16 +468,6 @@
                        "time":  "18/09 18:21",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Not So Sticky"
-                   },
-                   {
-                       "time":  "18/09 18:16",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Nectar of the Tree"
-                   },
-                   {
-                       "time":  "18/09 18:16",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Tapping Time"
                    }
                ]
 }
