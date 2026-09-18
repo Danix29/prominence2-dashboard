@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T16:09:21.9156840Z",
+    "updated_at":  "2026-09-18T16:10:37.9667377Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -189,15 +189,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22222
+                                          "value":  22230.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20148.8
+                                          "value":  20185.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  19693.8
+                                          "value":  19732.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -211,7 +211,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  23.8
+                                          "value":  25.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -219,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  17.8
+                                          "value":  19
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -227,7 +227,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  12.8
+                                          "value":  14.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -241,7 +241,7 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  141
+                                              "value":  142
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -253,7 +253,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  71
+                                              "value":  73
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 18:10",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Meteorite Hunter"
+                   },
+                   {
+                       "time":  "18/09 18:09",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro A Realistical Logical Ideologist"
+                   },
                    {
                        "time":  "18/09 18:09",
                        "type":  "logro",
@@ -455,16 +465,6 @@
                        "time":  "18/09 13:18",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Cave Spider"
-                   },
-                   {
-                       "time":  "18/09 13:17",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Cave Spider"
-                   },
-                   {
-                       "time":  "18/09 13:17",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Local Librarian"
                    }
                ]
 }
