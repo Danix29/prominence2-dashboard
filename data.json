@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T22:12:31.2563634Z",
+    "updated_at":  "2026-09-18T22:13:47.2931800Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -79,7 +79,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  7
+                                        "value":  8
                                     }
                                 ],
                      "kills":  [
@@ -109,7 +109,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  71
+                                       "value":  75
                                    }
                                ],
                      "dmgdealt":  [
@@ -139,7 +139,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1640.6
+                                          "value":  1663.3
                                       }
                                   ],
                      "dmgtaken":  [
@@ -169,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  731
+                                          "value":  776.3
                                       }
                                   ],
                      "distance":  [
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  11393.6
+                                          "value":  11529.8
                                       }
                                   ],
                      "survivor":  [
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5.2
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 00:13",
+                       "type":  "death",
+                       "text":  "Wenza06 was shot by Skeleton"
+                   },
                    {
                        "time":  "19/09 00:07",
                        "type":  "death",
@@ -458,11 +463,6 @@
                        "time":  "18/09 20:50",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Enderman"
-                   },
-                   {
-                       "time":  "18/09 20:36",
-                       "type":  "leave",
-                       "text":  "Wenza06 ha salido de Prominence II"
                    }
                ]
 }
