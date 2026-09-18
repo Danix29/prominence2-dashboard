@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T20:55:06.7266255Z",
+    "updated_at":  "2026-09-18T20:56:23.0468389Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -183,7 +184,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  35157.4
+                                          "value":  35158
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -199,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  7058.7
+                                          "value":  7098.8
                                       }
                                   ],
                      "survivor":  [
@@ -217,7 +218,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  74.2
+                                          "value":  75.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -229,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  9.2
+                                          "value":  10
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 22:55",
+                       "type":  "join",
+                       "text":  "Wenza06 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "18/09 22:52",
                        "type":  "logro",
@@ -451,11 +457,6 @@
                    },
                    {
                        "time":  "18/09 20:21",
-                       "type":  "death",
-                       "text":  "Geltz fell from a high place"
-                   },
-                   {
-                       "time":  "18/09 20:20",
                        "type":  "death",
                        "text":  "Geltz fell from a high place"
                    },
