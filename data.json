@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T10:14:13.3845335Z",
+    "updated_at":  "2026-09-18T10:15:27.4008771Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,9 @@
                         "sleeping":  false,
                         "players":  [
                                         "daaviid_2006",
+                                        "Miguelhl",
                                         "DanixNuts",
-                                        "Miguelhl"
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -27,19 +28,19 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  703
+                                          "value":  704.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  693.1
+                                          "value":  694.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  633.1
+                                          "value":  633.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  581.6
+                                          "value":  582.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -53,7 +54,7 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  47
+                                        "value":  48
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -87,7 +88,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  142
+                                       "value":  143
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -121,11 +122,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1518.1
+                                          "value":  1518.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  1270.6
+                                          "value":  1270.9
                                       }
                                   ],
                      "dmgtaken":  [
@@ -143,7 +144,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2451.4
+                                          "value":  2451.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -161,19 +162,19 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  25554.7
+                                          "value":  25569.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  25418.6
+                                          "value":  25456.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  18419.3
+                                          "value":  18465.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  12397.5
+                                          "value":  12442.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -183,11 +184,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  69.7
+                                          "value":  70.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  66.2
+                                          "value":  67.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -199,17 +200,17 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  0.2
+                                          "value":  1.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.1
+                                          "value":  1.3
                                       }
                                   ],
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  147
+                                              "value":  150
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -234,6 +235,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 12:14",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "18/09 12:14",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Create: Testosterone"
+                   },
+                   {
+                       "time":  "18/09 12:14",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Nanomachines, son!"
+                   },
+                   {
+                       "time":  "18/09 12:14",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Always Watching"
+                   },
                    {
                        "time":  "18/09 12:14",
                        "type":  "death",
@@ -413,26 +434,6 @@
                        "time":  "18/09 11:53",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Warden"
-                   },
-                   {
-                       "time":  "18/09 11:52",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Warden"
-                   },
-                   {
-                       "time":  "18/09 11:42",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Need A Map?"
-                   },
-                   {
-                       "time":  "18/09 11:42",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Tunnel Treasures"
-                   },
-                   {
-                       "time":  "18/09 11:42",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Thunder Time"
                    }
                ]
 }
