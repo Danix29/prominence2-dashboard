@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T12:06:38.2726362Z",
+    "updated_at":  "2026-09-18T12:07:54.3202714Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Dan_niel03",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Dan_niel03"
                                     ]
                     },
                     {
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  692.3
+                                          "value":  693.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  412.9
+                                          "value":  414.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -72,7 +72,7 @@
                                     },
                                     {
                                         "name":  "Dan_niel03",
-                                        "value":  32
+                                        "value":  33
                                     },
                                     {
                                         "name":  "lasersub",
@@ -162,7 +162,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  2983.4
+                                          "value":  3021.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -192,11 +192,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19592.1
+                                          "value":  19665.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  18869.4
+                                          "value":  18934.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -204,10 +204,6 @@
                                       }
                                   ],
                      "survivor":  [
-                                      {
-                                          "name":  "Dan_niel03",
-                                          "value":  75.9
-                                      },
                                       {
                                           "name":  "Geltz",
                                           "value":  55.1
@@ -230,7 +226,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  1.7
+                                          "value":  2.9
+                                      },
+                                      {
+                                          "name":  "Dan_niel03",
+                                          "value":  0.9
                                       }
                                   ],
                      "achievements":  [
