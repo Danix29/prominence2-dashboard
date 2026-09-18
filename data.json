@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T00:22:23.2499805Z",
+    "updated_at":  "2026-09-18T00:23:37.2331600Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  526.9
+                                          "value":  528.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -175,7 +175,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8590.4
+                                          "value":  8638
                                       }
                                   ],
                      "survivor":  [
@@ -185,7 +185,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  159.5
+                                          "value":  160.7
                                       },
                                       {
                                           "name":  "Geltz",
@@ -211,7 +211,7 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  122
+                                              "value":  123
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -232,6 +232,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 02:23",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Diamond Tier Upgrade"
+                   },
                    {
                        "time":  "18/09 01:53",
                        "type":  "leave",
@@ -426,11 +431,6 @@
                        "time":  "17/09 23:41",
                        "type":  "leave",
                        "text":  "DanixNuts ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "17/09 23:41",
-                       "type":  "join",
-                       "text":  "DanixNuts ha entrado en Prominence II"
                    }
                ]
 }
