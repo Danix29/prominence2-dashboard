@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T10:30:22.4274698Z",
+    "updated_at":  "2026-09-18T10:31:38.4678802Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -11,9 +11,9 @@
                                         "Miguelhl",
                                         "daaviid_2006",
                                         "Wenza06",
+                                        "lasersub",
                                         "Dan_niel03",
-                                        "Geltz",
-                                        "lasersub"
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -31,31 +31,31 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  718.3
+                                          "value":  719.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  708.3
+                                          "value":  709.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  647.6
+                                          "value":  648.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  596.9
+                                          "value":  598.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  441.5
+                                          "value":  442.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  319
+                                          "value":  320.3
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  12.7
+                                          "value":  13.9
                                       }
                                   ],
                      "deaths":  [
@@ -73,15 +73,15 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  29
+                                        "value":  31
                                     },
                                     {
                                         "name":  "Dan_niel03",
-                                        "value":  18
+                                        "value":  19
                                     },
                                     {
                                         "name":  "lasersub",
-                                        "value":  3
+                                        "value":  4
                                     },
                                     {
                                         "name":  "Wenza06",
@@ -133,7 +133,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  2176.5
+                                          "value":  2214.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -151,7 +151,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  5154.5
+                                          "value":  5293.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -167,11 +167,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  1440.1
+                                          "value":  1538.2
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  999.8
+                                          "value":  1068.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -181,61 +181,61 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  27092.5
+                                          "value":  27193.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  26720.4
+                                          "value":  26821.2
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  26425.2
+                                          "value":  26516.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  19025.6
+                                          "value":  19032.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  13221.3
+                                          "value":  13253.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  12727.6
+                                          "value":  12861.3
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  529.1
+                                          "value":  624.6
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  15.4
+                                          "value":  16.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  13.1
+                                          "value":  14.4
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  12.8
+                                          "value":  14.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  9.8
-                                      },
-                                      {
-                                          "name":  "Dan_niel03",
-                                          "value":  1.9
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  1.7
+                                          "value":  11.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1.4
+                                          "value":  0.9
+                                      },
+                                      {
+                                          "name":  "Dan_niel03",
+                                          "value":  0.7
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -261,7 +261,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  58
+                                              "value":  59
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -270,6 +270,31 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 12:31",
+                       "type":  "death",
+                       "text":  "Geltz was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "18/09 12:30",
+                       "type":  "death",
+                       "text":  "Dan_niel03 was blown up by Grenadier"
+                   },
+                   {
+                       "time":  "18/09 12:30",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "18/09 12:30",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Ol\u0027 Betsy"
+                   },
+                   {
+                       "time":  "18/09 12:30",
+                       "type":  "death",
+                       "text":  "Geltz was slain by Leaping Zombie"
+                   },
                    {
                        "time":  "18/09 12:29",
                        "type":  "logro",
@@ -442,31 +467,6 @@
                    },
                    {
                        "time":  "18/09 12:06",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Warden"
-                   },
-                   {
-                       "time":  "18/09 12:05",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Warden"
-                   },
-                   {
-                       "time":  "18/09 12:05",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Warden"
-                   },
-                   {
-                       "time":  "18/09 12:05",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Heart of the Machine"
-                   },
-                   {
-                       "time":  "18/09 12:05",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Punch em!"
-                   },
-                   {
-                       "time":  "18/09 12:04",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Warden"
                    }
