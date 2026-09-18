@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T17:49:45.9877312Z",
+    "updated_at":  "2026-09-18T17:51:02.1513367Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -90,7 +90,7 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  328
+                                       "value":  329
                                    },
                                    {
                                        "name":  "Geltz",
@@ -166,7 +166,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  3107.3
+                                          "value":  3107.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -180,11 +180,11 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  35947.1
+                                          "value":  36078
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  35422.4
+                                          "value":  35538.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,41 +192,41 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  31002.8
+                                          "value":  31059.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  26632.4
+                                          "value":  26646.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  24292
+                                          "value":  24350.6
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  3692.1
+                                          "value":  3784.3
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  123.8
+                                          "value":  124.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  118.8
+                                          "value":  119.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  100.9
+                                          "value":  102
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  49
+                                          "value":  50.1
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  23
+                                          "value":  24.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -234,7 +234,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4.3
+                                          "value":  5.4
                                       }
                                   ],
                      "achievements":  [
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  130
+                                              "value":  131
                                           },
                                           {
                                               "name":  "Geltz",
@@ -269,6 +269,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 19:50",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Penteconter"
+                   },
+                   {
+                       "time":  "18/09 19:50",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Spooky Scary Skeleton"
+                   },
                    {
                        "time":  "18/09 19:47",
                        "type":  "join",
@@ -458,16 +468,6 @@
                        "time":  "18/09 14:04",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Zombie"
-                   },
-                   {
-                       "time":  "18/09 13:58",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Zombie"
-                   },
-                   {
-                       "time":  "18/09 13:41",
-                       "type":  "death",
-                       "text":  "DanixNuts was shot by Skeleton"
                    }
                ]
 }
