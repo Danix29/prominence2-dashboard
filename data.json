@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T10:10:30.4870249Z",
+    "updated_at":  "2026-09-18T10:11:44.7438403Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  689.4
+                                          "value":  690.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  577.9
+                                          "value":  579.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -51,16 +51,16 @@
                                   ],
                      "deaths":  [
                                     {
+                                        "name":  "DanixNuts",
+                                        "value":  46
+                                    },
+                                    {
                                         "name":  "daaviid_2006",
                                         "value":  46
                                     },
                                     {
-                                        "name":  "DanixNuts",
-                                        "value":  44
-                                    },
-                                    {
                                         "name":  "Miguelhl",
-                                        "value":  37
+                                        "value":  38
                                     },
                                     {
                                         "name":  "Geltz",
@@ -86,7 +86,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  140
+                                       "value":  141
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  1127.3
+                                          "value":  1263.8
                                       }
                                   ],
                      "dmgtaken":  [
@@ -138,11 +138,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2666.4
+                                          "value":  2740
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2079.2
+                                          "value":  2268.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -168,11 +168,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  18194.4
+                                          "value":  18272.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  12150.1
+                                          "value":  12303.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -198,11 +198,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1.3
+                                          "value":  0.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  1
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -233,6 +233,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 12:11",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Warden"
+                   },
+                   {
+                       "time":  "18/09 12:10",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Warden"
+                   },
                    {
                        "time":  "18/09 12:09",
                        "type":  "leave",
@@ -422,16 +432,6 @@
                        "time":  "18/09 11:20",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "18/09 11:20",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "18/09 02:41",
-                       "type":  "leave",
-                       "text":  "DanixNuts ha salido de Prominence II"
                    }
                ]
 }
