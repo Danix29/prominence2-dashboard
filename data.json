@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T20:38:37.2402087Z",
+    "updated_at":  "2026-09-18T20:39:53.4625480Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz",
                                         "Dan_niel03",
                                         "DanixNuts",
                                         "Wenza06"
@@ -186,11 +185,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  34887.2
+                                          "value":  34907.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  33907.3
+                                          "value":  33918.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -202,7 +201,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  7037
+                                          "value":  7057.3
                                       }
                                   ],
                      "survivor":  [
@@ -216,11 +215,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  76.9
+                                          "value":  78.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  57.7
+                                          "value":  59
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -232,7 +231,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  4.3
+                                          "value":  5.6
                                       }
                                   ],
                      "achievements":  [
@@ -267,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 22:39",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 22:38",
                        "type":  "leave",
@@ -461,11 +465,6 @@
                        "time":  "18/09 20:19",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Amateur Archaeologist"
-                   },
-                   {
-                       "time":  "18/09 20:14",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro This Must be a Sign!"
                    }
                ]
 }
