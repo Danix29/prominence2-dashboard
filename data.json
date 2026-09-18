@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T20:39:53.4625480Z",
+    "updated_at":  "2026-09-18T20:41:09.4449723Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Dan_niel03",
                                         "DanixNuts",
                                         "Wenza06"
                                     ]
@@ -185,7 +184,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  34907.4
+                                          "value":  34966.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -219,7 +218,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  59
+                                          "value":  60.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -231,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5.6
+                                          "value":  6.9
                                       }
                                   ],
                      "achievements":  [
