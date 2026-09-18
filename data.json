@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T18:50:42.9018074Z",
+    "updated_at":  "2026-09-18T18:51:58.9389159Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -182,11 +182,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  39003.8
+                                          "value":  39142.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  33439.1
+                                          "value":  33446.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -194,11 +194,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  28852.9
+                                          "value":  28883
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  27948.5
+                                          "value":  28043.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -208,7 +208,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  184.6
+                                          "value":  185.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -216,11 +216,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  36.7
+                                          "value":  38
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  21.8
+                                          "value":  23
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -232,7 +232,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.6
+                                          "value":  1.9
                                       }
                                   ],
                      "achievements":  [
@@ -250,7 +250,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  90
+                                              "value":  91
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -267,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 20:51",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Accelerator is an understatement"
+                   },
                    {
                        "time":  "18/09 20:50",
                        "type":  "death",
@@ -461,11 +466,6 @@
                        "time":  "18/09 19:45",
                        "type":  "death",
                        "text":  "Miguelhl withered away"
-                   },
-                   {
-                       "time":  "18/09 19:40",
-                       "type":  "join",
-                       "text":  "DanixNuts ha entrado en Prominence II"
                    }
                ]
 }
