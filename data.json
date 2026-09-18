@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T22:04:54.0472018Z",
+    "updated_at":  "2026-09-18T22:06:10.1200308Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -109,7 +109,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  44
+                                       "value":  46
                                    }
                                ],
                      "dmgdealt":  [
@@ -139,7 +139,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1211.1
+                                          "value":  1221.1
                                       }
                                   ],
                      "dmgtaken":  [
@@ -169,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  574.5
+                                          "value":  581.7
                                       }
                                   ],
                      "distance":  [
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  10454.4
+                                          "value":  10561.3
                                       }
                                   ],
                      "survivor":  [
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  2.5
+                                          "value":  3.8
                                       }
                                   ],
                      "achievements":  [
