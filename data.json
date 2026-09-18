@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T12:15:30.4833980Z",
+    "updated_at":  "2026-09-18T12:16:46.6761787Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -45,7 +45,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  421.7
+                                          "value":  423
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -161,7 +161,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  3021.4
+                                          "value":  3026
                                       },
                                       {
                                           "name":  "lasersub",
@@ -195,7 +195,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  19040.9
+                                          "value":  19224.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -221,7 +221,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  8.5
+                                          "value":  9.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 14:16",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Hot Stuff"
+                   },
                    {
                        "time":  "18/09 14:12",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "18/09 13:16",
                        "type":  "leave",
                        "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "18/09 13:16",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Cave Spider"
                    }
                ]
 }
