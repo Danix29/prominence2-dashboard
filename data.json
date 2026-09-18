@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T00:40:55.6179578Z",
+    "updated_at":  "2026-09-18T00:42:09.6842361Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+
                                     ]
                     },
                     {
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  545.4
+                                          "value":  546
                                       },
                                       {
                                           "name":  "lasersub",
@@ -175,7 +175,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9432.7
+                                          "value":  9444.6
                                       }
                                   ],
                      "survivor":  [
@@ -185,7 +185,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  178
+                                          "value":  178.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -232,6 +232,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 02:41",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
                    {
                        "time":  "18/09 02:23",
                        "type":  "logro",
@@ -426,11 +431,6 @@
                        "time":  "17/09 23:41",
                        "type":  "join",
                        "text":  "DanixNuts ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "17/09 23:41",
-                       "type":  "leave",
-                       "text":  "DanixNuts ha salido de Prominence II"
                    }
                ]
 }
