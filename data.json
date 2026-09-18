@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-18T20:51:18.1588444Z",
+    "updated_at":  "2026-09-18T20:52:34.4900946Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  70.4
+                                          "value":  71.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "18/09 22:52",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Netherite Tier Upgrade"
+                   },
                    {
                        "time":  "18/09 22:43",
                        "type":  "leave",
@@ -456,11 +461,6 @@
                    },
                    {
                        "time":  "18/09 20:20",
-                       "type":  "death",
-                       "text":  "Geltz fell from a high place"
-                   },
-                   {
-                       "time":  "18/09 20:19",
                        "type":  "death",
                        "text":  "Geltz fell from a high place"
                    }
