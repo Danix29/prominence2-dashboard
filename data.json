@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:53:10.7411524Z",
+    "updated_at":  "2026-09-19T14:54:26.8780556Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -46,11 +46,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  691.9
+                                          "value":  693.1
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  311.6
+                                          "value":  312.9
                                       }
                                   ],
                      "deaths":  [
@@ -106,7 +106,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  158
+                                       "value":  161
                                    },
                                    {
                                        "name":  "DanixNuts",
@@ -140,7 +140,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  2741.7
+                                          "value":  2757.1
                                       }
                                   ],
                      "dmgtaken":  [
@@ -170,7 +170,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1674.8
+                                          "value":  1695.6
                                       }
                                   ],
                      "distance":  [
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  43237.8
+                                          "value":  43301.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -200,13 +200,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  18214.9
+                                          "value":  18398
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  228.3
+                                          "value":  229.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  29.5
+                                          "value":  30.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 16:54",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro A Realistical Logical Ideologist"
+                   },
                    {
                        "time":  "19/09 16:49",
                        "type":  "leave",
@@ -459,11 +464,6 @@
                        "time":  "19/09 12:25",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Accelerator is an understatement"
-                   },
-                   {
-                       "time":  "19/09 12:25",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Unnatural"
                    }
                ]
 }
