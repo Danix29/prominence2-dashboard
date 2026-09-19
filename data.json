@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T10:10:03.9297850Z",
+    "updated_at":  "2026-09-19T10:11:20.2599058Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  951.5
+                                          "value":  952.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  625.4
+                                          "value":  626.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -176,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  45319.4
+                                          "value":  45368.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  40137.4
+                                          "value":  40179.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  161.8
+                                          "value":  163
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  142.6
+                                          "value":  143.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 12:11",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "19/09 11:58",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "18/09 21:20",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Estrogen"
-                   },
-                   {
-                       "time":  "18/09 21:15",
-                       "type":  "death",
-                       "text":  "Dan_niel03 was slain by Zombie"
                    }
                ]
 }
