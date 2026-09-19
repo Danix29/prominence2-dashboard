@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T10:24:02.5786941Z",
+    "updated_at":  "2026-09-19T10:25:18.7833580Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  965.3
+                                          "value":  966.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  639.3
+                                          "value":  640.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -176,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  45814.9
+                                          "value":  45898.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  40748.7
+                                          "value":  40824.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  175.7
+                                          "value":  177
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  156.4
+                                          "value":  157.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 12:25",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro The Parrots and the Bats"
+                   },
                    {
                        "time":  "19/09 12:17",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "18/09 21:27",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Chest Slayer"
-                   },
-                   {
-                       "time":  "18/09 21:23",
-                       "type":  "death",
-                       "text":  "DanixNuts was blown up by Creeper"
                    }
                ]
 }
