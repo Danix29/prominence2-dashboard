@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T17:26:50.9505653Z",
+    "updated_at":  "2026-09-19T17:28:06.9507577Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,9 +8,9 @@
                         "sleeping":  false,
                         "players":  [
                                         "lasersub",
-                                        "DanixNuts",
                                         "Wenza06",
-                                        "Geltz"
+                                        "Geltz",
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -28,7 +28,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  4521
+                                          "value":  4522.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -36,11 +36,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2829.4
+                                          "value":  2830.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2828.4
+                                          "value":  2829.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -52,13 +52,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  454.3
+                                          "value":  455.6
                                       }
                                   ],
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  66
+                                        "value":  67
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -100,11 +100,11 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  240
+                                       "value":  241
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  215
+                                       "value":  221
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -126,11 +126,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  6408.5
+                                          "value":  6573.2
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  5061.9
+                                          "value":  5088.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -152,7 +152,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  6001.3
+                                          "value":  6154.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -178,15 +178,15 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  57415.5
+                                          "value":  57468
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  53324
+                                          "value":  53401.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  41205.4
+                                          "value":  41362.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -202,21 +202,17 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  27777.5
+                                          "value":  27882.6
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  381.4
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  194.1
+                                          "value":  382.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  171.8
+                                          "value":  173.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -224,7 +220,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  91.8
+                                          "value":  93
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -233,6 +229,10 @@
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  17.7
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.9
                                       }
                                   ],
                      "achievements":  [
@@ -267,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 19:27",
+                       "type":  "death",
+                       "text":  "DanixNuts was blown up by Creeper"
+                   },
                    {
                        "time":  "19/09 19:20",
                        "type":  "logro",
@@ -461,11 +466,6 @@
                        "time":  "19/09 15:06",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Base for upgrades"
-                   },
-                   {
-                       "time":  "19/09 15:01",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Craft basic backpack"
                    }
                ]
 }
