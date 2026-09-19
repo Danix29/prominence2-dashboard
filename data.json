@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T19:03:15.4814141Z",
+    "updated_at":  "2026-09-19T19:04:31.4775749Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -36,6 +36,10 @@
                                           "value":  2965.8
                                       },
                                       {
+                                          "name":  "Miguelhl",
+                                          "value":  2877.7
+                                      },
+                                      {
                                           "name":  "DanixNuts",
                                           "value":  2877.7
                                       },
@@ -44,12 +48,8 @@
                                           "value":  1707.6
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  916.4
-                                      },
-                                      {
                                           "name":  "Wenza06",
-                                          "value":  550.7
+                                          "value":  552
                                       }
                                   ],
                      "deaths":  [
@@ -85,7 +85,7 @@
                      "kills":  [
                                    {
                                        "name":  "Wenza06",
-                                       "value":  526
+                                       "value":  530
                                    },
                                    {
                                        "name":  "Geltz",
@@ -115,7 +115,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Wenza06",
-                                          "value":  17014
+                                          "value":  17170.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  30959
+                                          "value":  30991.8
                                       }
                                   ],
                      "survivor":  [
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  54
+                                          "value":  55.2
                                       },
                                       {
                                           "name":  "DanixNuts",
