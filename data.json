@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:32:54.7413562Z",
+    "updated_at":  "2026-09-19T14:34:10.8753452Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1019.7
+                                          "value":  1021
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  291.3
+                                          "value":  292.6
                                       }
                                   ],
                      "deaths":  [
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  48161.7
+                                          "value":  48192.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  17707.1
+                                          "value":  17712.7
                                       }
                                   ],
                      "survivor":  [
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  10.2
+                                          "value":  11.5
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  9.3
+                                          "value":  10.5
                                       }
                                   ],
                      "achievements":  [
@@ -260,11 +260,16 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  35
+                                              "value":  36
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 16:33",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Suit Up"
+                   },
                    {
                        "time":  "19/09 16:29",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "19/09 12:17",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Diamonds!"
-                   },
-                   {
-                       "time":  "19/09 12:11",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
