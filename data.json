@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:17:41.8252131Z",
+    "updated_at":  "2026-09-19T14:18:57.9536268Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1004.6
+                                          "value":  1005.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  276.1
+                                          "value":  277.4
                                       }
                                   ],
                      "deaths":  [
@@ -90,7 +90,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  276
+                                       "value":  280
                                    },
                                    {
                                        "name":  "lasersub",
@@ -110,13 +110,13 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  128
+                                       "value":  141
                                    }
                                ],
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7542
+                                          "value":  7599.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -140,13 +140,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  2403.8
+                                          "value":  2615
                                       }
                                   ],
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7325.3
+                                          "value":  7389.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -170,13 +170,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1377.1
+                                          "value":  1445.4
                                       }
                                   ],
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  47248.8
+                                          "value":  47386.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  16404.3
+                                          "value":  16572.1
                                       }
                                   ],
                      "survivor":  [
@@ -210,7 +210,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  195.7
+                                          "value":  196.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  40.2
+                                          "value":  41.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -260,11 +260,16 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  34
+                                              "value":  35
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 16:18",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Archer´s Paths"
+                   },
                    {
                        "time":  "19/09 16:16",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "19/09 11:53",
                        "type":  "join",
                        "text":  "lasersub ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "19/09 00:29",
-                       "type":  "leave",
-                       "text":  "Wenza06 ha salido de Prominence II"
                    }
                ]
 }
