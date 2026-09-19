@@ -1,11 +1,11 @@
 {
-    "updated_at":  "2026-09-19T12:12:03.2994084Z",
+    "updated_at":  "2026-09-19T12:16:48.7602819Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  true,
-                        "sleeping":  false,
+                        "running":  false,
+                        "sleeping":  true,
                         "players":  [
 
                                     ]
