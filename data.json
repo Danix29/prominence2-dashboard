@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T15:43:53.2311400Z",
+    "updated_at":  "2026-09-19T15:45:09.3910973Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06",
                                         "lasersub",
-                                        "Geltz"
+                                        "Geltz",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1080.8
+                                          "value":  1082.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  742.6
+                                          "value":  743.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -51,7 +51,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  362.3
+                                          "value":  363.6
                                       }
                                   ],
                      "deaths":  [
@@ -81,7 +81,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  13
+                                        "value":  14
                                     }
                                 ],
                      "kills":  [
@@ -103,7 +103,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  178
+                                       "value":  179
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -117,7 +117,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7922.6
+                                          "value":  7923.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -141,7 +141,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  2974.9
+                                          "value":  3017.2
                                       }
                                   ],
                      "dmgtaken":  [
@@ -171,17 +171,17 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1781.4
+                                          "value":  1855.3
                                       }
                                   ],
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  51239.4
+                                          "value":  51334.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  45708.2
+                                          "value":  45810
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -201,13 +201,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  21369.4
+                                          "value":  21491.8
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  279
+                                          "value":  280.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -218,12 +218,8 @@
                                           "value":  106.9
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  80.2
-                                      },
-                                      {
                                           "name":  "Geltz",
-                                          "value":  72.4
+                                          "value":  73.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -232,6 +228,10 @@
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  17.7
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  0.3
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 17:44",
+                       "type":  "death",
+                       "text":  "Wenza06 was slain by Wither Skeleton"
+                   },
                    {
                        "time":  "19/09 17:42",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "19/09 12:48",
                        "type":  "join",
                        "text":  "Dan_niel03 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "19/09 12:38",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
