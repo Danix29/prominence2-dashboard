@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T09:58:37.4578925Z",
+    "updated_at":  "2026-09-19T09:59:53.6047223Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  940.3
+                                          "value":  941.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  614.2
+                                          "value":  615.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -176,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  44633.6
+                                          "value":  44708.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  39446.4
+                                          "value":  39499.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  150.6
+                                          "value":  151.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  131.4
+                                          "value":  132.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -256,7 +256,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  70
+                                              "value":  71
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 11:58",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro The Parrots and the Bats"
+                   },
                    {
                        "time":  "19/09 11:56",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "18/09 21:15",
                        "type":  "death",
                        "text":  "Dan_niel03 was slain by Zombie"
-                   },
-                   {
-                       "time":  "18/09 21:00",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Modern Industrialization"
                    }
                ]
 }
