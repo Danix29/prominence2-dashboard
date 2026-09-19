@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T10:48:10.4468832Z",
+    "updated_at":  "2026-09-19T10:49:26.5894993Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub"
+                                        "lasersub",
+                                        "Dan_niel03"
                                     ]
                     },
                     {
@@ -36,16 +37,16 @@
                                           "value":  784.4
                                       },
                                       {
+                                          "name":  "Dan_niel03",
+                                          "value":  707.6
+                                      },
+                                      {
                                           "name":  "DanixNuts",
                                           "value":  707.2
                                       },
                                       {
-                                          "name":  "Dan_niel03",
-                                          "value":  707.2
-                                      },
-                                      {
                                           "name":  "lasersub",
-                                          "value":  663.5
+                                          "value":  664.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -179,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  41588.8
+                                          "value":  41596.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -187,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  33918.1
+                                          "value":  33955.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -205,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  199.9
+                                          "value":  201.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -217,7 +218,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  78.1
+                                          "value":  78.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 12:48",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "19/09 12:38",
                        "type":  "leave",
@@ -458,11 +464,6 @@
                        "time":  "18/09 22:36",
                        "type":  "join",
                        "text":  "Wenza06 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "18/09 22:27",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro The Basics"
                    }
                ]
 }
