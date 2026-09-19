@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T15:41:20.8715354Z",
+    "updated_at":  "2026-09-19T15:42:36.8637617Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1078.3
+                                          "value":  1079.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  740
+                                          "value":  741.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -51,7 +51,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  359.8
+                                          "value":  361
                                       }
                                   ],
                      "deaths":  [
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  51123.7
+                                          "value":  51154.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  45567.9
+                                          "value":  45622.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -201,13 +201,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  21170.1
+                                          "value":  21232.6
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  276.4
+                                          "value":  277.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -219,11 +219,11 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  77.7
+                                          "value":  79
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  69.8
+                                          "value":  71.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -261,11 +261,16 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  37
+                                              "value":  38
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 17:42",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Super Creeps"
+                   },
                    {
                        "time":  "19/09 17:18",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "19/09 12:38",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "19/09 12:34",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Alloying Bliss"
                    }
                ]
 }
