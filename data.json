@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:59:30.7799457Z",
+    "updated_at":  "2026-09-19T15:00:46.9359885Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1036.4
+                                          "value":  1037.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -47,11 +47,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  698.2
+                                          "value":  699.5
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  317.9
+                                          "value":  319.2
                                       }
                                   ],
                      "deaths":  [
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  48806
+                                          "value":  48869.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  43623.1
+                                          "value":  43655
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  234.6
+                                          "value":  235.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -223,11 +223,11 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  35.9
+                                          "value":  37.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  28
+                                          "value":  29.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -253,7 +253,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  81
+                                              "value":  82
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 17:00",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Vivid Wave"
+                   },
                    {
                        "time":  "19/09 16:57",
                        "type":  "join",
@@ -460,11 +465,6 @@
                        "time":  "19/09 12:31",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Now We\u0027re Alloying"
-                   },
-                   {
-                       "time":  "19/09 12:28",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Fluix Energy Connection"
                    }
                ]
 }
