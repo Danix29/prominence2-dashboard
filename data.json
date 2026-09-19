@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T10:25:18.7833580Z",
+    "updated_at":  "2026-09-19T10:26:34.8109401Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  966.6
+                                          "value":  967.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  640.6
+                                          "value":  641.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -176,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  45898.1
+                                          "value":  45938.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  40824.9
+                                          "value":  40901.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  177
+                                          "value":  178.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  157.7
+                                          "value":  159
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  93
+                                              "value":  94
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -256,7 +256,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  72
+                                              "value":  75
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 12:25",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Accelerator is an understatement"
+                   },
+                   {
+                       "time":  "19/09 12:25",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Unnatural"
+                   },
+                   {
+                       "time":  "19/09 12:25",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Shocking"
+                   },
                    {
                        "time":  "19/09 12:25",
                        "type":  "logro",
@@ -449,21 +464,6 @@
                        "time":  "18/09 21:37",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro The Secrets of Enchanting"
-                   },
-                   {
-                       "time":  "18/09 21:35",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Quite the Renovation"
-                   },
-                   {
-                       "time":  "18/09 21:35",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Quite the Renovation"
-                   },
-                   {
-                       "time":  "18/09 21:27",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Chest Slayer"
                    }
                ]
 }
