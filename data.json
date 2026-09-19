@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T10:34:12.1298073Z",
+    "updated_at":  "2026-09-19T10:35:28.5301812Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  975.5
+                                          "value":  976.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  649.5
+                                          "value":  650.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -176,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  46228.2
+                                          "value":  46272.2
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  41051.1
+                                          "value":  41119.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  185.9
+                                          "value":  187.2
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  166.6
+                                          "value":  167.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -248,15 +248,15 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  95
+                                              "value":  96
+                                          },
+                                          {
+                                              "name":  "lasersub",
+                                              "value":  78
                                           },
                                           {
                                               "name":  "Dan_niel03",
                                               "value":  78
-                                          },
-                                          {
-                                              "name":  "lasersub",
-                                              "value":  77
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 12:34",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Alloying Bliss"
+                   },
+                   {
+                       "time":  "19/09 12:34",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Alloying Bliss"
+                   },
                    {
                        "time":  "19/09 12:31",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "18/09 22:27",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Enchanter"
-                   },
-                   {
-                       "time":  "18/09 22:27",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Eterna, Quanta, Arcana"
-                   },
-                   {
-                       "time":  "18/09 22:00",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Networking Switchboard"
                    }
                ]
 }
