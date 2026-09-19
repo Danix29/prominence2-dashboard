@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:56:58.6992358Z",
+    "updated_at":  "2026-09-19T14:58:14.8898771Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "Wenza06",
-                                        "lasersub"
+                                        "lasersub",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -26,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1035
+                                          "value":  1035.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -46,11 +47,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  695.7
+                                          "value":  696.9
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  315.4
+                                          "value":  316.7
                                       }
                                   ],
                      "deaths":  [
@@ -106,7 +107,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  161
+                                       "value":  163
                                    },
                                    {
                                        "name":  "DanixNuts",
@@ -140,7 +141,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  2757.1
+                                          "value":  2791.6
                                       }
                                   ],
                      "dmgtaken":  [
@@ -166,21 +167,21 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2349.5
+                                          "value":  2352.2
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1695.6
+                                          "value":  1698.2
                                       }
                                   ],
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  48741
+                                          "value":  48745.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  43459.6
+                                          "value":  43587.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -200,13 +201,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  18550.9
+                                          "value":  18652.7
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  232.1
+                                          "value":  233.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -222,11 +223,11 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  33.3
+                                          "value":  34.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  26.4
+                                          "value":  26.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -260,11 +261,21 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  36
+                                              "value":  37
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 16:57",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "19/09 16:57",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Time to sleep"
+                   },
                    {
                        "time":  "19/09 16:54",
                        "type":  "logro",
@@ -454,16 +465,6 @@
                        "time":  "19/09 12:28",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Fluix Energy Connection"
-                   },
-                   {
-                       "time":  "19/09 12:28",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Fluix Energy Connection"
-                   },
-                   {
-                       "time":  "19/09 12:25",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Accelerator is an understatement"
                    }
                ]
 }
