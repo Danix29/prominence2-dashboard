@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T10:58:20.0600825Z",
+    "updated_at":  "2026-09-19T10:59:36.3298966Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  986.1
+                                          "value":  987.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  716.5
+                                          "value":  717.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  673.6
+                                          "value":  674.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  46612.5
+                                          "value":  46656.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  42093.8
+                                          "value":  42175.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  34226.3
+                                          "value":  34271.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  210
+                                          "value":  211.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  177.2
+                                          "value":  178.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -219,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  87.6
+                                          "value":  88.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -266,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 12:58",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "19/09 12:58",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "19/09 12:55",
                        "type":  "logro",
@@ -455,16 +465,6 @@
                        "time":  "18/09 22:52",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Netherite Tier Upgrade"
-                   },
-                   {
-                       "time":  "18/09 22:43",
-                       "type":  "leave",
-                       "text":  "Wenza06 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "18/09 22:39",
-                       "type":  "leave",
-                       "text":  "Dan_niel03 ha salido de Prominence II"
                    }
                ]
 }
