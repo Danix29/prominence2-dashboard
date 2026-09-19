@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:24:02.2577819Z",
+    "updated_at":  "2026-09-19T14:25:18.2176754Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06",
-                                        "Geltz"
+                                        "Geltz",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1010.9
+                                          "value":  1012.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  282.5
+                                          "value":  283.7
                                       }
                                   ],
                      "deaths":  [
@@ -146,7 +146,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7648.6
+                                          "value":  7683.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  47944.2
+                                          "value":  48011.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  16990.5
+                                          "value":  17105.5
                                       }
                                   ],
                      "survivor":  [
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1.4
+                                          "value":  2.6
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  0.4
+                                          "value":  1.7
                                       }
                                   ],
                      "achievements":  [
