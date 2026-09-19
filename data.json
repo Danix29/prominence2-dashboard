@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T15:17:15.6886294Z",
+    "updated_at":  "2026-09-19T15:18:31.7223384Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,7 +31,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1054.2
+                                          "value":  1055.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -47,11 +47,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  715.9
+                                          "value":  717.2
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  335.7
+                                          "value":  337
                                       }
                                   ],
                      "deaths":  [
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  49794.4
+                                          "value":  49833.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -201,13 +201,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  19913.8
+                                          "value":  19932.6
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  252.3
+                                          "value":  253.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -219,11 +219,11 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  53.6
+                                          "value":  54.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  45.8
+                                          "value":  47
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -249,7 +249,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  97
+                                              "value":  98
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 17:18",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Crops of the Wild"
+                   },
                    {
                        "time":  "19/09 17:10",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "19/09 12:34",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Alloying Bliss"
-                   },
-                   {
-                       "time":  "19/09 12:34",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Alloying Bliss"
                    }
                ]
 }
