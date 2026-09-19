@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T09:56:04.7935081Z",
+    "updated_at":  "2026-09-19T09:57:20.8796997Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub"
+                                        "lasersub",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -24,19 +25,23 @@
     "rankings":  {
                      "playtime":  [
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  707.2
-                                      },
-                                      {
                                           "name":  "Dan_niel03",
                                           "value":  707.2
                                       },
                                       {
+                                          "name":  "DanixNuts",
+                                          "value":  707.2
+                                      },
+                                      {
                                           "name":  "lasersub",
-                                          "value":  2.1
+                                          "value":  3.3
                                       },
                                       {
                                           "name":  "Geltz",
+                                          "value":  0.4
+                                      },
+                                      {
+                                          "name":  "Wenza06",
                                           "value":  0
                                       },
                                       {
@@ -45,10 +50,6 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  0
-                                      },
-                                      {
-                                          "name":  "Wenza06",
                                           "value":  0
                                       }
                                   ],
@@ -175,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  44494.6
+                                          "value":  44517
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  39261.6
+                                          "value":  39301
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -205,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  148.1
+                                          "value":  149.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -213,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  129.5
+                                          "value":  130.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 11:56",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "19/09 11:53",
                        "type":  "join",
@@ -458,11 +464,6 @@
                        "time":  "18/09 21:00",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Modern Industrialization"
-                   },
-                   {
-                       "time":  "18/09 20:52",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
                    }
                ]
 }
