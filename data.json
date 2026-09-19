@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T15:09:39.0900797Z",
+    "updated_at":  "2026-09-19T15:10:55.3169012Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,16 +26,16 @@
     "rankings":  {
                      "playtime":  [
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  2776.6
-                                      },
-                                      {
                                           "name":  "DanixNuts",
                                           "value":  2776.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1046.6
+                                          "value":  1047.9
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  916.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -47,11 +47,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  708.3
+                                          "value":  709.6
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  328.1
+                                          "value":  329.4
                                       }
                                   ],
                      "deaths":  [
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7707.6
+                                          "value":  7709.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  49468
+                                          "value":  49601.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  44097.1
+                                          "value":  44140.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -201,13 +201,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  19552.4
+                                          "value":  19693.6
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  244.7
+                                          "value":  246
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -219,15 +219,15 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  46
+                                          "value":  47.3
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  39.4
                                       },
                                       {
                                           "name":  "Miguelhl",
                                           "value":  39
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  38.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -253,7 +253,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  82
+                                              "value":  83
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 17:10",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Electric Magic"
+                   },
                    {
                        "time":  "19/09 17:00",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "19/09 12:34",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Alloying Bliss"
-                   },
-                   {
-                       "time":  "19/09 12:31",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Now We\u0027re Alloying"
                    }
                ]
 }
