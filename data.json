@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T12:52:57.5296821Z",
+    "updated_at":  "2026-09-19T12:54:13.4080621Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  235.6
+                                          "value":  236.9
                                       }
                                   ],
                      "deaths":  [
@@ -79,7 +79,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  10
+                                        "value":  11
                                     }
                                 ],
                      "kills":  [
@@ -109,7 +109,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  108
+                                       "value":  110
                                    }
                                ],
                      "dmgdealt":  [
@@ -139,7 +139,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  2106.5
+                                          "value":  2158.8
                                       }
                                   ],
                      "dmgtaken":  [
@@ -169,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1165.4
+                                          "value":  1234
                                       }
                                   ],
                      "distance":  [
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  14431.7
+                                          "value":  14551.1
                                       }
                                   ],
                      "survivor":  [
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1.2
+                                          "value":  1
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 14:53",
+                       "type":  "death",
+                       "text":  "Wenza06 was shot by Skeleton"
+                   },
                    {
                        "time":  "19/09 14:51",
                        "type":  "death",
@@ -458,11 +463,6 @@
                        "time":  "18/09 23:51",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro The Lighthouse"
-                   },
-                   {
-                       "time":  "18/09 23:45",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro (Optional) Fluid Tanks Upgrade"
                    }
                ]
 }
