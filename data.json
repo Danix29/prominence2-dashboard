@@ -1,10 +1,10 @@
 {
-    "updated_at":  "2026-09-19T12:25:02.9131502Z",
+    "updated_at":  "2026-09-19T12:26:21.0042623Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
 
@@ -265,6 +265,11 @@
                  },
     "events":  [
                    {
+                       "time":  "19/09 14:26",
+                       "type":  "join",
+                       "text":  "Wenza06 ha entrado en Prominence II"
+                   },
+                   {
                        "time":  "19/09 13:17",
                        "type":  "leave",
                        "text":  "Dan_niel03 ha salido de Prominence II"
@@ -458,11 +463,6 @@
                        "time":  "18/09 23:29",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Spore Galore"
-                   },
-                   {
-                       "time":  "18/09 23:29",
-                       "type":  "leave",
-                       "text":  "Wenza06 ha salido de Prominence II"
                    }
                ]
 }
