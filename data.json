@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:40:31.1225389Z",
+    "updated_at":  "2026-09-19T14:41:47.0463158Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1027.3
+                                          "value":  1028.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  298.9
+                                          "value":  300.2
                                       }
                                   ],
                      "deaths":  [
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  48313.7
+                                          "value":  48347.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  18011.3
+                                          "value":  18030.1
                                       }
                                   ],
                      "survivor":  [
@@ -222,15 +222,15 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17.8
+                                          "value":  19.1
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  18.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  17.7
-                                      },
-                                      {
-                                          "name":  "Wenza06",
-                                          "value":  16.9
                                       }
                                   ],
                      "achievements":  [
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  96
+                                              "value":  97
                                           },
                                           {
                                               "name":  "lasersub",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 16:40",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro A (Much) Bigger Table"
+                   },
                    {
                        "time":  "19/09 16:33",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "19/09 12:25",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro The Parrots and the Bats"
-                   },
-                   {
-                       "time":  "19/09 12:17",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Diamonds!"
                    }
                ]
 }
