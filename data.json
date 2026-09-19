@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:22:46.1466114Z",
+    "updated_at":  "2026-09-19T14:24:02.2577819Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz",
-                                        "Wenza06"
+                                        "Wenza06",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1009.6
+                                          "value":  1010.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  281.2
+                                          "value":  282.5
                                       }
                                   ],
                      "deaths":  [
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  38
+                                        "value":  39
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -80,7 +80,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  12
+                                        "value":  13
                                     }
                                 ],
                      "kills":  [
@@ -110,7 +110,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  145
+                                       "value":  146
                                    }
                                ],
                      "dmgdealt":  [
@@ -146,7 +146,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7639.9
+                                          "value":  7648.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -170,13 +170,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1537
+                                          "value":  1606.9
                                       }
                                   ],
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  47861.5
+                                          "value":  47944.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  16895.6
+                                          "value":  16990.5
                                       }
                                   ],
                      "survivor":  [
@@ -225,12 +225,12 @@
                                           "value":  17.7
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  3.5
+                                          "name":  "Geltz",
+                                          "value":  1.4
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  0.1
+                                          "name":  "Wenza06",
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 16:23",
+                       "type":  "death",
+                       "text":  "Wenza06 fell from a high place"
+                   },
                    {
                        "time":  "19/09 16:22",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "19/09 11:58",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro The Parrots and the Bats"
-                   },
-                   {
-                       "time":  "19/09 11:56",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
