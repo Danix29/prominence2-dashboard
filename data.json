@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T10:27:51.1063561Z",
+    "updated_at":  "2026-09-19T10:29:07.2697249Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  969.1
+                                          "value":  970.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  643.1
+                                          "value":  644.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -176,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  46011.2
+                                          "value":  46086.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  40934.7
+                                          "value":  40943.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  179.6
+                                          "value":  180.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  160.2
+                                          "value":  161.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  94
+                                              "value":  95
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -256,7 +256,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  75
+                                              "value":  76
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 12:28",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Fluix Energy Connection"
+                   },
+                   {
+                       "time":  "19/09 12:28",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Fluix Energy Connection"
+                   },
                    {
                        "time":  "19/09 12:25",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "18/09 22:00",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Networking Switchboard"
-                   },
-                   {
-                       "time":  "18/09 21:40",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Slime"
-                   },
-                   {
-                       "time":  "18/09 21:37",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro The Secrets of Enchanting"
                    }
                ]
 }
