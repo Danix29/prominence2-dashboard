@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T11:17:21.9739848Z",
+    "updated_at":  "2026-09-19T11:18:38.0553494Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Dan_niel03"
+
                                     ]
                     },
                     {
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  735.5
+                                          "value":  736
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -187,7 +187,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  35138.5
+                                          "value":  35155.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  106.6
+                                          "value":  106.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 13:17",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
                    {
                        "time":  "19/09 13:15",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "18/09 23:29",
                        "type":  "leave",
                        "text":  "Wenza06 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "18/09 23:27",
-                       "type":  "join",
-                       "text":  "Wenza06 ha entrado en Prominence II"
                    }
                ]
 }
