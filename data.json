@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T14:41:47.0463158Z",
+    "updated_at":  "2026-09-19T14:43:02.9664198Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "Wenza06",
-                                        "Geltz"
+                                        "Geltz",
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -26,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1028.6
+                                          "value":  1029.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -46,11 +47,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  681.3
+                                          "value":  681.7
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  300.2
+                                          "value":  301.5
                                       }
                                   ],
                      "deaths":  [
@@ -176,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  48347.1
+                                          "value":  48452.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  42568.1
+                                          "value":  42575
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  217.5
+                                          "value":  218.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -222,11 +223,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  19.1
+                                          "value":  20.3
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  18.1
+                                          "value":  19.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -265,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 16:42",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "19/09 16:40",
                        "type":  "logro",
@@ -459,11 +465,6 @@
                        "time":  "19/09 12:25",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Shocking"
-                   },
-                   {
-                       "time":  "19/09 12:25",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro The Parrots and the Bats"
                    }
                ]
 }
