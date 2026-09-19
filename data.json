@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-19T13:10:41.8830430Z",
+    "updated_at":  "2026-09-19T13:11:57.9458971Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06"
+
                                     ]
                     },
                     {
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  253.3
+                                          "value":  254.1
                                       }
                                   ],
                      "deaths":  [
@@ -224,12 +224,12 @@
                                           "value":  39
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  17.7
+                                          "name":  "Wenza06",
+                                          "value":  18
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  17.4
+                                          "name":  "daaviid_2006",
+                                          "value":  17.7
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "19/09 15:11",
+                       "type":  "leave",
+                       "text":  "Wenza06 ha salido de Prominence II"
+                   },
                    {
                        "time":  "19/09 15:06",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "19/09 00:04",
                        "type":  "leave",
                        "text":  "DanixNuts ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "19/09 00:02",
-                       "type":  "death",
-                       "text":  "Wenza06 was slain by Bear"
                    }
                ]
 }
