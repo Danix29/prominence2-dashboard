@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T19:57:49.8477352Z",
+    "updated_at":  "2026-09-20T19:59:05.9988284Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4539.4
+                                          "value":  4540.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3326.9
+                                          "value":  3328.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -162,7 +162,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  5941.1
+                                          "value":  5968.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  66742
+                                          "value":  66830.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  42267.4
+                                          "value":  42377.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -222,11 +222,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  8.3
+                                          "value":  9.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  6.5
+                                          "value":  7.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -256,7 +256,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  83
+                                              "value":  84
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 21:58",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Tunnel Treasures"
+                   },
                    {
                        "time":  "20/09 21:51",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "20/09 19:53",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 19:53",
-                       "type":  "leave",
-                       "text":  "Dan_niel03 ha salido de Prominence II"
                    }
                ]
 }
