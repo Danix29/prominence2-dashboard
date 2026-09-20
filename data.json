@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T14:11:42.8948702Z",
+    "updated_at":  "2026-09-20T14:12:58.7789712Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3121.5
+                                          "value":  3122.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -209,7 +209,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  293.9
+                                          "value":  295.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  162
+                                              "value":  163
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 16:11",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro From Minecraft to Craft"
+                   },
                    {
                        "time":  "20/09 15:54",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "19/09 20:21",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Source of Evil"
-                   },
-                   {
-                       "time":  "19/09 20:21",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Noisy Lover Soul"
                    }
                ]
 }
