@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T11:26:55.0633591Z",
+    "updated_at":  "2026-09-20T11:28:10.9984616Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
-                                        "Miguelhl"
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -38,11 +37,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2956.7
+                                          "value":  2957.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2956.3
+                                          "value":  2956.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -98,7 +97,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  307
+                                       "value":  308
                                    },
                                    {
                                        "name":  "lasersub",
@@ -124,7 +123,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8777.6
+                                          "value":  8828.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -150,7 +149,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  6997.9
+                                          "value":  7028.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +183,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  50037.3
+                                          "value":  50078.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -214,11 +213,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  129.1
+                                          "value":  130.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  117.8
+                                          "value":  118
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 13:27",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "20/09 13:26",
                        "type":  "join",
@@ -459,11 +463,6 @@
                        "time":  "19/09 18:57",
                        "type":  "join",
                        "text":  "Wenza06 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "19/09 18:57",
-                       "type":  "leave",
-                       "text":  "Wenza06 ha salido de Prominence II"
                    }
                ]
 }
