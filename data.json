@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T12:49:19.3343866Z",
+    "updated_at":  "2026-09-20T12:50:35.2274646Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3039.1
+                                          "value":  3040.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  54142.1
+                                          "value":  54163.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -213,7 +213,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  211.5
+                                          "value":  212.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  159
+                                              "value":  160
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 14:49",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Mixing Without Mixins"
+                   },
                    {
                        "time":  "20/09 14:47",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "19/09 20:17",
                        "type":  "leave",
                        "text":  "DanixNuts ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "19/09 20:11",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Is this thing alive?"
                    }
                ]
 }
