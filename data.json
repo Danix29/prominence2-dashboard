@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T11:53:32.8485593Z",
+    "updated_at":  "2026-09-20T11:54:48.8772888Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2983.3
+                                          "value":  2984.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2979.9
+                                          "value":  2981.2
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2978.4
+                                          "value":  2979.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -181,15 +181,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  57655.3
+                                          "value":  57665.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  52501
+                                          "value":  52613.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  39310.7
+                                          "value":  39316.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  478.4
+                                          "value":  479.7
                                       },
                                       {
                                           "name":  "Geltz",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  155.8
+                                          "value":  157
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  141.4
+                                          "value":  142.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  135
+                                              "value":  136
                                           },
                                           {
                                               "name":  "Geltz",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 13:53",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro The Purity of the Seas"
+                   },
                    {
                        "time":  "20/09 13:50",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "19/09 19:07",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "19/09 19:07",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Ice Bucket Challenge"
                    }
                ]
 }
