@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T12:34:07.6383600Z",
+    "updated_at":  "2026-09-20T12:35:23.6111886Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3023.9
+                                          "value":  3025.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3020.5
+                                          "value":  3021.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3019
+                                          "value":  3020.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -181,15 +181,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  59484
+                                          "value":  59506.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  53797.8
+                                          "value":  53802.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  41934.2
+                                          "value":  42017
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  519
+                                          "value":  520.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  196.3
+                                          "value":  197.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  182
+                                          "value":  183.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  138
+                                              "value":  139
                                           },
                                           {
                                               "name":  "Geltz",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 14:34",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Sleeping in the Cold Below"
+                   },
                    {
                        "time":  "20/09 14:19",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "19/09 19:51",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Time to sleep"
-                   },
-                   {
-                       "time":  "19/09 19:35",
-                       "type":  "death",
-                       "text":  "Wenza06 was slain by Wither Skeleton"
                    }
                ]
 }
