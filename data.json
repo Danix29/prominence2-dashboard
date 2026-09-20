@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T10:28:37.5629440Z",
+    "updated_at":  "2026-09-20T10:29:53.4468128Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,11 +38,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2898.4
+                                          "value":  2899.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2898.4
+                                          "value":  2899.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8750
+                                          "value":  8777.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -140,7 +140,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3123.4
+                                          "value":  3126.4
                                       }
                                   ],
                      "dmgtaken":  [
@@ -150,11 +150,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  6897.1
+                                          "value":  6937.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5880.7
+                                          "value":  5908
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -184,11 +184,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  47701.4
+                                          "value":  47796.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  35203
+                                          "value":  35283
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,11 +222,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  70.8
+                                          "value":  72.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  59.9
+                                          "value":  61.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 12:29",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 12:29",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "20/09 12:07",
                        "type":  "join",
@@ -454,16 +464,6 @@
                        "time":  "19/09 17:50",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Spooky Scary Skeleton"
-                   },
-                   {
-                       "time":  "19/09 17:44",
-                       "type":  "death",
-                       "text":  "Wenza06 was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "19/09 17:42",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Super Creeps"
                    }
                ]
 }
