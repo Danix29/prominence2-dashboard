@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T15:39:09.2566289Z",
+    "updated_at":  "2026-09-20T15:44:09.1875642Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -265,6 +265,16 @@
                  },
     "events":  [
                    {
+                       "time":  "20/09 17:44",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 17:44",
+                       "type":  "mg",
+                       "text":  "daaviid_2006 ha entrado en Minijuegos"
+                   },
+                   {
                        "time":  "20/09 17:38",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
@@ -451,16 +461,6 @@
                    },
                    {
                        "time":  "20/09 13:26",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 13:25",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 13:25",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
                    }
