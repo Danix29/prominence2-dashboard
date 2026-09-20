@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T18:50:38.2213805Z",
+    "updated_at":  "2026-09-20T18:51:54.1484549Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4472.3
+                                          "value":  4473.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3259.8
+                                          "value":  3261
                                       },
                                       {
                                           "name":  "lasersub",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1776.4
+                                          "value":  1777.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  63001.5
+                                          "value":  63118.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -193,11 +193,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  37891.6
+                                          "value":  38013
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  36617.5
+                                          "value":  36793.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -205,10 +205,6 @@
                                       }
                                   ],
                      "survivor":  [
-                                      {
-                                          "name":  "Miguelhl",
-                                          "value":  571.5
-                                      },
                                       {
                                           "name":  "lasersub",
                                           "value":  568.4
@@ -218,20 +214,24 @@
                                           "value":  255.9
                                       },
                                       {
+                                          "name":  "Miguelhl",
+                                          "value":  199
+                                      },
+                                      {
                                           "name":  "Wenza06",
                                           "value":  74.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  22
+                                          "value":  23.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  14.9
+                                          "value":  16.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  14.3
+                                          "value":  15.5
                                       }
                                   ],
                      "achievements":  [
