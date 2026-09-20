@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T12:39:11.6234896Z",
+    "updated_at":  "2026-09-20T12:40:27.6299725Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,7 @@
                         "sleeping":  false,
                         "players":  [
                                         "DanixNuts",
-                                        "Miguelhl",
-                                        "lasersub"
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -35,15 +34,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3029
+                                          "value":  3030.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3025.5
+                                          "value":  3026.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3024.1
+                                          "value":  3024.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -181,15 +180,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  59725.9
+                                          "value":  59729
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  53950.2
+                                          "value":  54016.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  42303.4
+                                          "value":  42372
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  524
+                                          "value":  524.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -215,11 +214,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  201.4
+                                          "value":  202.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  187.1
+                                          "value":  188.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -245,7 +244,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  139
+                                              "value":  142
                                           },
                                           {
                                               "name":  "Geltz",
@@ -266,6 +265,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 14:39",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Delving Into Darkness"
+                   },
+                   {
+                       "time":  "20/09 14:39",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Rolling the Dice"
+                   },
+                   {
+                       "time":  "20/09 14:39",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Introduction to Chaos"
+                   },
+                   {
+                       "time":  "20/09 14:39",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "20/09 14:34",
                        "type":  "logro",
@@ -445,26 +464,6 @@
                        "time":  "19/09 20:09",
                        "type":  "death",
                        "text":  "Wenza06 withered away whilst fighting Wither Skeleton"
-                   },
-                   {
-                       "time":  "19/09 20:08",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro False Water"
-                   },
-                   {
-                       "time":  "19/09 20:07",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Meteorite Hunter"
-                   },
-                   {
-                       "time":  "19/09 19:57",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Accumulating"
-                   },
-                   {
-                       "time":  "19/09 19:51",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Time to sleep"
                    }
                ]
 }
