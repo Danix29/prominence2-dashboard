@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T18:18:56.7497277Z",
+    "updated_at":  "2026-09-20T18:20:12.8972943Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4440.7
+                                          "value":  4442
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3228.1
+                                          "value":  3229.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1744.7
+                                          "value":  1745.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -163,7 +163,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4297.1
+                                          "value":  4299.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  36461.4
+                                          "value":  36467
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -219,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  142.8
+                                          "value":  144.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -227,11 +227,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  55
+                                          "value":  56.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  54.7
+                                          "value":  56
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 20:20",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Airship Village"
+                   },
                    {
                        "time":  "20/09 20:18",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "20/09 17:44",
                        "type":  "mg",
                        "text":  "Miguelhl ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "20/09 17:44",
-                       "type":  "mg",
-                       "text":  "DanixNuts ha entrado en Minijuegos"
                    }
                ]
 }
