@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T14:42:06.8539728Z",
+    "updated_at":  "2026-09-20T14:43:22.9197109Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3151.9
+                                          "value":  3153.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -55,7 +55,7 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  67
+                                        "value":  68
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -97,7 +97,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  316
+                                       "value":  326
                                    },
                                    {
                                        "name":  "lasersub",
@@ -119,7 +119,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9061
+                                          "value":  9281.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -149,7 +149,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  7537.4
+                                          "value":  7685.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  56930
+                                          "value":  57083.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -208,10 +208,6 @@
                                           "value":  524.6
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  324.3
-                                      },
-                                      {
                                           "name":  "Geltz",
                                           "value":  255.9
                                       },
@@ -230,6 +226,10 @@
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  17.7
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 16:42",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Zombie"
+                   },
                    {
                        "time":  "20/09 16:11",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "19/09 20:43",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro It\u0027s Chargin\u0027 Time !"
-                   },
-                   {
-                       "time":  "19/09 20:21",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Source of Evil"
                    }
                ]
 }
