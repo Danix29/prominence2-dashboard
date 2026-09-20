@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T16:20:32.2169900Z",
+    "updated_at":  "2026-09-20T16:21:35.3055779Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -16,11 +16,11 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
-                                        "Dan_niel03",
-                                        "daaviid_2006",
                                         "lasersub",
-                                        "Miguelhl"
+                                        "daaviid_2006",
+                                        "DanixNuts",
+                                        "Miguelhl",
+                                        "Dan_niel03"
                                     ]
                     }
                 ],
