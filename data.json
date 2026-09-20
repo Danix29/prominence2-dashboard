@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T10:57:46.5147524Z",
+    "updated_at":  "2026-09-20T10:59:02.4094220Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,11 +38,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2927.5
+                                          "value":  2928.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2927.5
+                                          "value":  2928.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -184,11 +184,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  49440.3
+                                          "value":  49476.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  36292.6
+                                          "value":  36306.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -218,11 +218,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  100
+                                          "value":  101.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  89
+                                          "value":  90.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -236,7 +236,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  156
+                                              "value":  157
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 12:58",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro What a Deal!"
+                   },
                    {
                        "time":  "20/09 12:29",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "19/09 18:29",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Cover Me with Diamonds"
-                   },
-                   {
-                       "time":  "19/09 17:50",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Spooky Scary Skeleton"
                    }
                ]
 }
