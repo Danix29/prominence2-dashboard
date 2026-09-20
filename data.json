@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T18:17:40.5742446Z",
+    "updated_at":  "2026-09-20T18:18:56.7497277Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4439.4
+                                          "value":  4440.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3226.8
+                                          "value":  3228.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1743.4
+                                          "value":  1744.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  36455.3
+                                          "value":  36461.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -219,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  141.5
+                                          "value":  142.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -227,11 +227,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  53.7
+                                          "value":  55
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  53.4
+                                          "value":  54.7
                                       }
                                   ],
                      "achievements":  [
@@ -257,7 +257,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  79
+                                              "value":  80
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 20:18",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Ice Maze"
+                   },
                    {
                        "time":  "20/09 20:05",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "20/09 17:44",
                        "type":  "mg",
                        "text":  "DanixNuts ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "20/09 17:44",
-                       "type":  "mg",
-                       "text":  "daaviid_2006 ha entrado en Minijuegos"
                    }
                ]
 }
