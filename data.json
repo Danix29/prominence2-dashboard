@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T18:21:28.8667034Z",
+    "updated_at":  "2026-09-20T18:22:44.9456700Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4443.2
+                                          "value":  4444.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3230.6
+                                          "value":  3231.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1747.2
+                                          "value":  1748.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -95,7 +95,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  399
+                                       "value":  401
                                    },
                                    {
                                        "name":  "Geltz",
@@ -107,7 +107,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  184
+                                       "value":  187
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -121,7 +121,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  11120.7
+                                          "value":  11148.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -137,7 +137,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4193.7
+                                          "value":  4264.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -163,7 +163,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4299.4
+                                          "value":  4379.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -181,7 +181,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  61603.9
+                                          "value":  61608.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  36467
+                                          "value":  36542.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,20 +218,20 @@
                                           "value":  199
                                       },
                                       {
-                                          "name":  "Dan_niel03",
-                                          "value":  145.4
-                                      },
-                                      {
                                           "name":  "Wenza06",
                                           "value":  74.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  57.5
+                                          "value":  58.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  57.2
+                                          "value":  58.5
+                                      },
+                                      {
+                                          "name":  "Dan_niel03",
+                                          "value":  0.1
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 20:22",
+                       "type":  "death",
+                       "text":  "Dan_niel03 was slain by Zombie Villager"
+                   },
                    {
                        "time":  "20/09 20:20",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "20/09 17:44",
                        "type":  "mg",
                        "text":  "Dan_niel03 ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "20/09 17:44",
-                       "type":  "mg",
-                       "text":  "Miguelhl ha entrado en Minijuegos"
                    }
                ]
 }
