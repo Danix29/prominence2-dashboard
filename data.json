@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T17:12:59.0579717Z",
+    "updated_at":  "2026-09-20T17:14:02.1806215Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -16,10 +16,11 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub",
                                         "Dan_niel03",
                                         "DanixNuts",
-                                        "daaviid_2006"
+                                        "daaviid_2006",
+                                        "lasersub",
+                                        "Miguelhl"
                                     ]
                     }
                 ],
@@ -268,6 +269,31 @@
                  },
     "events":  [
                    {
+                       "time":  "20/09 19:13",
+                       "type":  "mg",
+                       "text":  "Miguelhl ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 19:13",
+                       "type":  "mg",
+                       "text":  "lasersub ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 19:13",
+                       "type":  "mg",
+                       "text":  "lasersub ha salido de Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 19:13",
+                       "type":  "mg",
+                       "text":  "daaviid_2006 ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 19:13",
+                       "type":  "mg",
+                       "text":  "daaviid_2006 ha salido de Minijuegos"
+                   },
+                   {
                        "time":  "20/09 19:12",
                        "type":  "mg",
                        "text":  "Miguelhl ha salido de Minijuegos"
@@ -441,31 +467,6 @@
                        "time":  "20/09 14:19",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Almost Steam?"
-                   },
-                   {
-                       "time":  "20/09 14:18",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Stay dead"
-                   },
-                   {
-                       "time":  "20/09 14:02",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro The Purity of the Seas"
-                   },
-                   {
-                       "time":  "20/09 14:01",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro The Basics"
-                   },
-                   {
-                       "time":  "20/09 14:01",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Magical Energy"
-                   },
-                   {
-                       "time":  "20/09 13:55",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Meteorite Hunter"
                    }
                ]
 }
