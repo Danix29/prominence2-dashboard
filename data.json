@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T12:46:47.4495290Z",
+    "updated_at":  "2026-09-20T12:48:03.3410392Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
-                                        "Miguelhl"
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -34,11 +33,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3036.6
+                                          "value":  3037.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3033.1
+                                          "value":  3034
                                       },
                                       {
                                           "name":  "lasersub",
@@ -98,7 +97,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  310
+                                       "value":  312
                                    },
                                    {
                                        "name":  "lasersub",
@@ -124,7 +123,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8874.1
+                                          "value":  8936.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -150,7 +149,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  7204.7
+                                          "value":  7216.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +183,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  54071.7
+                                          "value":  54105.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -214,11 +213,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  209
+                                          "value":  210.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  194.7
+                                          "value":  195.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 14:47",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "20/09 14:39",
                        "type":  "logro",
@@ -459,11 +463,6 @@
                        "time":  "19/09 20:11",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Is this thing alive?"
-                   },
-                   {
-                       "time":  "19/09 20:09",
-                       "type":  "death",
-                       "text":  "Wenza06 withered away whilst fighting Wither Skeleton"
                    }
                ]
 }
