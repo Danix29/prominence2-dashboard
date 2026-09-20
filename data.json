@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T17:14:02.1806215Z",
+    "updated_at":  "2026-09-20T17:16:06.1579615Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -16,11 +16,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Dan_niel03",
-                                        "DanixNuts",
-                                        "daaviid_2006",
-                                        "lasersub",
-                                        "Miguelhl"
+                                        "DanixNuts"
                                     ]
                     }
                 ],
@@ -269,6 +265,26 @@
                  },
     "events":  [
                    {
+                       "time":  "20/09 19:15",
+                       "type":  "mg",
+                       "text":  "Miguelhl ha salido de Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 19:15",
+                       "type":  "mg",
+                       "text":  "Dan_niel03 ha salido de Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 19:15",
+                       "type":  "mg",
+                       "text":  "lasersub ha salido de Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 19:15",
+                       "type":  "mg",
+                       "text":  "daaviid_2006 ha salido de Minijuegos"
+                   },
+                   {
                        "time":  "20/09 19:13",
                        "type":  "mg",
                        "text":  "Miguelhl ha entrado en Minijuegos"
@@ -447,26 +463,6 @@
                        "time":  "20/09 14:39",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Rolling the Dice"
-                   },
-                   {
-                       "time":  "20/09 14:39",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Introduction to Chaos"
-                   },
-                   {
-                       "time":  "20/09 14:39",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 14:34",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Sleeping in the Cold Below"
-                   },
-                   {
-                       "time":  "20/09 14:19",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Almost Steam?"
                    }
                ]
 }
