@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T21:19:00.2747068Z",
+    "updated_at":  "2026-09-20T21:20:16.2379977Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4598
+                                          "value":  4599.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1822.8
+                                          "value":  1824
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  45819.1
+                                          "value":  45824.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  6.9
+                                          "value":  8.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  5
+                                          "value":  6.2
                                       }
                                   ],
                      "achievements":  [
@@ -256,7 +256,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  84
+                                              "value":  85
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 23:19",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro A crafter that runs on cells..."
+                   },
                    {
                        "time":  "20/09 23:14",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "20/09 19:58",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 19:58",
-                       "type":  "join",
-                       "text":  "DanixNuts ha entrado en Prominence II"
                    }
                ]
 }
