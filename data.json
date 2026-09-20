@@ -1,10 +1,10 @@
 {
-    "updated_at":  "2026-09-20T17:22:14.4833819Z",
+    "updated_at":  "2026-09-20T17:24:32.7580806Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
 
@@ -45,7 +45,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1724.9
+                                          "value":  1725
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -225,7 +225,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  35
+                                          "value":  35.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -264,6 +264,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 19:24",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:24",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:23",
+                       "type":  "leave",
+                       "text":  "daaviid_2006 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:23",
+                       "type":  "join",
+                       "text":  "daaviid_2006 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "20/09 19:15",
                        "type":  "mg",
@@ -443,26 +463,6 @@
                        "time":  "20/09 15:36",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Ore Hemiquadrupling"
-                   },
-                   {
-                       "time":  "20/09 14:49",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Mixing Without Mixins"
-                   },
-                   {
-                       "time":  "20/09 14:47",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 14:39",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Delving Into Darkness"
-                   },
-                   {
-                       "time":  "20/09 14:39",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Rolling the Dice"
                    }
                ]
 }
