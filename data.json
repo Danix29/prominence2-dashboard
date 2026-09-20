@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T17:53:49.8581316Z",
+    "updated_at":  "2026-09-20T17:55:06.1209084Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -265,6 +265,31 @@
                  },
     "events":  [
                    {
+                       "time":  "20/09 19:54",
+                       "type":  "leave",
+                       "text":  "daaviid_2006 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:54",
+                       "type":  "join",
+                       "text":  "daaviid_2006 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:54",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:54",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
                        "time":  "20/09 19:53",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
@@ -438,31 +463,6 @@
                        "time":  "20/09 17:38",
                        "type":  "leave",
                        "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 17:38",
-                       "type":  "leave",
-                       "text":  "DanixNuts ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 17:34",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 17:34",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Liquid Goes Where?"
-                   },
-                   {
-                       "time":  "20/09 17:22",
-                       "type":  "join",
-                       "text":  "Dan_niel03 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 17:21",
-                       "type":  "join",
-                       "text":  "daaviid_2006 ha entrado en Prominence II"
                    }
                ]
 }
