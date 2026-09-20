@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T13:53:57.7620245Z",
+    "updated_at":  "2026-09-20T13:55:13.8181322Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3103.7
+                                          "value":  3105
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  55803.3
+                                          "value":  55849.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -209,7 +209,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  276.2
+                                          "value":  277.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  161
+                                              "value":  162
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 15:54",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Almost Steel!"
+                   },
                    {
                        "time":  "20/09 15:36",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "19/09 20:21",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Noisy Lover Soul"
-                   },
-                   {
-                       "time":  "19/09 20:17",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Fire Hazard"
                    }
                ]
 }
