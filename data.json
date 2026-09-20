@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T15:02:22.5720867Z",
+    "updated_at":  "2026-09-20T15:03:38.6328260Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3172.1
+                                          "value":  3173.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3032.5
+                                          "value":  3033.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -98,7 +98,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  327
+                                       "value":  329
                                    },
                                    {
                                        "name":  "lasersub",
@@ -120,7 +120,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9307.5
+                                          "value":  9360.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -150,7 +150,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  7707.7
+                                          "value":  7730
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  59812.5
+                                          "value":  59912.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  58159.8
+                                          "value":  58264.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  532.5
+                                          "value":  533.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -225,12 +225,12 @@
                                           "value":  74.6
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  19.4
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
                                           "value":  17.7
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0
                                       }
                                   ],
                      "achievements":  [
@@ -252,7 +252,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  93
+                                              "value":  95
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -265,6 +265,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 17:03",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Zombie"
+                   },
+                   {
+                       "time":  "20/09 17:03",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro One Man\u0027s Rubbish.."
+                   },
+                   {
+                       "time":  "20/09 17:02",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Open Sesame!"
+                   },
                    {
                        "time":  "20/09 16:54",
                        "type":  "join",
@@ -449,21 +464,6 @@
                        "time":  "19/09 21:23",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Enchanter"
-                   },
-                   {
-                       "time":  "19/09 21:17",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Unknown Technology"
-                   },
-                   {
-                       "time":  "19/09 20:50",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "19/09 20:50",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
