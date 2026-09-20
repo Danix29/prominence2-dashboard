@@ -1,11 +1,11 @@
 {
-    "updated_at":  "2026-09-20T15:44:09.1875642Z",
+    "updated_at":  "2026-09-20T15:45:12.7402377Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  true,
-                        "sleeping":  false,
+                        "running":  false,
+                        "sleeping":  true,
                         "players":  [
 
                                     ]
@@ -13,10 +13,13 @@
                     {
                         "name":  "Minijuegos",
                         "address":  "expressing-call.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "daaviid_2006",
+                                        "DanixNuts",
+                                        "Miguelhl",
+                                        "Dan_niel03"
                                     ]
                     }
                 ],
@@ -267,6 +270,16 @@
                    {
                        "time":  "20/09 17:44",
                        "type":  "mg",
+                       "text":  "Dan_niel03 ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 17:44",
+                       "type":  "mg",
+                       "text":  "Miguelhl ha entrado en Minijuegos"
+                   },
+                   {
+                       "time":  "20/09 17:44",
+                       "type":  "mg",
                        "text":  "DanixNuts ha entrado en Minijuegos"
                    },
                    {
@@ -451,16 +464,6 @@
                    },
                    {
                        "time":  "20/09 13:30",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 13:27",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 13:26",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
                    }
