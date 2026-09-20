@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T12:01:09.4604449Z",
+    "updated_at":  "2026-09-20T12:02:25.5793783Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2990.9
+                                          "value":  2992.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2987.5
+                                          "value":  2988.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2986
+                                          "value":  2987.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -181,15 +181,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  57952.8
+                                          "value":  58020.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  52910.5
+                                          "value":  52971.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  39629.2
+                                          "value":  39650.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  486
+                                          "value":  487.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  163.4
+                                          "value":  164.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  149.1
+                                          "value":  150.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -237,7 +237,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  157
+                                              "value":  158
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  136
+                                              "value":  138
                                           },
                                           {
                                               "name":  "Geltz",
@@ -266,6 +266,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 14:02",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro The Purity of the Seas"
+                   },
+                   {
+                       "time":  "20/09 14:01",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro The Basics"
+                   },
+                   {
+                       "time":  "20/09 14:01",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Magical Energy"
+                   },
                    {
                        "time":  "20/09 13:55",
                        "type":  "logro",
@@ -450,21 +465,6 @@
                        "time":  "19/09 19:20",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Full Moon in a Pocket"
-                   },
-                   {
-                       "time":  "19/09 19:13",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Chest Slayer"
-                   },
-                   {
-                       "time":  "19/09 19:12",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro The Secrets of Enchanting"
-                   },
-                   {
-                       "time":  "19/09 19:10",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
