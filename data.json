@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T15:45:12.7402377Z",
+    "updated_at":  "2026-09-20T15:46:15.7027986Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -19,7 +19,8 @@
                                         "daaviid_2006",
                                         "DanixNuts",
                                         "Miguelhl",
-                                        "Dan_niel03"
+                                        "Dan_niel03",
+                                        "lasersub"
                                     ]
                     }
                 ],
@@ -268,6 +269,11 @@
                  },
     "events":  [
                    {
+                       "time":  "20/09 17:46",
+                       "type":  "mg",
+                       "text":  "lasersub ha entrado en Minijuegos"
+                   },
+                   {
                        "time":  "20/09 17:44",
                        "type":  "mg",
                        "text":  "Dan_niel03 ha entrado en Minijuegos"
@@ -461,11 +467,6 @@
                        "time":  "20/09 13:40",
                        "type":  "join",
                        "text":  "lasersub ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 13:30",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
                    }
                ]
 }
