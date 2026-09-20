@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T21:43:05.1510723Z",
+    "updated_at":  "2026-09-20T21:44:21.1906290Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4622.1
+                                          "value":  4623.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1846.9
+                                          "value":  1848.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -102,7 +102,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  320
+                                       "value":  323
                                    },
                                    {
                                        "name":  "lasersub",
@@ -128,7 +128,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  6731.1
+                                          "value":  6764.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  7406.2
+                                          "value":  7469.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  47080
+                                          "value":  47160.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -196,7 +196,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  40602.9
+                                          "value":  40613
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  31
+                                          "value":  32.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  14.5
+                                          "value":  0
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 23:44",
+                       "type":  "death",
+                       "text":  "Dan_niel03 was slain by Leaping Zombie"
+                   },
                    {
                        "time":  "20/09 23:32",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "20/09 20:28",
                        "type":  "death",
                        "text":  "Dan_niel03 was slain by Skeleton"
-                   },
-                   {
-                       "time":  "20/09 20:26",
-                       "type":  "join",
-                       "text":  "Dan_niel03 ha entrado en Prominence II"
                    }
                ]
 }
