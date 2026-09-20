@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T21:26:36.4966981Z",
+    "updated_at":  "2026-09-20T21:27:52.4183510Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4605.6
+                                          "value":  4606.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1830.4
+                                          "value":  1831.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -102,7 +102,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  315
+                                       "value":  316
                                    },
                                    {
                                        "name":  "lasersub",
@@ -128,7 +128,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  6613.2
+                                          "value":  6618.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  7111
+                                          "value":  7131.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  46124.8
+                                          "value":  46235
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -196,7 +196,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  40264.4
+                                          "value":  40267.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  14.5
+                                          "value":  15.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  12.6
+                                          "value":  13.8
                                       }
                                   ],
                      "achievements":  [
@@ -256,7 +256,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  85
+                                              "value":  87
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 23:27",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Source of Evil"
+                   },
+                   {
+                       "time":  "20/09 23:27",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Stay dead"
+                   },
                    {
                        "time":  "20/09 23:22",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "20/09 20:22",
                        "type":  "death",
                        "text":  "Dan_niel03 was slain by Zombie Villager"
-                   },
-                   {
-                       "time":  "20/09 20:20",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Airship Village"
-                   },
-                   {
-                       "time":  "20/09 20:18",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Ice Maze"
                    }
                ]
 }
