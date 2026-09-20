@@ -1,13 +1,15 @@
 {
-    "updated_at":  "2026-09-20T17:58:39.4836568Z",
+    "updated_at":  "2026-09-20T17:59:55.6482781Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "DanixNuts",
+                                        "daaviid_2006",
+                                        "Dan_niel03"
                                     ]
                     },
                     {
@@ -29,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4421.2
+                                          "value":  4421.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3208.3
+                                          "value":  3209.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -45,7 +47,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1725
+                                          "value":  1725.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -183,7 +185,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  60547.8
+                                          "value":  60585.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -191,11 +193,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  36122.2
+                                          "value":  36155.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  34195
+                                          "value":  34195.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -217,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  123.2
+                                          "value":  123.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -225,11 +227,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  35.1
+                                          "value":  36
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  34.7
+                                          "value":  35.8
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +266,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 19:59",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:58",
+                       "type":  "join",
+                       "text":  "daaviid_2006 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:58",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
                    {
                        "time":  "20/09 19:54",
                        "type":  "leave",
@@ -448,21 +465,6 @@
                        "time":  "20/09 17:38",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 17:38",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 17:38",
-                       "type":  "leave",
-                       "text":  "Dan_niel03 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 17:38",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
                    }
                ]
 }
