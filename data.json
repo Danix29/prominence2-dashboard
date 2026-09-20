@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T15:34:05.1652348Z",
+    "updated_at":  "2026-09-20T15:35:21.0224078Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -10,7 +10,8 @@
                                         "lasersub",
                                         "DanixNuts",
                                         "daaviid_2006",
-                                        "Dan_niel03"
+                                        "Dan_niel03",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -32,23 +33,23 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4416.8
+                                          "value":  4418.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3203.9
+                                          "value":  3205.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3064.2
+                                          "value":  3065.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3034
+                                          "value":  3034.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1720.1
+                                          "value":  1721.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -182,11 +183,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  61313.4
+                                          "value":  61449.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  60443.1
+                                          "value":  60475.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -194,11 +195,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  35851.6
+                                          "value":  35963.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  34055.6
+                                          "value":  34065.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -208,7 +209,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  564.2
+                                          "value":  565.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -216,11 +217,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  195.4
+                                          "value":  196
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  119
+                                          "value":  120.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -228,11 +229,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  30.5
+                                          "value":  31.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  30.4
+                                          "value":  31.6
                                       }
                                   ],
                      "achievements":  [
@@ -254,7 +255,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  96
+                                              "value":  97
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -267,6 +268,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 17:34",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 17:34",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Liquid Goes Where?"
+                   },
                    {
                        "time":  "20/09 17:22",
                        "type":  "join",
@@ -454,16 +465,6 @@
                    },
                    {
                        "time":  "20/09 12:29",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 12:29",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 12:07",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
                    }
