@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T17:11:56.1407381Z",
+    "updated_at":  "2026-09-20T17:12:59.0579717Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -19,7 +19,6 @@
                                         "lasersub",
                                         "Dan_niel03",
                                         "DanixNuts",
-                                        "Miguelhl",
                                         "daaviid_2006"
                                     ]
                     }
@@ -269,6 +268,11 @@
                  },
     "events":  [
                    {
+                       "time":  "20/09 19:12",
+                       "type":  "mg",
+                       "text":  "Miguelhl ha salido de Minijuegos"
+                   },
+                   {
                        "time":  "20/09 19:11",
                        "type":  "mg",
                        "text":  "daaviid_2006 ha entrado en Minijuegos"
@@ -462,11 +466,6 @@
                        "time":  "20/09 13:55",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Meteorite Hunter"
-                   },
-                   {
-                       "time":  "20/09 13:53",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro The Purity of the Seas"
                    }
                ]
 }
