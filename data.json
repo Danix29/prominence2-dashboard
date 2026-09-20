@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T18:04:59.9046368Z",
+    "updated_at":  "2026-09-20T18:06:16.0385367Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4426.9
+                                          "value":  4428.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3214.3
+                                          "value":  3215.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1730.8
+                                          "value":  1732.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -185,7 +185,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  60816.2
+                                          "value":  60877.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -193,11 +193,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  36329.3
+                                          "value":  36377.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  34453.8
+                                          "value":  34498.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -219,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  129
+                                          "value":  130.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -227,11 +227,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  41.1
+                                          "value":  42.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  40.9
+                                          "value":  42.1
                                       }
                                   ],
                      "achievements":  [
@@ -257,7 +257,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  78
+                                              "value":  79
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 20:05",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Is this thing alive?"
+                   },
                    {
                        "time":  "20/09 19:59",
                        "type":  "join",
@@ -460,11 +465,6 @@
                        "time":  "20/09 17:44",
                        "type":  "mg",
                        "text":  "daaviid_2006 ha entrado en Minijuegos"
-                   },
-                   {
-                       "time":  "20/09 17:38",
-                       "type":  "leave",
-                       "text":  "daaviid_2006 ha salido de Prominence II"
                    }
                ]
 }
