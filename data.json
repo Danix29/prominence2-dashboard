@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T22:12:13.3730349Z",
+    "updated_at":  "2026-09-20T22:13:29.4484199Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  6.9
+                                          "value":  8.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  648.1
+                                          "value":  677.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -205,7 +205,7 @@
                      "survivor":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  3.8
+                                          "value":  5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -237,6 +237,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 00:12",
+                       "type":  "join",
+                       "text":  "daaviid_2006 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "21/09 00:12",
+                       "type":  "leave",
+                       "text":  "daaviid_2006 ha salido de Prominence II"
+                   },
                    {
                        "time":  "21/09 00:08",
                        "type":  "death",
@@ -426,16 +436,6 @@
                        "time":  "20/09 21:05",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Take Aim"
-                   },
-                   {
-                       "time":  "20/09 21:00",
-                       "type":  "death",
-                       "text":  "DanixNuts was blown up by Creeper Minion"
-                   },
-                   {
-                       "time":  "20/09 20:59",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Enchanter"
                    }
                ]
 }
