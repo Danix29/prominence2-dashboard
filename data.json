@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T11:49:44.4947435Z",
+    "updated_at":  "2026-09-20T11:51:00.6196731Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2979.5
+                                          "value":  2980.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2976.1
+                                          "value":  2977.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2974.6
+                                          "value":  2975.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -99,7 +99,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  309
+                                       "value":  310
                                    },
                                    {
                                        "name":  "lasersub",
@@ -125,7 +125,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8854.7
+                                          "value":  8874.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -151,7 +151,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  7172.9
+                                          "value":  7193.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -181,15 +181,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  57477
+                                          "value":  57546.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  52209.6
+                                          "value":  52349.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  39114.3
+                                          "value":  39210.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  474.6
+                                          "value":  475.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  151.9
+                                          "value":  153.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  137.6
+                                          "value":  138.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  134
+                                              "value":  135
                                           },
                                           {
                                               "name":  "Geltz",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 13:50",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Time to sleep"
+                   },
                    {
                        "time":  "20/09 13:40",
                        "type":  "join",
@@ -460,11 +465,6 @@
                        "time":  "19/09 19:07",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Ice Bucket Challenge"
-                   },
-                   {
-                       "time":  "19/09 19:01",
-                       "type":  "join",
-                       "text":  "Wenza06 ha entrado en Prominence II"
                    }
                ]
 }
