@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T17:24:32.7580806Z",
+    "updated_at":  "2026-09-20T17:25:49.0377458Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -16,7 +16,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+
                                     ]
                     }
                 ],
@@ -265,6 +265,11 @@
                  },
     "events":  [
                    {
+                       "time":  "20/09 19:25",
+                       "type":  "mg",
+                       "text":  "DanixNuts ha salido de Minijuegos"
+                   },
+                   {
                        "time":  "20/09 19:24",
                        "type":  "leave",
                        "text":  "lasersub ha salido de Prominence II"
@@ -458,11 +463,6 @@
                        "time":  "20/09 15:54",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Almost Steel!"
-                   },
-                   {
-                       "time":  "20/09 15:36",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Ore Hemiquadrupling"
                    }
                ]
 }
