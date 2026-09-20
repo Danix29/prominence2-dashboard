@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T21:55:45.4682312Z",
+    "updated_at":  "2026-09-20T21:57:01.4479964Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "daaviid_2006",
-                                        "Dan_niel03"
+                                        "daaviid_2006"
                                     ]
                     },
                     {
@@ -30,7 +29,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4634.8
+                                          "value":  4635.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -46,7 +45,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1859.5
+                                          "value":  1860.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -188,7 +187,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  47553.8
+                                          "value":  47589.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -196,7 +195,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  41163.8
+                                          "value":  41223.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -226,11 +225,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  43.7
+                                          "value":  45
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  11.4
+                                          "value":  12
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 23:56",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
                    {
                        "time":  "20/09 23:53",
                        "type":  "logro",
@@ -459,11 +463,6 @@
                        "time":  "20/09 20:36",
                        "type":  "death",
                        "text":  "Dan_niel03 was blown up by Night Lich"
-                   },
-                   {
-                       "time":  "20/09 20:35",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was blown up by Night Lich"
                    }
                ]
 }
