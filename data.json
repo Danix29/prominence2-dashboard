@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T14:53:30.9050374Z",
+    "updated_at":  "2026-09-20T14:54:46.7878421Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -33,7 +34,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3163.3
+                                          "value":  3164.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -41,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3024.8
+                                          "value":  3024.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -183,7 +184,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  57592.3
+                                          "value":  57633.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -205,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  524.6
+                                          "value":  524.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -229,7 +230,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  10.6
+                                          "value":  11.8
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 16:54",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "20/09 16:42",
                        "type":  "death",
@@ -458,11 +464,6 @@
                        "time":  "19/09 20:50",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "19/09 20:43",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro It\u0027s Chargin\u0027 Time !"
                    }
                ]
 }
