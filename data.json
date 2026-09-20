@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T20:14:22.9704566Z",
+    "updated_at":  "2026-09-20T20:15:39.1452248Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3343.4
+                                          "value":  3344.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  67407.7
+                                          "value":  67445.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -221,7 +221,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  23
+                                          "value":  24.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  166
+                                              "value":  167
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 22:15",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Marketstead Village"
+                   },
                    {
                        "time":  "20/09 22:09",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "20/09 19:54",
                        "type":  "join",
                        "text":  "DanixNuts ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 19:53",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
                    }
                ]
 }
