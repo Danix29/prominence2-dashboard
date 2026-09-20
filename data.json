@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T12:17:38.1289684Z",
+    "updated_at":  "2026-09-20T12:18:54.4430892Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3007.4
+                                          "value":  3008.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3004
+                                          "value":  3005.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3002.5
+                                          "value":  3003.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -91,7 +91,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  368
+                                       "value":  374
                                    },
                                    {
                                        "name":  "Geltz",
@@ -103,7 +103,7 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  248
+                                       "value":  250
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -155,7 +155,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  6093.7
+                                          "value":  6097.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -181,15 +181,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  58776.6
+                                          "value":  58882.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  53539.1
+                                          "value":  53592.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  40795
+                                          "value":  40926.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  502.5
+                                          "value":  503.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  179.8
+                                          "value":  181.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  165.5
+                                          "value":  166.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -253,7 +253,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  92
+                                              "value":  93
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 14:18",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Stay dead"
+                   },
                    {
                        "time":  "20/09 14:02",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "19/09 19:27",
                        "type":  "death",
                        "text":  "DanixNuts was blown up by Creeper"
-                   },
-                   {
-                       "time":  "19/09 19:20",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Full Moon in a Pocket"
                    }
                ]
 }
