@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T21:53:13.2350702Z",
+    "updated_at":  "2026-09-20T21:54:29.2885192Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4632.2
+                                          "value":  4633.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1857
+                                          "value":  1858.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -196,7 +196,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  41070.3
+                                          "value":  41108.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  41.1
+                                          "value":  42.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  8.9
+                                          "value":  10.2
                                       }
                                   ],
                      "achievements":  [
@@ -240,7 +240,7 @@
                                           },
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  161
+                                              "value":  162
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 23:53",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Playing with fire"
+                   },
                    {
                        "time":  "20/09 23:52",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "20/09 20:35",
                        "type":  "death",
                        "text":  "daaviid_2006 was blown up by Night Lich"
-                   },
-                   {
-                       "time":  "20/09 20:28",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Skeleton"
                    }
                ]
 }
