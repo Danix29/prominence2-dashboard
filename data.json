@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T15:15:02.6768390Z",
+    "updated_at":  "2026-09-20T15:16:19.1508461Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -34,11 +34,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3184.8
+                                          "value":  3186.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3045.2
+                                          "value":  3046.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  60508
+                                          "value":  60586.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  58890.2
+                                          "value":  58965.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  545.2
+                                          "value":  546.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  11.4
+                                          "value":  12.7
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 17:16",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Behind bars"
+                   },
                    {
                        "time":  "20/09 17:07",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "19/09 21:23",
                        "type":  "leave",
                        "text":  "Wenza06 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "19/09 21:23",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Eterna, Quanta, Arcana"
                    }
                ]
 }
