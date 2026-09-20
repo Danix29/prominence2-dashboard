@@ -1,10 +1,10 @@
 {
-    "updated_at":  "2026-09-20T17:31:01.0843152Z",
+    "updated_at":  "2026-09-20T17:53:49.8581316Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
 
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3208.1
+                                          "value":  3208.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  123.1
+                                          "value":  123.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  34.5
+                                          "value":  34.7
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,51 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "leave",
+                       "text":  "daaviid_2006 ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "join",
+                       "text":  "daaviid_2006 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "20/09 19:53",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
                    {
                        "time":  "20/09 19:25",
                        "type":  "mg",
@@ -418,51 +463,6 @@
                        "time":  "20/09 17:21",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 17:16",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Behind bars"
-                   },
-                   {
-                       "time":  "20/09 17:07",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Flatten"
-                   },
-                   {
-                       "time":  "20/09 17:03",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Zombie"
-                   },
-                   {
-                       "time":  "20/09 17:03",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro One Man\u0027s Rubbish.."
-                   },
-                   {
-                       "time":  "20/09 17:02",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Open Sesame!"
-                   },
-                   {
-                       "time":  "20/09 16:54",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 16:42",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Zombie"
-                   },
-                   {
-                       "time":  "20/09 16:11",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro From Minecraft to Craft"
-                   },
-                   {
-                       "time":  "20/09 15:54",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Almost Steel!"
                    }
                ]
 }
