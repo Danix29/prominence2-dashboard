@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T13:36:12.7941476Z",
+    "updated_at":  "2026-09-20T13:37:28.6985675Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3086
+                                          "value":  3087.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  55357
+                                          "value":  55400.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -209,7 +209,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  258.4
+                                          "value":  259.7
                                       },
                                       {
                                           "name":  "Geltz",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  160
+                                              "value":  161
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 15:36",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Ore Hemiquadrupling"
+                   },
                    {
                        "time":  "20/09 14:49",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "19/09 20:17",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Fire Hazard"
-                   },
-                   {
-                       "time":  "19/09 20:17",
-                       "type":  "leave",
-                       "text":  "DanixNuts ha salido de Prominence II"
                    }
                ]
 }
