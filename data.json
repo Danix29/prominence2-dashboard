@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T21:21:32.5749315Z",
+    "updated_at":  "2026-09-20T21:22:48.5485000Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4600.6
+                                          "value":  4601.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -46,7 +46,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1825.3
+                                          "value":  1826.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  7092.2
+                                          "value":  7098.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  45856.5
+                                          "value":  45991.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -196,7 +196,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  40231.6
+                                          "value":  40241.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  9.5
+                                          "value":  10.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  7.5
+                                          "value":  8.8
                                       }
                                   ],
                      "achievements":  [
@@ -240,7 +240,7 @@
                                           },
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  157
+                                              "value":  160
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -265,6 +265,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 23:22",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Forged in Flames"
+                   },
+                   {
+                       "time":  "20/09 23:21",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Bringer of Storms"
+                   },
+                   {
+                       "time":  "20/09 23:21",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Wax On"
+                   },
                    {
                        "time":  "20/09 23:19",
                        "type":  "logro",
@@ -449,21 +464,6 @@
                        "time":  "20/09 20:18",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Ice Maze"
-                   },
-                   {
-                       "time":  "20/09 20:05",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Is this thing alive?"
-                   },
-                   {
-                       "time":  "20/09 19:59",
-                       "type":  "join",
-                       "text":  "Dan_niel03 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 19:58",
-                       "type":  "join",
-                       "text":  "daaviid_2006 ha entrado en Prominence II"
                    }
                ]
 }
