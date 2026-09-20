@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-20T19:38:48.0852865Z",
+    "updated_at":  "2026-09-20T19:40:04.0215550Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Dan_niel03",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Dan_niel03"
                                     ]
                     },
                     {
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4520.4
+                                          "value":  4521.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3307.9
+                                          "value":  3309.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -72,7 +72,7 @@
                                     },
                                     {
                                         "name":  "Dan_niel03",
-                                        "value":  38
+                                        "value":  39
                                     },
                                     {
                                         "name":  "Wenza06",
@@ -132,7 +132,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  5262.6
+                                          "value":  5314.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -162,7 +162,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  5212.7
+                                          "value":  5525.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  41002.8
+                                          "value":  41118.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -221,16 +221,16 @@
                                           "value":  74.6
                                       },
                                       {
-                                          "name":  "Dan_niel03",
-                                          "value":  62.4
-                                      },
-                                      {
                                           "name":  "DanixNuts",
-                                          "value":  38.1
+                                          "value":  39.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  1.6
+                                      },
+                                      {
+                                          "name":  "Dan_niel03",
+                                          "value":  1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "20/09 21:39",
+                       "type":  "death",
+                       "text":  "Dan_niel03 was blown up by Skeleton Creeper"
+                   },
                    {
                        "time":  "20/09 21:31",
                        "type":  "leave",
@@ -459,11 +464,6 @@
                        "time":  "20/09 19:53",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "20/09 19:53",
-                       "type":  "join",
-                       "text":  "DanixNuts ha entrado en Prominence II"
                    }
                ]
 }
