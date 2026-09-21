@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T19:06:41.8454640Z",
+    "updated_at":  "2026-09-21T19:07:57.8460322Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  361.8
+                                          "value":  363.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  349.8
+                                          "value":  351.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  255.4
+                                          "value":  256.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -86,12 +86,16 @@
                                 ],
                      "kills":  [
                                    {
+                                       "name":  "Wenza06",
+                                       "value":  257596
+                                   },
+                                   {
                                        "name":  "DanixNuts",
-                                       "value":  337
+                                       "value":  340
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  283
+                                       "value":  284
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -104,10 +108,6 @@
                                    {
                                        "name":  "lasersub",
                                        "value":  35
-                                   },
-                                   {
-                                       "name":  "Wenza06",
-                                       "value":  29
                                    },
                                    {
                                        "name":  "Geltz",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19852.9
+                                          "value":  19868.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  18844.7
+                                          "value":  18882
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  11973.9
+                                          "value":  12042.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  26.4
+                                          "value":  27.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  14.2
+                                          "value":  15.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -227,7 +227,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  7.8
+                                          "value":  9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -237,11 +237,11 @@
                      "achievements":  [
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  24
+                                              "value":  25
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  17
+                                              "value":  18
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -266,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 21:07",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Eternal Expedition"
+                   },
+                   {
+                       "time":  "21/09 21:07",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Eternal Expedition"
+                   },
                    {
                        "time":  "21/09 20:57",
                        "type":  "death",
@@ -455,16 +465,6 @@
                        "time":  "21/09 19:55",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro A New Protector..."
-                   },
-                   {
-                       "time":  "21/09 19:52",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Piglin Brute"
-                   },
-                   {
-                       "time":  "21/09 19:46",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Piglin Brute"
                    }
                ]
 }
