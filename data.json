@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T16:22:36.8933127Z",
+    "updated_at":  "2026-09-21T16:23:53.0464071Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub",
                                         "Geltz",
                                         "Miguelhl",
                                         "DanixNuts"
@@ -28,15 +27,15 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  214.5
+                                          "value":  214.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  197.8
+                                          "value":  199.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  190.5
+                                          "value":  191.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -44,7 +43,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  178
+                                          "value":  179.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -62,7 +61,7 @@
                                     },
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  9
+                                        "value":  10
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -88,7 +87,7 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  201
+                                       "value":  202
                                    },
                                    {
                                        "name":  "DanixNuts",
@@ -148,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2916.4
+                                          "value":  3004.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -186,11 +185,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  10807.2
+                                          "value":  10849
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  10488.9
+                                          "value":  10512.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -198,7 +197,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  8702.4
+                                          "value":  8759.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -220,19 +219,19 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  42.3
+                                          "value":  43.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  30.8
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  16
+                                          "value":  32
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  12.9
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.6
                                       }
                                   ],
                      "achievements":  [
@@ -267,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 18:23",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Zombified Piglin"
+                   },
                    {
                        "time":  "21/09 18:22",
                        "type":  "leave",
@@ -461,11 +465,6 @@
                        "time":  "21/09 17:06",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Introduction to Chaos"
-                   },
-                   {
-                       "time":  "21/09 17:02",
-                       "type":  "join",
-                       "text":  "DanixNuts ha entrado en Prominence II"
                    }
                ]
 }
