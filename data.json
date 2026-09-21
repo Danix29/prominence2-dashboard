@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T16:17:31.8608229Z",
+    "updated_at":  "2026-09-21T16:18:48.0321342Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -28,23 +28,23 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  209.4
+                                          "value":  210.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  192.7
+                                          "value":  194
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  186.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  185.4
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  185.4
-                                      },
-                                      {
                                           "name":  "Geltz",
-                                          "value":  172.9
+                                          "value":  174.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -148,7 +148,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2675.9
+                                          "value":  2770.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -160,7 +160,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  771.6
+                                          "value":  780
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -172,7 +172,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  0
+                                          "value":  150.3
                                       }
                                   ],
                      "distance":  [
@@ -182,23 +182,23 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  11097.4
+                                          "value":  11238.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  10562.8
+                                          "value":  10602
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  10301.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
                                           "value":  10297.5
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  10266.5
-                                      },
-                                      {
                                           "name":  "Geltz",
-                                          "value":  8339
+                                          "value":  8446.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -212,7 +212,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  158.8
+                                          "value":  160
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -220,11 +220,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  37.2
+                                          "value":  38.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  25.7
+                                          "value":  26.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -232,7 +232,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  10.9
+                                          "value":  12.2
                                       }
                                   ],
                      "achievements":  [
