@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T11:45:46.4690358Z",
+    "updated_at":  "2026-09-21T11:47:02.3954136Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  10.5
+                                          "value":  11.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  531.8
+                                          "value":  577.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -209,7 +209,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  10.7
+                                          "value":  11.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -240,6 +240,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 13:46",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "21/09 13:45",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
                    {
                        "time":  "21/09 13:35",
                        "type":  "join",
@@ -429,16 +439,6 @@
                        "time":  "20/09 21:31",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "20/09 21:30",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "20/09 21:29",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
                ]
 }
