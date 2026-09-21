@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T17:44:00.9330515Z",
+    "updated_at":  "2026-09-21T17:45:17.0057481Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "daaviid_2006",
                                         "Miguelhl",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "daaviid_2006"
                                     ]
                     },
                     {
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  279.1
+                                          "value":  280.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  269.9
+                                          "value":  271.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  235.3
+                                          "value":  236.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -56,11 +56,11 @@
                                   ],
                      "deaths":  [
                                     {
-                                        "name":  "DanixNuts",
-                                        "value":  23
+                                        "name":  "daaviid_2006",
+                                        "value":  24
                                     },
                                     {
-                                        "name":  "daaviid_2006",
+                                        "name":  "DanixNuts",
                                         "value":  23
                                     },
                                     {
@@ -87,11 +87,11 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  220
+                                       "value":  222
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  170
+                                       "value":  171
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -147,15 +147,15 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8927.3
+                                          "value":  8973.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8449.1
+                                          "value":  8721.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3497.5
+                                          "value":  3566.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,15 +177,15 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  15186
+                                          "value":  15302.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  14925.2
+                                          "value":  15007.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  14696.8
+                                          "value":  14799.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -218,20 +218,20 @@
                                           "value":  12.5
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  5.2
-                                      },
-                                      {
                                           "name":  "Miguelhl",
-                                          "value":  4.7
+                                          "value":  6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  2.8
+                                          "value":  4.1
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  0.5
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 19:44",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Piglin Brute"
+                   },
                    {
                        "time":  "21/09 19:43",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "21/09 19:06",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Spooky Scary Skeleton"
-                   },
-                   {
-                       "time":  "21/09 19:02",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Piglin"
                    }
                ]
 }
