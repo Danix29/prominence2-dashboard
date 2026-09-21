@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:34:52.2368950Z",
+    "updated_at":  "2026-09-21T18:36:08.5190540Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  330
+                                          "value":  331.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  318
+                                          "value":  319.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -86,7 +86,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  261
+                                       "value":  264
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4518
+                                          "value":  4572.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  17887.6
+                                          "value":  18020.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  17422.4
+                                          "value":  17493.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,26 +217,26 @@
                                           "value":  12.9
                                       },
                                       {
+                                          "name":  "Miguelhl",
+                                          "value":  12.6
+                                      },
+                                      {
                                           "name":  "Geltz",
                                           "value":  12.5
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  11.4
+                                          "name":  "DanixNuts",
+                                          "value":  3.5
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  2.2
                                       }
                                   ],
                      "achievements":  [
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  22
+                                              "value":  23
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:35",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Harder than Diamond"
+                   },
                    {
                        "time":  "21/09 20:34",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "21/09 19:30",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Nether Gauntlet"
-                   },
-                   {
-                       "time":  "21/09 19:25",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
