@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T12:17:28.5400435Z",
+    "updated_at":  "2026-09-21T12:22:25.2301164Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Dan_niel03"
                                     ]
                     },
                     {
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  40.7
+                                          "value":  41.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  2609.8
+                                          "value":  2652.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -209,7 +209,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  40.7
+                                          "value":  41.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -240,6 +240,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 14:21",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "21/09 14:16",
                        "type":  "leave",
@@ -434,11 +439,6 @@
                        "time":  "20/09 21:46",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Local Librarian"
-                   },
-                   {
-                       "time":  "20/09 21:45",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Time for a Sweat"
                    }
                ]
 }
