@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T15:41:56.7147489Z",
+    "updated_at":  "2026-09-21T15:43:12.9011226Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -29,11 +29,11 @@
                      "playtime":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  180
+                                          "value":  181.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  173.8
+                                          "value":  175.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -41,15 +41,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  157.1
+                                          "value":  158.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  149.8
+                                          "value":  151.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  137.3
+                                          "value":  138.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -89,7 +89,7 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  138
+                                       "value":  139
                                    },
                                    {
                                        "name":  "DanixNuts",
@@ -135,7 +135,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  364
+                                          "value":  380.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -179,7 +179,7 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  11929.8
+                                          "value":  11957.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -195,11 +195,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  7460.3
+                                          "value":  7643.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  5797.1
+                                          "value":  5829.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -213,7 +213,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  123.2
+                                          "value":  124.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -221,19 +221,19 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  43.5
+                                          "value":  44.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  38.4
+                                          "value":  39.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  7.6
+                                          "value":  8.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1.6
+                                          "value":  2.9
                                       }
                                   ],
                      "achievements":  [
@@ -268,6 +268,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 17:43",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro The Lighthouse"
+                   },
                    {
                        "time":  "21/09 17:40",
                        "type":  "death",
@@ -462,11 +467,6 @@
                        "time":  "21/09 16:23",
                        "type":  "join",
                        "text":  "Wenza06 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "21/09 16:18",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro An Ancient Tomb"
                    }
                ]
 }
