@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T20:40:44.1340715Z",
+    "updated_at":  "2026-09-21T20:42:00.2740457Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  455.9
+                                          "value":  457.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  23823.2
+                                          "value":  23889.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  24.3
+                                          "value":  25.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  27
+                                              "value":  28
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 22:40",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro A (Much) Bigger Table"
+                   },
                    {
                        "time":  "21/09 22:16",
                        "type":  "death",
@@ -458,11 +463,6 @@
                        "time":  "21/09 20:42",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "21/09 20:40",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Wither Skeleton"
                    }
                ]
 }
