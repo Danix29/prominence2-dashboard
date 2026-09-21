@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:19:36.9906419Z",
+    "updated_at":  "2026-09-21T18:20:53.3201134Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  314.7
+                                          "value":  316
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  305.5
+                                          "value":  306.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -64,7 +64,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  11
+                                        "value":  12
                                     },
                                     {
                                         "name":  "Wenza06",
@@ -90,7 +90,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  245
+                                       "value":  248
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4160.1
+                                          "value":  4295.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  16853.2
+                                          "value":  16887.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  16719.1
+                                          "value":  16737.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -213,10 +213,6 @@
                                           "value":  163.8
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  33.1
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
                                           "value":  12.9
                                       },
@@ -226,11 +222,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  5.9
+                                          "value":  7.2
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -244,7 +244,7 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  14
+                                              "value":  15
                                           },
                                           {
                                               "name":  "lasersub",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:20",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Wither Skeleton"
+                   },
                    {
                        "time":  "21/09 20:19",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "21/09 19:13",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro The Beginning of An Adventure"
-                   },
-                   {
-                       "time":  "21/09 19:13",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Wither You Want It Or Not"
                    }
                ]
 }
