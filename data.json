@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T19:25:44.3416810Z",
+    "updated_at":  "2026-09-21T19:27:00.7233340Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
                                         "Geltz",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -27,15 +27,15 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  380.9
+                                          "value":  382.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  368.8
+                                          "value":  370.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  274.4
+                                          "value":  275.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -57,7 +57,7 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  34
+                                        "value":  35
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  11516.3
+                                          "value":  11636.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20374.1
+                                          "value":  20407
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  19312.7
+                                          "value":  19351.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -214,24 +214,24 @@
                                           "value":  163.8
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  33.2
+                                          "name":  "Geltz",
+                                          "value":  28.1
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  26.8
+                                          "name":  "Miguelhl",
+                                          "value":  13.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  12.9
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  12.1
-                                      },
-                                      {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.7
                                       }
                                   ],
                      "achievements":  [
@@ -241,7 +241,7 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  18
+                                              "value":  19
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -266,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 21:26",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Wither Skeleton"
+                   },
+                   {
+                       "time":  "21/09 21:26",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Harder than Diamond"
+                   },
                    {
                        "time":  "21/09 21:13",
                        "type":  "death",
@@ -455,16 +465,6 @@
                        "time":  "21/09 20:07",
                        "type":  "death",
                        "text":  "DanixNuts tried to swim in lava"
-                   },
-                   {
-                       "time":  "21/09 20:02",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Blaze"
-                   },
-                   {
-                       "time":  "21/09 20:01",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Blaze"
                    }
                ]
 }
