@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T17:51:38.4771351Z",
+    "updated_at":  "2026-09-21T17:52:54.5748383Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
                                         "daaviid_2006",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -27,15 +27,15 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  286.8
+                                          "value":  288
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  277.6
+                                          "value":  278.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  243
+                                          "value":  244.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -56,12 +56,12 @@
                                   ],
                      "deaths":  [
                                     {
-                                        "name":  "daaviid_2006",
+                                        "name":  "DanixNuts",
                                         "value":  24
                                     },
                                     {
-                                        "name":  "DanixNuts",
-                                        "value":  23
+                                        "name":  "daaviid_2006",
+                                        "value":  24
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -87,15 +87,15 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  226
+                                       "value":  229
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  188
+                                       "value":  191
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  82
+                                       "value":  86
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -117,7 +117,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1441.2
+                                          "value":  1448.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -147,11 +147,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9207.2
+                                          "value":  9409.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8736.1
+                                          "value":  8800.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -177,15 +177,15 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  15701.3
+                                          "value":  15834.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  15336
+                                          "value":  15423.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  15305
+                                          "value":  15397.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -218,20 +218,20 @@
                                           "value":  12.5
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  10.4
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
-                                          "value":  6.9
+                                          "value":  8.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5.1
+                                          "value":  6.4
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 19:52",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Piglin Brute"
+                   },
                    {
                        "time":  "21/09 19:46",
                        "type":  "death",
@@ -460,11 +465,6 @@
                        "time":  "21/09 19:10",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Withering Heights"
-                   },
-                   {
-                       "time":  "21/09 19:07",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Wither Skeleton"
                    }
                ]
 }
