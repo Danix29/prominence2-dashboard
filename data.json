@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T14:11:40.6806924Z",
+    "updated_at":  "2026-09-21T14:12:56.7475377Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,27 +30,27 @@
                      "playtime":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  133.4
+                                          "value":  134.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  96.3
+                                          "value":  97.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  90.1
+                                          "value":  91.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  88.8
+                                          "value":  90.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  66.1
+                                          "value":  67.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  53.7
+                                          "value":  54.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -90,7 +90,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  96
+                                       "value":  101
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -98,11 +98,11 @@
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  56
+                                       "value":  57
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  51
+                                       "value":  55
                                    },
                                    {
                                        "name":  "lasersub",
@@ -128,7 +128,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  647.2
+                                          "value":  675.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  1632.5
+                                          "value":  1750.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -179,12 +179,12 @@
                                   ],
                      "distance":  [
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  8114.1
+                                          "name":  "Dan_niel03",
+                                          "value":  8258.6
                                       },
                                       {
-                                          "name":  "Dan_niel03",
-                                          "value":  8101.4
+                                          "name":  "daaviid_2006",
+                                          "value":  8238.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  4865.1
+                                          "value":  4960.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  2098.5
+                                          "value":  2132.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -210,27 +210,27 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  134.7
+                                          "value":  135.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  66.3
+                                          "value":  67.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  53.8
+                                          "value":  55.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  39.4
+                                          "value":  40.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  8
+                                          "value":  9.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  6.8
+                                          "value":  8.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 16:12",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Kutcha Village"
+                   },
                    {
                        "time":  "21/09 16:07",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "21/09 15:09",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Create: Testosterone"
-                   },
-                   {
-                       "time":  "21/09 15:09",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Nanomachines, son!"
                    }
                ]
 }
