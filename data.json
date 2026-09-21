@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T21:41:42.4898479Z",
+    "updated_at":  "2026-09-21T21:42:58.5978552Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  516.8
+                                          "value":  518.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  345
+                                          "value":  346.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  25663.3
+                                          "value":  25672.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  14665.3
+                                          "value":  14708.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -214,11 +214,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  97.4
+                                          "value":  98.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  85.3
+                                          "value":  86.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -236,7 +236,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  32
+                                              "value":  34
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 23:42",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro A... Fake?"
+                   },
+                   {
+                       "time":  "21/09 23:42",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro It Comes Back, Right?"
+                   },
                    {
                        "time":  "21/09 23:38",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "21/09 20:52",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Time for a Sweat"
-                   },
-                   {
-                       "time":  "21/09 20:52",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro We Need to Go Deeper"
-                   },
-                   {
-                       "time":  "21/09 20:50",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
