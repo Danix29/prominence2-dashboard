@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T17:42:44.7553512Z",
+    "updated_at":  "2026-09-21T17:44:00.9330515Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  277.9
+                                          "value":  279.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  268.7
+                                          "value":  269.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  234.1
+                                          "value":  235.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -155,7 +155,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3474.5
+                                          "value":  3497.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,15 +177,15 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  15111.3
+                                          "value":  15186
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  14897.2
+                                          "value":  14925.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  14622.5
+                                          "value":  14696.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -219,25 +219,25 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  4
+                                          "value":  5.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3.5
+                                          "value":  4.7
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  2.8
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  1.6
                                       }
                                   ],
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  16
+                                              "value":  17
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 19:43",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Ruby Ore"
+                   },
                    {
                        "time":  "21/09 19:41",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "21/09 19:02",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Piglin"
-                   },
-                   {
-                       "time":  "21/09 19:01",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
