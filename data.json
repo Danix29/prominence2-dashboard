@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T15:20:21.7455960Z",
+    "updated_at":  "2026-09-21T15:21:37.7885344Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -34,30 +34,34 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  158.9
+                                          "value":  160
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  152.7
+                                          "value":  153.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  136
+                                          "value":  137.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  128.8
+                                          "value":  129.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  116.2
+                                          "value":  117.3
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  50.6
+                                          "value":  51.7
                                       }
                                   ],
                      "deaths":  [
+                                    {
+                                        "name":  "Miguelhl",
+                                        "value":  192070
+                                    },
                                     {
                                         "name":  "daaviid_2006",
                                         "value":  11
@@ -69,10 +73,6 @@
                                     {
                                         "name":  "lasersub",
                                         "value":  2
-                                    },
-                                    {
-                                        "name":  "Miguelhl",
-                                        "value":  1
                                     },
                                     {
                                         "name":  "Geltz",
@@ -110,7 +110,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  14
+                                       "value":  15
                                    },
                                    {
                                        "name":  "Geltz",
@@ -136,7 +136,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  192
+                                          "value":  201
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -174,13 +174,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  149.7
+                                          "value":  150.3
                                       }
                                   ],
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  10748.2
+                                          "value":  10761.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -192,19 +192,19 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  6847.6
+                                          "value":  6927.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5800.6
+                                          "value":  5859.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4405.5
+                                          "value":  4490.5
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  3687.2
+                                          "value":  3771.1
                                       }
                                   ],
                      "survivor":  [
@@ -214,27 +214,27 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  102
+                                          "value":  103.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  70.6
+                                          "value":  71.7
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  50.8
+                                          "value":  51.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  27.6
+                                          "value":  28.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22.5
+                                          "value":  23.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  17.2
+                                          "value":  18.4
                                       }
                                   ],
                      "achievements":  [
