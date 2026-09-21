@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:00:32.6108633Z",
+    "updated_at":  "2026-09-21T18:01:48.7111959Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,15 +27,15 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  295.7
+                                          "value":  296.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  286.5
+                                          "value":  287.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  251.9
+                                          "value":  253.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -117,7 +117,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1579.3
+                                          "value":  1599.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -147,11 +147,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9510.8
+                                          "value":  9560.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  9090.7
+                                          "value":  9269.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -177,15 +177,15 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  16384.6
+                                          "value":  16504.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  15952.3
+                                          "value":  16007.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  15697.6
+                                          "value":  15748.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  14
+                                          "value":  15.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -223,15 +223,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8
-                                      },
-                                      {
-                                          "name":  "daaviid_2006",
-                                          "value":  2.9
+                                          "value":  9.3
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  0.1
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:01",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Blaze"
+                   },
                    {
                        "time":  "21/09 19:57",
                        "type":  "death",
@@ -460,11 +465,6 @@
                        "time":  "21/09 19:10",
                        "type":  "death",
                        "text":  "Wenza06 was shot by a skull from Wither"
-                   },
-                   {
-                       "time":  "21/09 19:10",
-                       "type":  "death",
-                       "text":  "Wenza06 withered away whilst fighting Geltz"
                    }
                ]
 }
