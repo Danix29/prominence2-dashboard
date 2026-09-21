@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:24:42.0704338Z",
+    "updated_at":  "2026-09-21T18:25:58.3756874Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  319.8
+                                          "value":  321.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  310.6
+                                          "value":  311.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -86,7 +86,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  251
+                                       "value":  252
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  17186.7
+                                          "value":  17313.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  17015.2
+                                          "value":  17136.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -222,11 +222,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  11
+                                          "value":  12.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4
+                                          "value":  5.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -236,15 +236,15 @@
                      "achievements":  [
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  20
+                                              "value":  21
+                                          },
+                                          {
+                                              "name":  "DanixNuts",
+                                              "value":  17
                                           },
                                           {
                                               "name":  "daaviid_2006",
                                               "value":  17
-                                          },
-                                          {
-                                              "name":  "DanixNuts",
-                                              "value":  16
                                           },
                                           {
                                               "name":  "lasersub",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:25",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Harder Than Gold"
+                   },
+                   {
+                       "time":  "21/09 20:25",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Red Nether"
+                   },
                    {
                        "time":  "21/09 20:23",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "21/09 19:15",
                        "type":  "leave",
                        "text":  "Wenza06 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "21/09 19:13",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro The Beginning of An Adventure"
-                   },
-                   {
-                       "time":  "21/09 19:13",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Wither You Want It Or Not"
                    }
                ]
 }
