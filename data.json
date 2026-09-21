@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T08:30:43.6465383Z",
+    "updated_at":  "2026-09-21T08:40:38.4695307Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -28,11 +28,11 @@
                                           "value":  35.8
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0
+                                          "name":  "Miguelhl",
+                                          "value":  0.8
                                       },
                                       {
-                                          "name":  "Miguelhl",
+                                          "name":  "DanixNuts",
                                           "value":  0
                                       },
                                       {
@@ -178,11 +178,11 @@
                                           "value":  3421
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0
+                                          "name":  "Miguelhl",
+                                          "value":  12.4
                                       },
                                       {
-                                          "name":  "Miguelhl",
+                                          "name":  "DanixNuts",
                                           "value":  0
                                       },
                                       {
@@ -208,11 +208,11 @@
                                           "value":  7.3
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0
+                                          "name":  "Miguelhl",
+                                          "value":  1
                                       },
                                       {
-                                          "name":  "Miguelhl",
+                                          "name":  "DanixNuts",
                                           "value":  0
                                       },
                                       {
@@ -237,6 +237,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 10:39",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "21/09 00:40",
                        "type":  "leave",
@@ -431,11 +436,6 @@
                        "time":  "20/09 21:21",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "20/09 21:17",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was shot by Undead Archer"
                    }
                ]
 }
