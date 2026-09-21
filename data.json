@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T19:11:46.7716902Z",
+    "updated_at":  "2026-09-21T19:13:03.0696642Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl",
                                         "DanixNuts",
-                                        "Geltz"
+                                        "Geltz",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  366.9
+                                          "value":  368.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  354.9
+                                          "value":  356.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  260.5
+                                          "value":  261.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -65,7 +65,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  13
+                                        "value":  14
                                     },
                                     {
                                         "name":  "Geltz",
@@ -155,7 +155,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4934.9
+                                          "value":  5169.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19995
+                                          "value":  20026.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  19064.6
+                                          "value":  19104.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  12180.6
+                                          "value":  12209.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -214,24 +214,24 @@
                                           "value":  163.8
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  31.5
+                                          "name":  "DanixNuts",
+                                          "value":  20.6
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  19.3
+                                          "name":  "Geltz",
+                                          "value":  14.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  12.9
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  12.8
-                                      },
-                                      {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  1.2
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 21:11",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Piglin Brute"
+                   },
                    {
                        "time":  "21/09 21:07",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "21/09 19:57",
                        "type":  "death",
                        "text":  "daaviid_2006 was fireballed by Blaze"
-                   },
-                   {
-                       "time":  "21/09 19:55",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro A New Protector..."
                    }
                ]
 }
