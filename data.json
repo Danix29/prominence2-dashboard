@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T16:45:30.8663486Z",
+    "updated_at":  "2026-09-21T16:46:47.0217112Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,6 @@
                         "sleeping":  false,
                         "players":  [
                                         "Geltz",
-                                        "Miguelhl",
                                         "DanixNuts",
                                         "Wenza06",
                                         "daaviid_2006"
@@ -29,7 +28,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  220.7
+                                          "value":  221.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -37,15 +36,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  213.4
+                                          "value":  214.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  200.9
+                                          "value":  202.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  186.1
+                                          "value":  187.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -53,7 +52,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  59.6
+                                          "value":  60.9
                                       }
                                   ],
                      "deaths":  [
@@ -123,7 +122,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1163.7
+                                          "value":  1164.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -149,7 +148,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3006.7
+                                          "value":  3015.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -179,11 +178,11 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  12086.9
+                                          "value":  12203.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  11780
+                                          "value":  11869.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -191,7 +190,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  11378.2
+                                          "value":  11443.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -199,11 +198,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  9701.8
+                                          "value":  9741.7
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  3965.2
+                                          "value":  4012.6
                                       }
                                   ],
                      "survivor":  [
@@ -217,23 +216,23 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  65.2
+                                          "value":  66.4
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  59.8
+                                          "value":  61
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  53.7
+                                          "value":  54.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  22.2
+                                          "value":  23.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  13.8
+                                          "value":  15
                                       }
                                   ],
                      "achievements":  [
@@ -263,11 +262,26 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  2
+                                              "value":  4
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 18:46",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "21/09 18:45",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Time for a Sweat"
+                   },
+                   {
+                       "time":  "21/09 18:45",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro We Need to Go Deeper"
+                   },
                    {
                        "time":  "21/09 18:44",
                        "type":  "join",
@@ -452,21 +466,6 @@
                        "time":  "21/09 17:07",
                        "type":  "join",
                        "text":  "Wenza06 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "21/09 17:07",
-                       "type":  "leave",
-                       "text":  "Wenza06 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "21/09 17:06",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Eterna, Quanta, Arcana"
-                   },
-                   {
-                       "time":  "21/09 17:06",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro The Basics"
                    }
                ]
 }
