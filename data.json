@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T20:02:36.1640866Z",
+    "updated_at":  "2026-09-21T20:03:52.6185371Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  417.7
+                                          "value":  419
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  22119.2
+                                          "value":  22131.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  30.1
+                                          "value":  31.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -234,12 +234,12 @@
                                   ],
                      "achievements":  [
                                           {
-                                              "name":  "Miguelhl",
+                                              "name":  "DanixNuts",
                                               "value":  25
                                           },
                                           {
-                                              "name":  "DanixNuts",
-                                              "value":  24
+                                              "name":  "Miguelhl",
+                                              "value":  25
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 22:03",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro It\u0027s Chargin\u0027 Time !"
+                   },
                    {
                        "time":  "21/09 22:01",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "21/09 20:34",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Red Nether"
-                   },
-                   {
-                       "time":  "21/09 20:32",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
                    }
                ]
 }
