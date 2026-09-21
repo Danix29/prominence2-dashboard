@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T11:33:06.6886800Z",
+    "updated_at":  "2026-09-21T11:35:37.0626590Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -241,6 +241,11 @@
                  },
     "events":  [
                    {
+                       "time":  "21/09 13:35",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
+                   {
                        "time":  "21/09 13:32",
                        "type":  "leave",
                        "text":  "Dan_niel03 ha salido de Prominence II"
@@ -432,11 +437,6 @@
                    },
                    {
                        "time":  "20/09 21:29",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "20/09 21:28",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
