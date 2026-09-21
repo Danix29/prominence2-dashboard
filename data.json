@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:48:51.5974456Z",
+    "updated_at":  "2026-09-21T18:50:08.6458373Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  344
+                                          "value":  345.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  332
+                                          "value":  333.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -146,7 +146,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  11248.2
+                                          "value":  11263.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19150.9
+                                          "value":  19176.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  8.5
+                                          "value":  9.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.2
+                                          "value":  1.5
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:50",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "21/09 20:48",
                        "type":  "death",
@@ -457,11 +462,6 @@
                    },
                    {
                        "time":  "21/09 19:40",
-                       "type":  "death",
-                       "text":  "DanixNuts was fireballed by Blaze"
-                   },
-                   {
-                       "time":  "21/09 19:39",
                        "type":  "death",
                        "text":  "DanixNuts was fireballed by Blaze"
                    }
