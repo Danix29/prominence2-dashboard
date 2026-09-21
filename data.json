@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:22:09.5683936Z",
+    "updated_at":  "2026-09-21T18:23:25.7847714Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  317.3
+                                          "value":  318.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  308.1
+                                          "value":  309.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  16948.9
+                                          "value":  17054.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  16789.9
+                                          "value":  16872.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -222,21 +222,21 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8.4
+                                          "value":  9.7
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  2.7
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
-                                      },
-                                      {
-                                          "name":  "Miguelhl",
-                                          "value":  1.5
                                       }
                                   ],
                      "achievements":  [
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  19
+                                              "value":  20
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:23",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Cincinnasite Ore"
+                   },
+                   {
+                       "time":  "21/09 20:23",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Cincinnasite Ore"
+                   },
                    {
                        "time":  "21/09 20:20",
                        "type":  "death",
@@ -454,16 +464,6 @@
                        "time":  "21/09 19:13",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Wither You Want It Or Not"
-                   },
-                   {
-                       "time":  "21/09 19:13",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Destructive Tendencies"
-                   },
-                   {
-                       "time":  "21/09 19:13",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro The Beginning of An Adventure"
                    }
                ]
 }
