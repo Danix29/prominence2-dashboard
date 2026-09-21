@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T11:35:37.0626590Z",
+    "updated_at":  "2026-09-21T11:36:55.0204629Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Dan_niel03"
                                     ]
                     },
                     {
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  0.6
+                                          "value":  1.7
                                       },
                                       {
                                           "name":  "Geltz",
@@ -182,19 +182,19 @@
                                           "value":  3038.2
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0
+                                          "name":  "Dan_niel03",
+                                          "value":  2.9
                                       },
                                       {
                                           "name":  "Geltz",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Wenza06",
+                                          "name":  "DanixNuts",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Dan_niel03",
+                                          "name":  "Wenza06",
                                           "value":  0
                                       },
                                       {
@@ -213,7 +213,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  0.6
+                                          "value":  1.9
                                       },
                                       {
                                           "name":  "Geltz",
