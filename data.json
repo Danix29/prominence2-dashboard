@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T23:20:39.9072385Z",
+    "updated_at":  "2026-09-21T23:21:55.9121273Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  615.8
+                                          "value":  617.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -55,7 +55,7 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  42
+                                        "value":  43
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -145,7 +145,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  13026.7
+                                          "value":  13245
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  27284.7
+                                          "value":  27338.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -204,10 +204,6 @@
                                   ],
                      "survivor":  [
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  184.3
-                                      },
-                                      {
                                           "name":  "Dan_niel03",
                                           "value":  166.5
                                       },
@@ -230,6 +226,10 @@
                                       {
                                           "name":  "Miguelhl",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.3
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 01:21",
+                       "type":  "death",
+                       "text":  "DanixNuts was blown up by Mutant Creeper"
+                   },
                    {
                        "time":  "21/09 23:44",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "21/09 21:07",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Eternal Expedition"
-                   },
-                   {
-                       "time":  "21/09 21:07",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Eternal Expedition"
                    }
                ]
 }
