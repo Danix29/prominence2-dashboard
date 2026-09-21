@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T20:50:53.5783691Z",
+    "updated_at":  "2026-09-21T20:52:09.5894960Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  466
+                                          "value":  467.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  24256.4
+                                          "value":  24296.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  34.5
+                                          "value":  35.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  28
+                                              "value":  29
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 22:50",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Delving Into Darkness"
+                   },
                    {
                        "time":  "21/09 22:40",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "21/09 20:42",
                        "type":  "death",
                        "text":  "DanixNuts withered away"
-                   },
-                   {
-                       "time":  "21/09 20:42",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Wither Skeleton"
                    }
                ]
 }
