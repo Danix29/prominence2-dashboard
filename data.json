@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T13:09:19.0051386Z",
+    "updated_at":  "2026-09-21T13:10:35.0263605Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -9,7 +9,8 @@
                         "players":  [
                                         "lasersub",
                                         "Dan_niel03",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "daaviid_2006"
                                     ]
                     },
                     {
@@ -27,7 +28,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  73
+                                          "value":  74.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -35,15 +36,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  35.8
+                                          "value":  36
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  28.6
+                                          "value":  29.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  28.4
+                                          "value":  29.7
                                       },
                                       {
                                           "name":  "Geltz",
@@ -87,7 +88,7 @@
                      "kills":  [
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  34
+                                       "value":  36
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -117,7 +118,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  384.3
+                                          "value":  401.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -147,7 +148,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  868.5
+                                          "value":  955.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -177,7 +178,7 @@
                      "distance":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  4635.2
+                                          "value":  4734.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -189,11 +190,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1421.5
+                                          "value":  1520.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  954.8
+                                          "value":  992.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -207,7 +208,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  73.2
+                                          "value":  74.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -215,19 +216,19 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  28.8
+                                          "value":  30
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  28.6
+                                          "value":  29.9
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  7.7
                                       },
                                       {
                                           "name":  "Geltz",
                                           "value":  7.5
-                                      },
-                                      {
-                                          "name":  "daaviid_2006",
-                                          "value":  7.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -236,15 +237,19 @@
                                   ],
                      "achievements":  [
                                           {
+                                              "name":  "Dan_niel03",
+                                              "value":  2
+                                          },
+                                          {
                                               "name":  "DanixNuts",
                                               "value":  2
                                           },
                                           {
-                                              "name":  "lasersub",
+                                              "name":  "Miguelhl",
                                               "value":  1
                                           },
                                           {
-                                              "name":  "Miguelhl",
+                                              "name":  "lasersub",
                                               "value":  1
                                           },
                                           {
@@ -254,6 +259,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 15:10",
+                       "type":  "join",
+                       "text":  "daaviid_2006 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "21/09 15:09",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Create: Testosterone"
+                   },
+                   {
+                       "time":  "21/09 15:09",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Nanomachines, son!"
+                   },
                    {
                        "time":  "21/09 14:48",
                        "type":  "logro",
@@ -438,21 +458,6 @@
                        "time":  "20/09 23:22",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Forged in Flames"
-                   },
-                   {
-                       "time":  "20/09 23:21",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Bringer of Storms"
-                   },
-                   {
-                       "time":  "20/09 23:21",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Wax On"
-                   },
-                   {
-                       "time":  "20/09 23:19",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro A crafter that runs on cells..."
                    }
                ]
 }
