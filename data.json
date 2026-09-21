@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T09:22:31.1765482Z",
+    "updated_at":  "2026-09-21T09:39:03.7740258Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -118,11 +118,11 @@
                                           "value":  351.2
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  41.9
+                                          "name":  "DanixNuts",
+                                          "value":  0
                                       },
                                       {
-                                          "name":  "DanixNuts",
+                                          "name":  "Miguelhl",
                                           "value":  0
                                       },
                                       {
@@ -144,15 +144,11 @@
                                   ],
                      "dmgtaken":  [
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  286.7
+                                          "name":  "DanixNuts",
+                                          "value":  0
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  126.8
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
                                           "value":  0
                                       },
                                       {
@@ -160,29 +156,29 @@
                                           "value":  0
                                       },
                                       {
+                                          "name":  "lasersub",
+                                          "value":  0
+                                      },
+                                      {
                                           "name":  "Wenza06",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Dan_niel03",
+                                          "name":  "daaviid_2006",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "lasersub",
+                                          "name":  "Dan_niel03",
                                           "value":  0
                                       }
                                   ],
                      "distance":  [
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  3421
+                                          "name":  "DanixNuts",
+                                          "value":  0
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3038.2
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
                                           "value":  0
                                       },
                                       {
@@ -190,29 +186,29 @@
                                           "value":  0
                                       },
                                       {
+                                          "name":  "lasersub",
+                                          "value":  0
+                                      },
+                                      {
                                           "name":  "Wenza06",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Dan_niel03",
+                                          "name":  "daaviid_2006",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "lasersub",
+                                          "name":  "Dan_niel03",
                                           "value":  0
                                       }
                                   ],
                      "survivor":  [
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  42.4
-                                      },
-                                      {
-                                          "name":  "daaviid_2006",
-                                          "value":  7.3
-                                      },
-                                      {
                                           "name":  "DanixNuts",
+                                          "value":  0
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
                                           "value":  0
                                       },
                                       {
@@ -220,15 +216,19 @@
                                           "value":  0
                                       },
                                       {
+                                          "name":  "lasersub",
+                                          "value":  0
+                                      },
+                                      {
                                           "name":  "Wenza06",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Dan_niel03",
+                                          "name":  "daaviid_2006",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "lasersub",
+                                          "name":  "Dan_niel03",
                                           "value":  0
                                       }
                                   ],
