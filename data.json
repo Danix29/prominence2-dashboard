@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T12:28:45.6883973Z",
+    "updated_at":  "2026-09-21T12:30:01.7444531Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  47.5
+                                          "value":  48.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -39,11 +39,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  4.1
+                                          "value":  5.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  3.4
+                                          "value":  4.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -95,15 +95,11 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  6
+                                       "value":  8
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  0
-                                   },
-                                   {
-                                       "name":  "DanixNuts",
-                                       "value":  0
+                                       "value":  2
                                    },
                                    {
                                        "name":  "Wenza06",
@@ -111,6 +107,10 @@
                                    },
                                    {
                                        "name":  "lasersub",
+                                       "value":  0
+                                   },
+                                   {
+                                       "name":  "DanixNuts",
                                        "value":  0
                                    }
                                ],
@@ -120,20 +120,16 @@
                                           "value":  351.2
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  41.9
-                                      },
-                                      {
                                           "name":  "Dan_niel03",
-                                          "value":  26.4
+                                          "value":  75.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0
+                                          "value":  64.7
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0
+                                          "name":  "Miguelhl",
+                                          "value":  41.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -141,6 +137,10 @@
                                       },
                                       {
                                           "name":  "lasersub",
+                                          "value":  0
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
                                           "value":  0
                                       }
                                   ],
@@ -155,15 +155,15 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  99.8
+                                          "value":  106.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0
+                                          "value":  58.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0
+                                          "value":  6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -181,7 +181,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  3072.5
+                                          "value":  3151.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  183.7
+                                          "value":  260.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  47.7
+                                          "value":  49
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -218,8 +218,12 @@
                                           "value":  7.3
                                       },
                                       {
+                                          "name":  "DanixNuts",
+                                          "value":  5.6
+                                      },
+                                      {
                                           "name":  "Geltz",
-                                          "value":  3.6
+                                          "value":  4.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -227,10 +231,6 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  0
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
                                           "value":  0
                                       }
                                   ],
@@ -246,6 +246,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 14:29",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Heart of the Machine"
+                   },
                    {
                        "time":  "21/09 14:26",
                        "type":  "logro",
@@ -440,11 +445,6 @@
                        "time":  "20/09 21:58",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Tunnel Treasures"
-                   },
-                   {
-                       "time":  "20/09 21:51",
-                       "type":  "death",
-                       "text":  "DanixNuts was shot by Skeleton"
                    }
                ]
 }
