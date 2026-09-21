@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:28:30.9185278Z",
+    "updated_at":  "2026-09-21T18:29:47.1210607Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  323.6
+                                          "value":  324.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  314.4
+                                          "value":  315.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -146,7 +146,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  10228
+                                          "value":  10229
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4427.6
+                                          "value":  4513.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -175,16 +175,16 @@
                                   ],
                      "distance":  [
                                       {
+                                          "name":  "DanixNuts",
+                                          "value":  17670.7
+                                      },
+                                      {
                                           "name":  "daaviid_2006",
                                           "value":  17523.1
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  17437
-                                      },
-                                      {
                                           "name":  "Miguelhl",
-                                          "value":  17288.5
+                                          "value":  17334.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  14.8
+                                          "value":  16.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -226,7 +226,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  7.8
+                                          "value":  9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:29",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "21/09 20:29",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "21/09 20:25",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "21/09 19:18",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Mutant Enderman"
-                   },
-                   {
-                       "time":  "21/09 19:17",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Mutant Enderman"
-                   },
-                   {
-                       "time":  "21/09 19:15",
-                       "type":  "leave",
-                       "text":  "Wenza06 ha salido de Prominence II"
                    }
                ]
 }
