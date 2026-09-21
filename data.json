@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T19:30:49.1918035Z",
+    "updated_at":  "2026-09-21T19:32:05.3509074Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "Geltz",
-                                        "DanixNuts",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -27,15 +27,15 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  386
+                                          "value":  387.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  373.9
+                                          "value":  375.2
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  279.5
+                                          "value":  280.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -57,7 +57,7 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  37
+                                        "value":  40
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -87,11 +87,11 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  366
+                                       "value":  376
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  305
+                                       "value":  308
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  11937.4
+                                          "value":  12519.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20452.2
+                                          "value":  20482.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  19582.8
+                                          "value":  19668.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  31.9
+                                          "value":  33.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -226,12 +226,12 @@
                                           "value":  2.5
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  2.3
+                                          "name":  "Miguelhl",
+                                          "value":  1.6
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  0.4
+                                          "name":  "DanixNuts",
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 21:31",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Wither Skeleton"
+                   },
+                   {
+                       "time":  "21/09 21:31",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Wither Skeleton"
+                   },
+                   {
+                       "time":  "21/09 21:31",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Wither Skeleton"
+                   },
                    {
                        "time":  "21/09 21:30",
                        "type":  "death",
@@ -450,21 +465,6 @@
                        "time":  "21/09 20:19",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Ruby Ore"
-                   },
-                   {
-                       "time":  "21/09 20:19",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Ruby Ore"
-                   },
-                   {
-                       "time":  "21/09 20:17",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro A glorious Past"
-                   },
-                   {
-                       "time":  "21/09 20:17",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro A glorious Past"
                    }
                ]
 }
