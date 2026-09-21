@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:06:53.9879224Z",
+    "updated_at":  "2026-09-21T18:08:09.9638189Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,15 +27,15 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  302
+                                          "value":  303.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  292.8
+                                          "value":  294.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  258.2
+                                          "value":  259.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -56,12 +56,12 @@
                                   ],
                      "deaths":  [
                                     {
-                                        "name":  "daaviid_2006",
-                                        "value":  26
+                                        "name":  "DanixNuts",
+                                        "value":  27
                                     },
                                     {
-                                        "name":  "DanixNuts",
-                                        "value":  25
+                                        "name":  "daaviid_2006",
+                                        "value":  26
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -137,7 +137,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  625.9
+                                          "value":  627
                                       },
                                       {
                                           "name":  "lasersub",
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9739.7
+                                          "value":  9993.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -155,7 +155,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4001.5
+                                          "value":  4094.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,15 +177,15 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  16840.7
+                                          "value":  16918.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  16352.4
+                                          "value":  16391.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  16021.7
+                                          "value":  16097.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  20.4
+                                          "value":  21.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -223,15 +223,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  5.2
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  4.1
+                                          "value":  6.4
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.3
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:07",
+                       "type":  "death",
+                       "text":  "DanixNuts burned to death"
+                   },
+                   {
+                       "time":  "21/09 20:07",
+                       "type":  "death",
+                       "text":  "DanixNuts tried to swim in lava"
+                   },
                    {
                        "time":  "21/09 20:02",
                        "type":  "death",
@@ -455,16 +465,6 @@
                        "time":  "21/09 19:12",
                        "type":  "death",
                        "text":  "Wenza06 was blown up by Wither"
-                   },
-                   {
-                       "time":  "21/09 19:11",
-                       "type":  "leave",
-                       "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "21/09 19:11",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Destructive Tendencies"
                    }
                ]
 }
