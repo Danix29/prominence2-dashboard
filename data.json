@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:09:26.1092170Z",
+    "updated_at":  "2026-09-21T18:10:42.6766263Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,15 +27,15 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  304.6
+                                          "value":  305.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  295.3
+                                          "value":  296.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  260.8
+                                          "value":  262
                                       },
                                       {
                                           "name":  "Geltz",
@@ -91,7 +91,7 @@
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  223
+                                       "value":  227
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -155,7 +155,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4095
+                                          "value":  4117.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,15 +177,15 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  16971.9
+                                          "value":  17042.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  16469.5
+                                          "value":  16550.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  16168.5
+                                          "value":  16272.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22.9
+                                          "value":  24.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -223,15 +223,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  7.7
+                                          "value":  9
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  2.8
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  1.5
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:10",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Hidden in the Depths"
+                   },
                    {
                        "time":  "21/09 20:07",
                        "type":  "death",
@@ -460,11 +465,6 @@
                        "time":  "21/09 19:12",
                        "type":  "death",
                        "text":  "Wenza06 was shot by a skull from Wither"
-                   },
-                   {
-                       "time":  "21/09 19:12",
-                       "type":  "death",
-                       "text":  "Wenza06 was blown up by Wither"
                    }
                ]
 }
