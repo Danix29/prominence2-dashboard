@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T21:42:58.5978552Z",
+    "updated_at":  "2026-09-21T21:44:14.6567314Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  518.1
+                                          "value":  519.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  346.2
+                                          "value":  347.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  25672.9
+                                          "value":  25679.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  14708.2
+                                          "value":  14729.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -214,11 +214,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  98.6
+                                          "value":  99.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  86.6
+                                          "value":  87.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -236,7 +236,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  34
+                                              "value":  36
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 23:43",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Fallen Sorcerer"
+                   },
+                   {
+                       "time":  "21/09 23:43",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Wither You Want It Or Not"
+                   },
                    {
                        "time":  "21/09 23:42",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "21/09 20:57",
                        "type":  "death",
                        "text":  "Geltz was blown up by Creeper"
-                   },
-                   {
-                       "time":  "21/09 20:52",
-                       "type":  "death",
-                       "text":  "DanixNuts burned to death"
-                   },
-                   {
-                       "time":  "21/09 20:52",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Time for a Sweat"
                    }
                ]
 }
