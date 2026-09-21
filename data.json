@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T21:37:54.2520480Z",
+    "updated_at":  "2026-09-21T21:39:10.3826453Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  513
+                                          "value":  514.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  341.2
+                                          "value":  342.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  25648
+                                          "value":  25654.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  14619.2
+                                          "value":  14646.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -214,11 +214,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  93.6
+                                          "value":  94.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  81.5
+                                          "value":  82.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -236,7 +236,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  31
+                                              "value":  32
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 23:38",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Punch em!"
+                   },
                    {
                        "time":  "21/09 23:21",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "21/09 20:50",
                        "type":  "join",
                        "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "21/09 20:48",
-                       "type":  "death",
-                       "text":  "DanixNuts tried to swim in lava"
                    }
                ]
 }
