@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T08:49:31.9020491Z",
+    "updated_at":  "2026-09-21T08:50:47.8571910Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  9.7
+                                          "value":  11
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -179,7 +179,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  692.9
+                                          "value":  842.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -205,7 +205,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  9.9
+                                          "value":  11.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -233,10 +233,18 @@
                                       }
                                   ],
                      "achievements":  [
-
+                                          {
+                                              "name":  "Miguelhl",
+                                              "value":  1
+                                          }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 10:50",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro A Seedy Place"
+                   },
                    {
                        "time":  "21/09 10:39",
                        "type":  "join",
@@ -431,11 +439,6 @@
                        "time":  "20/09 21:23",
                        "type":  "death",
                        "text":  "daaviid_2006 was blown up by Grenadier"
-                   },
-                   {
-                       "time":  "20/09 21:21",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
                ]
 }
