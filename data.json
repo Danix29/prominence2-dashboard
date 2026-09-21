@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T20:53:26.2167666Z",
+    "updated_at":  "2026-09-21T20:54:42.2693939Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  468.6
+                                          "value":  469.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  24341.5
+                                          "value":  24407
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  37
+                                          "value":  38.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  29
+                                              "value":  30
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 22:53",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Network Apprentice"
+                   },
                    {
                        "time":  "21/09 22:50",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "21/09 20:47",
                        "type":  "join",
                        "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "21/09 20:42",
-                       "type":  "death",
-                       "text":  "DanixNuts withered away"
                    }
                ]
 }
