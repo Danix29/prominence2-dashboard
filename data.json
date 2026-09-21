@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:33:36.1196290Z",
+    "updated_at":  "2026-09-21T18:34:52.2368950Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  328.7
+                                          "value":  330
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  316.7
+                                          "value":  318
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -86,7 +86,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  258
+                                       "value":  261
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  17861.2
+                                          "value":  17887.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  17374.6
+                                          "value":  17422.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  10.1
+                                          "value":  11.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -230,13 +230,13 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.9
+                                          "value":  2.2
                                       }
                                   ],
                      "achievements":  [
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  21
+                                              "value":  22
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:34",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Red Nether"
+                   },
                    {
                        "time":  "21/09 20:32",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "21/09 19:25",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "21/09 19:20",
-                       "type":  "join",
-                       "text":  "daaviid_2006 ha entrado en Prominence II"
                    }
                ]
 }
