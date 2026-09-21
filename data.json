@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T09:21:15.0568542Z",
+    "updated_at":  "2026-09-21T09:22:31.1765482Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl"
+
                                     ]
                     },
                     {
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  41.4
+                                          "value":  42.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -179,7 +179,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3026.4
+                                          "value":  3038.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -205,7 +205,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  41.6
+                                          "value":  42.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -240,6 +240,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 11:22",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "21/09 10:50",
                        "type":  "logro",
@@ -434,11 +439,6 @@
                        "time":  "20/09 21:26",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "20/09 21:23",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was blown up by Grenadier"
                    }
                ]
 }
