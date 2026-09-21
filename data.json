@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T21:02:19.0517668Z",
+    "updated_at":  "2026-09-21T21:03:35.1617407Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  477.4
+                                          "value":  478.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  305.6
+                                          "value":  306.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  24644.7
+                                          "value":  24728.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  13590.4
+                                          "value":  13644.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -214,11 +214,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  58
+                                          "value":  59.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  45.9
+                                          "value":  47.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  12
+                                              "value":  13
                                           },
                                           {
                                               "name":  "lasersub",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 23:03",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Network Apprentice"
+                   },
                    {
                        "time":  "21/09 22:57",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "21/09 20:48",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Hoglin"
-                   },
-                   {
-                       "time":  "21/09 20:47",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
