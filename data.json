@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T12:24:57.2548808Z",
+    "updated_at":  "2026-09-21T12:26:13.5540489Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "Dan_niel03",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -26,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  43.7
+                                          "value":  45
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -38,11 +39,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.3
+                                          "value":  1.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0
+                                          "value":  0.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -184,7 +185,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  2853.9
+                                          "value":  2949.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -192,7 +193,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0.6
+                                          "value":  10.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -206,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  43.9
+                                          "value":  45.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -218,11 +219,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.5
+                                          "value":  1.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0
+                                          "value":  1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -241,6 +242,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 14:26",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro A crafter that runs on cells..."
+                   },
+                   {
+                       "time":  "21/09 14:25",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "21/09 14:24",
                        "type":  "join",
@@ -430,16 +441,6 @@
                        "time":  "20/09 21:51",
                        "type":  "death",
                        "text":  "DanixNuts was shot by Skeleton"
-                   },
-                   {
-                       "time":  "20/09 21:49",
-                       "type":  "death",
-                       "text":  "Dan_niel03 was slain by Piglin Beast"
-                   },
-                   {
-                       "time":  "20/09 21:47",
-                       "type":  "death",
-                       "text":  "Dan_niel03 was slain by Zombified Piglin"
                    }
                ]
 }
