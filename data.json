@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T15:57:11.6320556Z",
+    "updated_at":  "2026-09-21T15:58:27.8684917Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -28,7 +28,7 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  189.1
+                                          "value":  190.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -36,19 +36,19 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  172.4
+                                          "value":  173.6
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  166.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
                                           "value":  165.3
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  165.1
-                                      },
-                                      {
                                           "name":  "Geltz",
-                                          "value":  152.6
+                                          "value":  153.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -186,19 +186,19 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  9466.9
+                                          "value":  9543.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9301.4
+                                          "value":  9455.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  8929.6
+                                          "value":  9103.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  6994.4
+                                          "value":  7098.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -212,7 +212,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  138.4
+                                          "value":  139.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -220,7 +220,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  16.9
+                                          "value":  18.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -228,11 +228,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  7.5
+                                          "value":  8.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  5.3
+                                          "value":  6.6
                                       }
                                   ],
                      "achievements":  [
@@ -242,7 +242,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  13
+                                              "value":  14
                                           },
                                           {
                                               "name":  "lasersub",
@@ -267,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 17:57",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Hidden in the Depths"
+                   },
                    {
                        "time":  "21/09 17:53",
                        "type":  "logro",
@@ -461,11 +466,6 @@
                        "time":  "21/09 16:59",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Stealer of Souls"
-                   },
-                   {
-                       "time":  "21/09 16:58",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Stealer of Souls"
                    }
                ]
 }
