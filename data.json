@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T17:37:40.0161676Z",
+    "updated_at":  "2026-09-21T17:38:56.1293755Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "Miguelhl",
-                                        "DanixNuts",
-                                        "daaviid_2006"
+                                        "daaviid_2006",
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  272.8
+                                          "value":  274.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  263.6
+                                          "value":  264.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  229
+                                          "value":  230.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -57,11 +57,11 @@
                      "deaths":  [
                                     {
                                         "name":  "daaviid_2006",
-                                        "value":  21
+                                        "value":  23
                                     },
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  19
+                                        "value":  20
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -87,15 +87,15 @@
                      "kills":  [
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  207
+                                       "value":  212
                                    },
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  161
+                                       "value":  162
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  69
+                                       "value":  71
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -117,7 +117,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1278.6
+                                          "value":  1309.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -147,11 +147,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8249.7
+                                          "value":  8421
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  7924.2
+                                          "value":  8196
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -177,15 +177,15 @@
                      "distance":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  14753.1
+                                          "value":  14895
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  14637.4
+                                          "value":  14702
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  14309.4
+                                          "value":  14394.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  19.3
+                                          "value":  20.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -227,11 +227,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.8
+                                          "value":  1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  0.7
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 19:38",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Piglin"
+                   },
+                   {
+                       "time":  "21/09 19:37",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Piglin Brute"
+                   },
+                   {
+                       "time":  "21/09 19:37",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Piglin"
+                   },
                    {
                        "time":  "21/09 19:36",
                        "type":  "death",
@@ -450,21 +465,6 @@
                        "time":  "21/09 18:57",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "21/09 18:56",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "21/09 18:56",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "21/09 18:54",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was blown up by DanixNuts"
                    }
                ]
 }
