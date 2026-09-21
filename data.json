@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T19:54:57.2147113Z",
+    "updated_at":  "2026-09-21T19:56:13.4832239Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  410.1
+                                          "value":  411.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  22067.8
+                                          "value":  22072
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  22.5
+                                          "value":  23.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 21:56",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Networking Switchboard"
+                   },
                    {
                        "time":  "21/09 21:51",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "21/09 20:32",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "21/09 20:30",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
                    }
                ]
 }
