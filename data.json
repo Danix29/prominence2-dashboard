@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T09:49:38.9866046Z",
+    "updated_at":  "2026-09-21T11:31:50.6451020Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Dan_niel03"
                                     ]
                     },
                     {
@@ -32,19 +32,19 @@
                                           "value":  35.8
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0
+                                          "name":  "Dan_niel03",
+                                          "value":  0.1
                                       },
                                       {
                                           "name":  "Geltz",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Wenza06",
+                                          "name":  "DanixNuts",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Dan_niel03",
+                                          "name":  "Wenza06",
                                           "value":  0
                                       },
                                       {
@@ -212,19 +212,19 @@
                                           "value":  7.3
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0
+                                          "name":  "Dan_niel03",
+                                          "value":  0.3
                                       },
                                       {
                                           "name":  "Geltz",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Wenza06",
+                                          "name":  "DanixNuts",
                                           "value":  0
                                       },
                                       {
-                                          "name":  "Dan_niel03",
+                                          "name":  "Wenza06",
                                           "value":  0
                                       },
                                       {
@@ -240,6 +240,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 13:31",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "21/09 11:22",
                        "type":  "leave",
@@ -432,11 +437,6 @@
                    },
                    {
                        "time":  "20/09 21:27",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "20/09 21:26",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
