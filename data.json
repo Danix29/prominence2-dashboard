@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T14:05:19.8382265Z",
+    "updated_at":  "2026-09-21T14:06:36.0859399Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,27 +30,27 @@
                      "playtime":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  127.4
+                                          "value":  128.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  90.3
+                                          "value":  91.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  84.1
+                                          "value":  85.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  83.9
+                                          "value":  85.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  60.2
+                                          "value":  61.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  47.7
+                                          "value":  48.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -184,15 +184,15 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  7290.8
+                                          "value":  7417.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  5062.1
+                                          "value":  5062.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  4554
+                                          "value":  4556.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -210,27 +210,27 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  128.7
+                                          "value":  129.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  60.3
+                                          "value":  61.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  47.8
+                                          "value":  49.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  33.4
+                                          "value":  34.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  1.9
+                                          "value":  3.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.8
+                                          "value":  2.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -239,16 +239,16 @@
                                   ],
                      "achievements":  [
                                           {
+                                              "name":  "lasersub",
+                                              "value":  6
+                                          },
+                                          {
                                               "name":  "Dan_niel03",
                                               "value":  6
                                           },
                                           {
                                               "name":  "DanixNuts",
                                               "value":  6
-                                          },
-                                          {
-                                              "name":  "lasersub",
-                                              "value":  5
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 16:06",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Super Creeps"
+                   },
                    {
                        "time":  "21/09 16:04",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "21/09 14:48",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Sound of Music"
-                   },
-                   {
-                       "time":  "21/09 14:46",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro A crafter that runs on cells..."
                    }
                ]
 }
