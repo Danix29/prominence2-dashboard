@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T11:31:50.6451020Z",
+    "updated_at":  "2026-09-21T11:33:06.6886800Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Dan_niel03"
+
                                     ]
                     },
                     {
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  0.1
+                                          "value":  0.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -213,7 +213,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  0.3
+                                          "value":  0.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -240,6 +240,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 13:32",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
                    {
                        "time":  "21/09 13:31",
                        "type":  "join",
@@ -432,11 +437,6 @@
                    },
                    {
                        "time":  "20/09 21:28",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "20/09 21:27",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
