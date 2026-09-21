@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T18:47:34.8305179Z",
+    "updated_at":  "2026-09-21T18:48:51.5974456Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  342.7
+                                          "value":  344
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  330.7
+                                          "value":  332
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  238.6
+                                          "value":  239
                                       },
                                       {
                                           "name":  "lasersub",
@@ -56,7 +56,7 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  31
+                                        "value":  33
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -90,7 +90,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  273
+                                       "value":  274
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -146,7 +146,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  10901.7
+                                          "value":  11248.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19074.8
+                                          "value":  19150.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -218,19 +218,19 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  12.5
+                                          "value":  12.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  7.2
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  4.9
+                                          "value":  8.5
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 20:48",
+                       "type":  "death",
+                       "text":  "DanixNuts tried to swim in lava"
+                   },
+                   {
+                       "time":  "21/09 20:48",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Hoglin"
+                   },
+                   {
+                       "time":  "21/09 20:47",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "21/09 20:47",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "21/09 20:42",
                        "type":  "death",
@@ -444,26 +464,6 @@
                        "time":  "21/09 19:39",
                        "type":  "death",
                        "text":  "DanixNuts was fireballed by Blaze"
-                   },
-                   {
-                       "time":  "21/09 19:39",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Piglin"
-                   },
-                   {
-                       "time":  "21/09 19:38",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Piglin"
-                   },
-                   {
-                       "time":  "21/09 19:37",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Piglin Brute"
-                   },
-                   {
-                       "time":  "21/09 19:37",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Piglin"
                    }
                ]
 }
