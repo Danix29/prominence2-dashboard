@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T19:47:19.8579729Z",
+    "updated_at":  "2026-09-21T19:48:36.2392037Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  402.5
+                                          "value":  403.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  296
+                                          "value":  297.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  21710.4
+                                          "value":  21815.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  13486
+                                          "value":  13494.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -214,11 +214,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  48.4
+                                          "value":  49.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  14.8
+                                          "value":  16.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -240,7 +240,7 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  19
+                                              "value":  21
                                           },
                                           {
                                               "name":  "daaviid_2006",
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  11
+                                              "value":  12
                                           },
                                           {
                                               "name":  "lasersub",
@@ -265,6 +265,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 21:48",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Unknown Technology"
+                   },
+                   {
+                       "time":  "21/09 21:48",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Crafting Maestro"
+                   },
+                   {
+                       "time":  "21/09 21:47",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro The Parrots and the Bats"
+                   },
+                   {
+                       "time":  "21/09 21:47",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro A Seedy Place"
+                   },
                    {
                        "time":  "21/09 21:38",
                        "type":  "leave",
@@ -444,26 +464,6 @@
                        "time":  "21/09 20:29",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "21/09 20:29",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "21/09 20:25",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Harder Than Gold"
-                   },
-                   {
-                       "time":  "21/09 20:25",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Red Nether"
-                   },
-                   {
-                       "time":  "21/09 20:23",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Cincinnasite Ore"
                    }
                ]
 }
