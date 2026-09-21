@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T20:05:08.9784486Z",
+    "updated_at":  "2026-09-21T20:06:25.1702547Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  420.3
+                                          "value":  421.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  22131.1
+                                          "value":  22286.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  32.7
+                                          "value":  33.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "21/09 22:06",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Sun++"
+                   },
                    {
                        "time":  "21/09 22:03",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "21/09 20:35",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Harder than Diamond"
-                   },
-                   {
-                       "time":  "21/09 20:34",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Red Nether"
                    }
                ]
 }
