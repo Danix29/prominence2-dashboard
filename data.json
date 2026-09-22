@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-21T23:25:43.8809396Z",
+    "updated_at":  "2026-09-22T00:39:32.5326611Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -178,16 +178,8 @@
                                           "value":  27502.6
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  20133.2
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
                                           "value":  17523.1
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  14749.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -200,6 +192,14 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  5781.3
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  0
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  0
                                       }
                                   ],
                      "survivor":  [
