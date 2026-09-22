@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T15:07:55.2277733Z",
+    "updated_at":  "2026-09-22T15:09:11.3084002Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  333
+                                          "value":  334.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  80
+                                          "value":  81.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -234,12 +234,12 @@
                                   ],
                      "achievements":  [
                                           {
-                                              "name":  "DanixNuts",
-                                              "value":  36
+                                              "name":  "daaviid_2006",
+                                              "value":  38
                                           },
                                           {
-                                              "name":  "daaviid_2006",
-                                              "value":  32
+                                              "name":  "DanixNuts",
+                                              "value":  36
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -264,6 +264,36 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 17:08",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Spore Galore"
+                   },
+                   {
+                       "time":  "22/09 17:08",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Stealer of Souls"
+                   },
+                   {
+                       "time":  "22/09 17:08",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Red Nether"
+                   },
+                   {
+                       "time":  "22/09 17:08",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Spooky Scary Skeleton"
+                   },
+                   {
+                       "time":  "22/09 17:08",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Wither You Want It Or Not"
+                   },
+                   {
+                       "time":  "22/09 17:08",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Sky of Beginning"
+                   },
                    {
                        "time":  "22/09 17:06",
                        "type":  "logro",
@@ -433,36 +463,6 @@
                        "time":  "21/09 22:03",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro It\u0027s Chargin\u0027 Time !"
-                   },
-                   {
-                       "time":  "21/09 22:01",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Fluix Energy Connection"
-                   },
-                   {
-                       "time":  "21/09 21:56",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Networking Switchboard"
-                   },
-                   {
-                       "time":  "21/09 21:51",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "21/09 21:48",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Unknown Technology"
-                   },
-                   {
-                       "time":  "21/09 21:48",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Crafting Maestro"
-                   },
-                   {
-                       "time":  "21/09 21:47",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro The Parrots and the Bats"
                    }
                ]
 }
