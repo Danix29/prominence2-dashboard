@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T23:07:03.0409545Z",
+    "updated_at":  "2026-09-22T23:08:19.2069621Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  540.3
+                                          "value":  541.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  509.4
+                                          "value":  510.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  225.2
+                                          "value":  226.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  32327.8
+                                          "value":  32403.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  22893.8
+                                          "value":  22956.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -197,7 +197,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  14645.3
+                                          "value":  14676.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -207,15 +207,15 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  97.8
+                                          "value":  99.1
+                                      },
+                                      {
+                                          "name":  "lasersub",
+                                          "value":  87.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  87.3
-                                      },
-                                      {
-                                          "name":  "lasersub",
-                                          "value":  86.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -223,7 +223,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  15.4
+                                          "value":  16.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -244,16 +244,16 @@
                                               "value":  36
                                           },
                                           {
+                                              "name":  "lasersub",
+                                              "value":  28
+                                          },
+                                          {
                                               "name":  "Miguelhl",
                                               "value":  28
                                           },
                                           {
-                                              "name":  "lasersub",
-                                              "value":  26
-                                          },
-                                          {
                                               "name":  "Geltz",
-                                              "value":  22
+                                              "value":  23
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -261,11 +261,31 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  8
+                                              "value":  9
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 01:07",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Sleeping in the Cold Below"
+                   },
+                   {
+                       "time":  "23/09 01:07",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Sleeping in the Cold Below"
+                   },
+                   {
+                       "time":  "23/09 01:07",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Sleeping in the Cold Below"
+                   },
+                   {
+                       "time":  "23/09 01:07",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Always Watching"
+                   },
                    {
                        "time":  "23/09 00:54",
                        "type":  "logro",
@@ -445,26 +465,6 @@
                        "time":  "22/09 20:05",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Local Brewery"
-                   },
-                   {
-                       "time":  "22/09 20:04",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Surge Protector"
-                   },
-                   {
-                       "time":  "22/09 20:03",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Flowing Power"
-                   },
-                   {
-                       "time":  "22/09 20:00",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Surge Protector"
-                   },
-                   {
-                       "time":  "22/09 19:56",
-                       "type":  "death",
-                       "text":  "lasersub was shot by Miguelhl"
                    }
                ]
 }
