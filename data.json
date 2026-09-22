@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T15:14:16.5414259Z",
+    "updated_at":  "2026-09-22T15:15:32.9332698Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "daaviid_2006"
+
                                     ]
                     },
                     {
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  339.4
+                                          "value":  340.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  86.3
+                                          "value":  87.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 17:15",
+                       "type":  "leave",
+                       "text":  "daaviid_2006 ha salido de Prominence II"
+                   },
                    {
                        "time":  "22/09 17:10",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "21/09 22:16",
                        "type":  "death",
                        "text":  "DanixNuts was shot by Skeleton"
-                   },
-                   {
-                       "time":  "21/09 22:12",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Flowing Power"
                    }
                ]
 }
