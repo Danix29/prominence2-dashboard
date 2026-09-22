@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T23:08:19.2069621Z",
+    "updated_at":  "2026-09-22T23:09:35.3310774Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  541.6
+                                          "value":  542.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  510.7
+                                          "value":  512
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  226.4
+                                          "value":  227.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  32403.8
+                                          "value":  32505.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  22956.3
+                                          "value":  23046.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -197,7 +197,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  14676.5
+                                          "value":  14703.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  99.1
+                                          "value":  100.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  87.7
+                                          "value":  89
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -223,7 +223,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  16.7
+                                          "value":  17.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  28
+                                              "value":  29
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -256,16 +256,31 @@
                                               "value":  23
                                           },
                                           {
-                                              "name":  "Wenza06",
-                                              "value":  9
+                                              "name":  "Dan_niel03",
+                                              "value":  11
                                           },
                                           {
-                                              "name":  "Dan_niel03",
+                                              "name":  "Wenza06",
                                               "value":  9
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 01:08",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro The Purity of the Seas"
+                   },
+                   {
+                       "time":  "23/09 01:08",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Magical Energy"
+                   },
+                   {
+                       "time":  "23/09 01:08",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro The Chaos of Hell"
+                   },
                    {
                        "time":  "23/09 01:07",
                        "type":  "logro",
@@ -450,21 +465,6 @@
                        "time":  "22/09 20:26",
                        "type":  "death",
                        "text":  "lasersub was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "22/09 20:26",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "22/09 20:09",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "22/09 20:05",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Local Brewery"
                    }
                ]
 }
