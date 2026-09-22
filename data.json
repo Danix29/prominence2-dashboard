@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T16:15:07.3362590Z",
+    "updated_at":  "2026-09-22T16:16:24.8415455Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -41,7 +41,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  214.9
+                                          "value":  216
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -191,7 +191,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  11455.9
+                                          "value":  11536.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -209,7 +209,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  164.2
+                                          "value":  165.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -224,11 +224,11 @@
                                           "value":  3.6
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  2.5
+                                          "name":  "Miguelhl",
+                                          "value":  2.6
                                       },
                                       {
-                                          "name":  "Miguelhl",
+                                          "name":  "Wenza06",
                                           "value":  2.5
                                       }
                                   ],
@@ -264,6 +264,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 18:16",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "22/09 18:15",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "22/09 18:15",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "22/09 18:14",
                        "type":  "join",
@@ -448,21 +463,6 @@
                        "time":  "21/09 22:57",
                        "type":  "join",
                        "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "21/09 22:53",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Network Apprentice"
-                   },
-                   {
-                       "time":  "21/09 22:50",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Delving Into Darkness"
-                   },
-                   {
-                       "time":  "21/09 22:40",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro A (Much) Bigger Table"
                    }
                ]
 }
