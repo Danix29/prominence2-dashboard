@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T18:26:33.3636895Z",
+    "updated_at":  "2026-09-22T18:27:49.6157617Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  346.1
+                                          "value":  347.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -75,7 +75,7 @@
                                     },
                                     {
                                         "name":  "lasersub",
-                                        "value":  3
+                                        "value":  5
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -139,7 +139,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  150.5
+                                          "value":  171.2
                                       }
                                   ],
                      "dmgtaken":  [
@@ -165,7 +165,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1005.7
+                                          "value":  1166.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  20579.4
+                                          "value":  20682.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -220,16 +220,16 @@
                                           "value":  30.9
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  30.3
-                                      },
-                                      {
                                           "name":  "DanixNuts",
                                           "value":  3.6
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "lasersub",
+                                          "value":  0.8
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 20:26",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Leaping Zombie"
+                   },
                    {
                        "time":  "22/09 20:26",
                        "type":  "death",
@@ -458,11 +463,6 @@
                        "time":  "22/09 17:08",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Wither You Want It Or Not"
-                   },
-                   {
-                       "time":  "22/09 17:08",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Sky of Beginning"
                    }
                ]
 }
