@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T17:38:12.6744658Z",
+    "updated_at":  "2026-09-22T17:39:28.8289720Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  459.1
+                                          "value":  460.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  297.8
+                                          "value":  299
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -60,7 +60,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  26
+                                        "value":  29
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  7866.8
+                                          "value":  8511.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -179,16 +179,12 @@
                                           "value":  27502.6
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  22159
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
                                           "value":  18715.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  17766.9
+                                          "value":  17807.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -201,12 +197,16 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  5781.3
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  1984.1
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  247.1
+                                          "value":  248.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  0.3
+                                          "value":  0.6
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 19:38",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Void Blossom"
+                   },
+                   {
+                       "time":  "22/09 19:38",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Void Blossom"
+                   },
+                   {
+                       "time":  "22/09 19:38",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Void Blossom"
+                   },
                    {
                        "time":  "22/09 19:37",
                        "type":  "death",
@@ -449,21 +464,6 @@
                        "time":  "22/09 17:01",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Hidden in the Depths"
-                   },
-                   {
-                       "time":  "22/09 17:00",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Harvest Season"
-                   },
-                   {
-                       "time":  "22/09 16:57",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Where\u0027s Atlantis?"
-                   },
-                   {
-                       "time":  "22/09 16:50",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Sleeping in the Cold Below"
                    }
                ]
 }
