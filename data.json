@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T21:26:46.4093342Z",
+    "updated_at":  "2026-09-22T21:28:02.4587598Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -34,11 +34,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  440.1
+                                          "value":  441.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  409.3
+                                          "value":  410.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -94,7 +94,7 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  132
+                                       "value":  133
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  26616
+                                          "value":  26818.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17912.8
+                                          "value":  17967.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -210,11 +210,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  161.7
+                                          "value":  162.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  93.6
+                                          "value":  94.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  16
+                                              "value":  17
                                           },
                                           {
                                               "name":  "Geltz",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 23:27",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Stare Into Despair"
+                   },
+                   {
+                       "time":  "22/09 23:27",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro The Beginning of An Adventure"
+                   },
                    {
                        "time":  "22/09 23:26",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "22/09 18:16",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "22/09 18:15",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "22/09 18:15",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
                    }
                ]
 }
