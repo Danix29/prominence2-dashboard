@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T20:34:41.7972814Z",
+    "updated_at":  "2026-09-22T20:35:58.3425453Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -34,11 +34,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  388.1
+                                          "value":  389.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  357.2
+                                          "value":  358.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  23312.7
+                                          "value":  23429.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  15392.4
+                                          "value":  15495.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -210,7 +210,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  109.6
+                                          "value":  110.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,7 +218,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  41.6
+                                          "value":  42.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  13
+                                              "value":  14
                                           },
                                           {
                                               "name":  "Geltz",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 22:35",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Local Librarian"
+                   },
                    {
                        "time":  "22/09 22:25",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "22/09 17:08",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Spore Galore"
-                   },
-                   {
-                       "time":  "22/09 17:08",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Stealer of Souls"
                    }
                ]
 }
