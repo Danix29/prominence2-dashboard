@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T14:56:27.2991070Z",
+    "updated_at":  "2026-09-22T14:57:43.5476465Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  321.6
+                                          "value":  322.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  18596.7
+                                          "value":  18598.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  68.5
+                                          "value":  69.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -243,7 +243,7 @@
                                           },
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  21
+                                              "value":  22
                                           },
                                           {
                                               "name":  "Geltz",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 16:57",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Where\u0027s Atlantis?"
+                   },
                    {
                        "time":  "22/09 16:50",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "21/09 21:29",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Magma Cube"
-                   },
-                   {
-                       "time":  "21/09 21:28",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Wither Skeleton"
                    }
                ]
 }
