@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T17:35:39.7099342Z",
+    "updated_at":  "2026-09-22T17:36:56.2609270Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  456.5
+                                          "value":  457.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  295.2
+                                          "value":  296.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -64,7 +64,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  21
+                                        "value":  23
                                     },
                                     {
                                         "name":  "Geltz",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  6779.8
+                                          "value":  7179.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  21924.7
+                                          "value":  22025.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  17616.9
+                                          "value":  17719.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  244.5
+                                          "value":  245.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  0.8
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 19:36",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Void Blossom"
+                   },
+                   {
+                       "time":  "22/09 19:36",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Void Blossom"
+                   },
                    {
                        "time":  "22/09 19:34",
                        "type":  "death",
@@ -454,16 +464,6 @@
                        "time":  "22/09 16:06",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Upgrades!"
-                   },
-                   {
-                       "time":  "22/09 16:00",
-                       "type":  "join",
-                       "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "22/09 01:25",
-                       "type":  "leave",
-                       "text":  "DanixNuts ha salido de Prominence II"
                    }
                ]
 }
