@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T15:02:49.7991899Z",
+    "updated_at":  "2026-09-22T15:04:06.0115561Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  327.9
+                                          "value":  329.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  74.9
+                                          "value":  76.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -238,12 +238,12 @@
                                               "value":  36
                                           },
                                           {
-                                              "name":  "Miguelhl",
-                                              "value":  25
+                                              "name":  "daaviid_2006",
+                                              "value":  27
                                           },
                                           {
-                                              "name":  "daaviid_2006",
-                                              "value":  24
+                                              "name":  "Miguelhl",
+                                              "value":  25
                                           },
                                           {
                                               "name":  "Geltz",
@@ -264,6 +264,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 17:03",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Fluix Energy Connection"
+                   },
+                   {
+                       "time":  "22/09 17:02",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Flowing Power"
+                   },
                    {
                        "time":  "22/09 17:02",
                        "type":  "logro",
@@ -446,16 +456,6 @@
                    },
                    {
                        "time":  "21/09 21:32",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "21/09 21:31",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "21/09 21:31",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Wither Skeleton"
                    },
