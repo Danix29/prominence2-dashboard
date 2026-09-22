@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T16:35:29.3742457Z",
+    "updated_at":  "2026-09-22T16:36:45.6693896Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub"
+                                        "lasersub",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -29,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  400.3
+                                          "value":  400.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -41,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  235.1
+                                          "value":  236.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -164,12 +165,12 @@
                                           "value":  1758.5
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  683.4
+                                          "name":  "lasersub",
+                                          "value":  698.7
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  670.7
+                                          "name":  "Wenza06",
+                                          "value":  683.4
                                       }
                                   ],
                      "distance":  [
@@ -191,7 +192,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  13495
+                                          "value":  13579.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -205,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  184.4
+                                          "value":  185.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -221,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  20.8
+                                          "value":  21.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 18:36",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "22/09 18:34",
                        "type":  "leave",
@@ -458,11 +464,6 @@
                        "time":  "21/09 23:21",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Shocking"
-                   },
-                   {
-                       "time":  "21/09 23:03",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Network Apprentice"
                    }
                ]
 }
