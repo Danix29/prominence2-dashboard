@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T18:25:17.0678682Z",
+    "updated_at":  "2026-09-22T18:26:33.3636895Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  344.8
+                                          "value":  346.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -97,7 +97,7 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  67
+                                       "value":  74
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -139,7 +139,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  123
+                                          "value":  150.5
                                       }
                                   ],
                      "dmgtaken":  [
@@ -165,7 +165,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  986.6
+                                          "value":  1005.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  20398.7
+                                          "value":  20579.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -221,7 +221,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  29.1
+                                          "value":  30.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 20:26",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Leaping Zombie"
+                   },
                    {
                        "time":  "22/09 20:09",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "22/09 17:08",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Sky of Beginning"
-                   },
-                   {
-                       "time":  "22/09 17:06",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Refined Iron"
                    }
                ]
 }
