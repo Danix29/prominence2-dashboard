@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T22:23:53.5218306Z",
+    "updated_at":  "2026-09-22T22:25:09.8525781Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,7 +31,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  497.3
+                                          "value":  498.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  466.4
+                                          "value":  467.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  182.1
+                                          "value":  183.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -103,7 +103,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  69
+                                       "value":  72
                                    },
                                    {
                                        "name":  "Geltz",
@@ -115,6 +115,10 @@
                                    }
                                ],
                      "dmgdealt":  [
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  1867.9
+                                      },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  1604.9
@@ -133,15 +137,11 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  864.6
+                                          "value":  886
                                       },
                                       {
                                           "name":  "lasersub",
                                           "value":  551.1
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  0
                                       }
                                   ],
                      "dmgtaken":  [
@@ -167,7 +167,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  2219
+                                          "value":  2266
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  30307.4
+                                          "value":  30411.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  21023.3
+                                          "value":  21131.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -197,7 +197,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  11699.8
+                                          "value":  11874.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  183.4
+                                          "value":  184.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  54.8
+                                          "value":  56
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  43.4
+                                          "value":  44.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 00:25",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro The Chaos of Hell"
+                   },
                    {
                        "time":  "23/09 00:23",
                        "type":  "logro",
@@ -448,11 +453,6 @@
                    },
                    {
                        "time":  "22/09 19:37",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Void Blossom"
-                   },
-                   {
-                       "time":  "22/09 19:36",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Void Blossom"
                    },
