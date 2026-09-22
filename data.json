@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T17:43:17.7061606Z",
+    "updated_at":  "2026-09-22T17:44:33.9821590Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  464.2
+                                          "value":  465.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  302.8
+                                          "value":  304.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22443
+                                          "value":  22541.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  17987.8
+                                          "value":  18122.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  252.2
+                                          "value":  253.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4.4
+                                          "value":  5.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -252,7 +252,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  10
+                                              "value":  11
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 19:44",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Wired"
+                   },
                    {
                        "time":  "22/09 19:38",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "22/09 17:02",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Shocking"
-                   },
-                   {
-                       "time":  "22/09 17:01",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Hidden in the Depths"
                    }
                ]
 }
