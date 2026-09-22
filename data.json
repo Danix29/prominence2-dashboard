@@ -1,13 +1,13 @@
 {
-    "updated_at":  "2026-09-22T16:13:50.9245239Z",
+    "updated_at":  "2026-09-22T16:15:07.3362590Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -41,7 +41,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  214.7
+                                          "value":  214.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -191,7 +191,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  11453.9
+                                          "value":  11455.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -209,7 +209,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  163.8
+                                          "value":  164.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 18:14",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "22/09 17:15",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "21/09 22:40",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro A (Much) Bigger Table"
-                   },
-                   {
-                       "time":  "21/09 22:16",
-                       "type":  "death",
-                       "text":  "DanixNuts was shot by Skeleton"
                    }
                ]
 }
