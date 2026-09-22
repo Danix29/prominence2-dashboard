@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T14:00:17.1546415Z",
+    "updated_at":  "2026-09-22T14:01:34.0033781Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "daaviid_2006"
                                     ]
                     },
                     {
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  266.2
+                                          "value":  266.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  17523.1
+                                          "value":  17560.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  12.9
+                                          "value":  13.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 16:00",
+                       "type":  "join",
+                       "text":  "daaviid_2006 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "22/09 01:25",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "21/09 21:13",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Piglin"
-                   },
-                   {
-                       "time":  "21/09 21:11",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Piglin Brute"
                    }
                ]
 }
