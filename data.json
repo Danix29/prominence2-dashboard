@@ -1,13 +1,14 @@
 {
-    "updated_at":  "2026-09-22T20:24:31.6098213Z",
+    "updated_at":  "2026-09-22T20:25:48.0768832Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "lasersub",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -33,7 +34,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  378.7
+                                          "value":  379.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -183,7 +184,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  22626.6
+                                          "value":  22666.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -209,7 +210,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  100.5
+                                          "value":  100.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -217,7 +218,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  32
+                                          "value":  32.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -264,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 22:25",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "22/09 22:25",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "22/09 20:58",
                        "type":  "leave",
@@ -453,16 +464,6 @@
                        "time":  "22/09 17:08",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Stealer of Souls"
-                   },
-                   {
-                       "time":  "22/09 17:08",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Red Nether"
-                   },
-                   {
-                       "time":  "22/09 17:08",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Spooky Scary Skeleton"
                    }
                ]
 }
