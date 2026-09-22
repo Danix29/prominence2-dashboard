@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T18:02:23.0774812Z",
+    "updated_at":  "2026-09-22T18:03:39.1590539Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  483.3
+                                          "value":  484.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  321.9
+                                          "value":  323.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  8519.1
+                                          "value":  8536.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  23117.9
+                                          "value":  23170.2
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  19137.8
+                                          "value":  19221.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,11 +218,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  23.5
+                                          "value":  24.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  6.2
+                                          "value":  7.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -252,7 +252,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  11
+                                              "value":  12
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 20:03",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Flowing Power"
+                   },
                    {
                        "time":  "22/09 20:00",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "22/09 17:04",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro A (Much) Bigger Table"
-                   },
-                   {
-                       "time":  "22/09 17:04",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Unknown Technology"
                    }
                ]
 }
