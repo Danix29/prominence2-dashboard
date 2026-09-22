@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T18:04:55.5901729Z",
+    "updated_at":  "2026-09-22T18:06:11.9263075Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  485.8
+                                          "value":  487.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  324.5
+                                          "value":  325.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  23186
+                                          "value":  23349.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  19347.2
+                                          "value":  19447.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,11 +218,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  26
+                                          "value":  27.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  8.7
+                                          "value":  10
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -244,7 +244,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  27
+                                              "value":  28
                                           },
                                           {
                                               "name":  "lasersub",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 20:05",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Local Brewery"
+                   },
                    {
                        "time":  "22/09 20:04",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "22/09 17:05",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Modern Industrialization"
-                   },
-                   {
-                       "time":  "22/09 17:04",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Fallen Sorcerer"
                    }
                ]
 }
