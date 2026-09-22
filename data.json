@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T05:48:19.0250662Z",
+    "updated_at":  "2026-09-22T05:49:34.8428752Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -36,6 +36,10 @@
                                           "value":  348.3
                                       },
                                       {
+                                          "name":  "daaviid_2006",
+                                          "value":  266.2
+                                      },
+                                      {
                                           "name":  "lasersub",
                                           "value":  214.7
                                       },
@@ -45,11 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  0
-                                      },
-                                      {
-                                          "name":  "daaviid_2006",
-                                          "value":  0
+                                          "value":  89.8
                                       }
                                   ],
                      "deaths":  [
