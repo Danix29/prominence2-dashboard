@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T18:58:18.5619479Z",
+    "updated_at":  "2026-09-22T18:59:34.7998439Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub"
+
                                     ]
                     },
                     {
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  377.9
+                                          "value":  378.7
                                       },
                                       {
                                           "name":  "Geltz",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  22626.1
+                                          "value":  22626.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  31.3
+                                          "value":  32
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 20:58",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "22/09 20:26",
                        "type":  "death",
@@ -458,11 +463,6 @@
                        "time":  "22/09 17:08",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Spooky Scary Skeleton"
-                   },
-                   {
-                       "time":  "22/09 17:08",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Wither You Want It Or Not"
                    }
                ]
 }
