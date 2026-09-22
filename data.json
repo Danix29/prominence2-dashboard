@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T23:14:39.7784919Z",
+    "updated_at":  "2026-09-22T23:15:56.1162605Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,6 @@
                         "sleeping":  false,
                         "players":  [
                                         "Geltz",
-                                        "lasersub",
                                         "Dan_niel03"
                                     ]
                     },
@@ -31,11 +30,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  547.9
+                                          "value":  548.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  517.1
+                                          "value":  518.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -47,7 +46,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  232.8
+                                          "value":  234.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -177,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  32790.3
+                                          "value":  32795.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  23276.3
+                                          "value":  23334.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -207,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  105.5
+                                          "value":  106.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  94.1
+                                          "value":  94.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -223,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  23
+                                          "value":  24.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -266,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 01:15",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "23/09 01:08",
                        "type":  "logro",
@@ -460,11 +464,6 @@
                        "time":  "22/09 20:58",
                        "type":  "leave",
                        "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "22/09 20:26",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Leaping Zombie"
                    }
                ]
 }
