@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T23:57:47.9529970Z",
+    "updated_at":  "2026-09-22T23:59:05.3198039Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -32,11 +32,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  587.1
+                                          "value":  588.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  560.1
+                                          "value":  561.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -44,11 +44,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  345.5
+                                          "value":  346.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  275.9
+                                          "value":  277.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -168,7 +168,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2333.7
+                                          "value":  2370
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -178,7 +178,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  34205.3
+                                          "value":  34319.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,7 +186,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  25435.2
+                                          "value":  25473.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -194,11 +194,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  19055.3
+                                          "value":  19189
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  18102.1
+                                          "value":  18121.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -208,15 +208,15 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  148.5
+                                          "value":  149.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  133.3
+                                          "value":  134.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  92.5
+                                          "value":  93.8
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -224,7 +224,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  23.2
+                                          "value":  24.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -238,7 +238,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  40
+                                              "value":  41
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -267,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 01:58",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Wild Harvest"
+                   },
                    {
                        "time":  "23/09 01:52",
                        "type":  "join",
@@ -461,11 +466,6 @@
                        "time":  "22/09 23:27",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Stare Into Despair"
-                   },
-                   {
-                       "time":  "22/09 23:27",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro The Beginning of An Adventure"
                    }
                ]
 }
