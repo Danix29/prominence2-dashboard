@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T18:03:39.1590539Z",
+    "updated_at":  "2026-09-22T18:04:55.5901729Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  484.5
+                                          "value":  485.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  323.2
+                                          "value":  324.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -166,7 +166,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  902.4
+                                          "value":  925.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  23170.2
+                                          "value":  23186
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  19221.6
+                                          "value":  19347.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,11 +218,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24.7
+                                          "value":  26
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  7.4
+                                          "value":  8.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -247,12 +247,12 @@
                                               "value":  27
                                           },
                                           {
-                                              "name":  "Geltz",
+                                              "name":  "lasersub",
                                               "value":  13
                                           },
                                           {
-                                              "name":  "lasersub",
-                                              "value":  12
+                                              "name":  "Geltz",
+                                              "value":  13
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 20:04",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Surge Protector"
+                   },
                    {
                        "time":  "22/09 20:03",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "22/09 17:04",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Fallen Sorcerer"
-                   },
-                   {
-                       "time":  "22/09 17:04",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro A (Much) Bigger Table"
                    }
                ]
 }
