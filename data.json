@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T16:38:02.1144311Z",
+    "updated_at":  "2026-09-22T16:39:19.2046588Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  401.7
+                                          "value":  402.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  237.7
+                                          "value":  238.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  20393.4
+                                          "value":  20394.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  13642.1
+                                          "value":  13702.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  187
+                                          "value":  188.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22.4
+                                          "value":  23.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -265,6 +265,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 18:39",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "22/09 18:38",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
+                   {
+                       "time":  "22/09 18:38",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "22/09 18:38",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "22/09 18:36",
                        "type":  "join",
@@ -444,26 +464,6 @@
                        "time":  "21/09 23:43",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Wither You Want It Or Not"
-                   },
-                   {
-                       "time":  "21/09 23:42",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro A... Fake?"
-                   },
-                   {
-                       "time":  "21/09 23:42",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro It Comes Back, Right?"
-                   },
-                   {
-                       "time":  "21/09 23:38",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Punch em!"
-                   },
-                   {
-                       "time":  "21/09 23:21",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Shocking"
                    }
                ]
 }
