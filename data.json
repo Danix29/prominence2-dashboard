@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T15:01:33.4017118Z",
+    "updated_at":  "2026-09-22T15:02:49.7991899Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  326.7
+                                          "value":  327.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  73.6
+                                          "value":  74.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -243,7 +243,7 @@
                                           },
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  23
+                                              "value":  24
                                           },
                                           {
                                               "name":  "Geltz",
@@ -264,6 +264,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 17:02",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Shocking"
+                   },
+                   {
+                       "time":  "22/09 17:01",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Hidden in the Depths"
+                   },
                    {
                        "time":  "22/09 17:00",
                        "type":  "logro",
@@ -453,16 +463,6 @@
                        "time":  "21/09 21:31",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "21/09 21:30",
-                       "type":  "death",
-                       "text":  "Miguelhl withered away whilst fighting Wither Skeleton"
-                   },
-                   {
-                       "time":  "21/09 21:29",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Magma Cube"
                    }
                ]
 }
