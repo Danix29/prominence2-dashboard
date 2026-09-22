@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T22:35:19.3697860Z",
+    "updated_at":  "2026-09-22T22:36:35.4114188Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,7 +31,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  508.7
+                                          "value":  510
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -39,7 +39,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  477.8
+                                          "value":  479.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  193.5
+                                          "value":  194.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -106,12 +106,12 @@
                                        "value":  76
                                    },
                                    {
-                                       "name":  "Geltz",
-                                       "value":  54
-                                   },
-                                   {
                                        "name":  "Wenza06",
                                        "value":  29
+                                   },
+                                   {
+                                       "name":  "Geltz",
+                                       "value":  0
                                    }
                                ],
                      "dmgdealt":  [
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  30936
+                                          "value":  30989.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  21573.6
+                                          "value":  21610.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  194.8
+                                          "value":  196.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  66.2
+                                          "value":  67.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  54.8
+                                          "value":  56.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -249,7 +249,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  23
+                                              "value":  26
                                           },
                                           {
                                               "name":  "Geltz",
@@ -266,6 +266,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 00:35",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Eterna, Quanta, Arcana"
+                   },
+                   {
+                       "time":  "23/09 00:35",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Introduction to Chaos"
+                   },
+                   {
+                       "time":  "23/09 00:35",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro The Basics"
+                   },
                    {
                        "time":  "23/09 00:33",
                        "type":  "logro",
@@ -448,21 +463,6 @@
                    },
                    {
                        "time":  "22/09 19:38",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Void Blossom"
-                   },
-                   {
-                       "time":  "22/09 19:38",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Void Blossom"
-                   },
-                   {
-                       "time":  "22/09 19:38",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Void Blossom"
-                   },
-                   {
-                       "time":  "22/09 19:37",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Void Blossom"
                    }
