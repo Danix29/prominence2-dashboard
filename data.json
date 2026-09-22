@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T07:29:02.6670159Z",
+    "updated_at":  "2026-09-22T07:30:18.4568690Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -204,10 +204,6 @@
                                   ],
                      "survivor":  [
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  266.2
-                                      },
-                                      {
                                           "name":  "Dan_niel03",
                                           "value":  166.5
                                       },
@@ -218,6 +214,10 @@
                                       {
                                           "name":  "Geltz",
                                           "value":  100.5
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  12.9
                                       },
                                       {
                                           "name":  "DanixNuts",
