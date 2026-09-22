@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T15:05:22.4903313Z",
+    "updated_at":  "2026-09-22T15:06:38.8047052Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  330.5
+                                          "value":  331.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  18679.6
+                                          "value":  18697.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  77.4
+                                          "value":  78.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -239,7 +239,7 @@
                                           },
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  30
+                                              "value":  32
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 17:06",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Refined Iron"
+                   },
                    {
                        "time":  "22/09 17:05",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "21/09 21:47",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro The Parrots and the Bats"
-                   },
-                   {
-                       "time":  "21/09 21:47",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro A Seedy Place"
                    }
                ]
 }
