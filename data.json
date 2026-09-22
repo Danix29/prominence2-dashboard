@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T14:23:18.5730718Z",
+    "updated_at":  "2026-09-22T14:24:34.8102980Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  288.4
+                                          "value":  289.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  17808
+                                          "value":  17819.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  35.4
+                                          "value":  36.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -243,7 +243,7 @@
                                           },
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  18
+                                              "value":  19
                                           },
                                           {
                                               "name":  "Geltz",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 16:24",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Netherite Tier Upgrade"
+                   },
                    {
                        "time":  "22/09 16:06",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "21/09 21:26",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "21/09 21:26",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Harder than Diamond"
                    }
                ]
 }
