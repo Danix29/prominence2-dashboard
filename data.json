@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T23:18:28.5051260Z",
+    "updated_at":  "2026-09-22T23:19:44.9147779Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  550
+                                          "value":  551.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  520.9
+                                          "value":  522.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  236.6
+                                          "value":  237.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  32962.4
+                                          "value":  33077.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  23517.3
+                                          "value":  23589
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -197,7 +197,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  14869.6
+                                          "value":  14894
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  109.3
+                                          "value":  110.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  96.2
+                                          "value":  97.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -223,7 +223,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  26.8
+                                          "value":  28.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  29
+                                              "value":  30
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -253,7 +253,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  23
+                                              "value":  24
                                           },
                                           {
                                               "name":  "Dan_niel03",
@@ -266,6 +266,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 01:19",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Mastering the Inferno"
+                   },
+                   {
+                       "time":  "23/09 01:19",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Mastering the Inferno"
+                   },
+                   {
+                       "time":  "23/09 01:19",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Mastering the Inferno"
+                   },
                    {
                        "time":  "23/09 01:16",
                        "type":  "join",
@@ -450,21 +465,6 @@
                        "time":  "22/09 23:00",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Fishy Business"
-                   },
-                   {
-                       "time":  "22/09 22:35",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Local Librarian"
-                   },
-                   {
-                       "time":  "22/09 22:25",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "22/09 22:25",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
                    }
                ]
 }
