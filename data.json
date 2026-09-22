@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T15:09:11.3084002Z",
+    "updated_at":  "2026-09-22T15:10:27.6308140Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  334.3
+                                          "value":  335.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  81.3
+                                          "value":  82.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  38
+                                              "value":  40
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -264,6 +264,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 17:10",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Harder than Diamond"
+                   },
+                   {
+                       "time":  "22/09 17:09",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro God, Take The Wheel"
+                   },
                    {
                        "time":  "22/09 17:08",
                        "type":  "logro",
@@ -453,16 +463,6 @@
                        "time":  "21/09 22:12",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Flowing Power"
-                   },
-                   {
-                       "time":  "21/09 22:06",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Sun++"
-                   },
-                   {
-                       "time":  "21/09 22:03",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro It\u0027s Chargin\u0027 Time !"
                    }
                ]
 }
