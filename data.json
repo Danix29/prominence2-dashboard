@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T15:00:16.0330436Z",
+    "updated_at":  "2026-09-22T15:01:33.4017118Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  325.4
+                                          "value":  326.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  72.3
+                                          "value":  73.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -243,7 +243,7 @@
                                           },
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  22
+                                              "value":  23
                                           },
                                           {
                                               "name":  "Geltz",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 17:00",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Harvest Season"
+                   },
                    {
                        "time":  "22/09 16:57",
                        "type":  "logro",
@@ -453,11 +458,6 @@
                        "time":  "21/09 21:30",
                        "type":  "death",
                        "text":  "Miguelhl withered away whilst fighting Wither Skeleton"
-                   },
-                   {
-                       "time":  "21/09 21:29",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Magma Cube"
                    },
                    {
                        "time":  "21/09 21:29",
