@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T17:56:01.2343964Z",
+    "updated_at":  "2026-09-22T17:57:17.3203153Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  476.9
+                                          "value":  478.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  315.6
+                                          "value":  316.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -76,7 +76,7 @@
                                     },
                                     {
                                         "name":  "lasersub",
-                                        "value":  2
+                                        "value":  3
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -166,7 +166,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  698.7
+                                          "value":  902.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22901.9
+                                          "value":  22949.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  18855.7
+                                          "value":  18904.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -205,10 +205,6 @@
                                   ],
                      "survivor":  [
                                       {
-                                          "name":  "lasersub",
-                                          "value":  264.9
-                                      },
-                                      {
                                           "name":  "Dan_niel03",
                                           "value":  166.5
                                       },
@@ -222,7 +218,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  17.1
+                                          "value":  18.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -231,6 +227,10 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  2.5
+                                      },
+                                      {
+                                          "name":  "lasersub",
+                                          "value":  1.1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "22/09 19:56",
+                       "type":  "death",
+                       "text":  "lasersub was shot by Miguelhl"
+                   },
                    {
                        "time":  "22/09 19:53",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "22/09 17:03",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Fluix Energy Connection"
-                   },
-                   {
-                       "time":  "22/09 17:02",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Flowing Power"
                    }
                ]
 }
