@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T01:04:17.6264686Z",
+    "updated_at":  "2026-09-22T02:57:15.9503507Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -164,12 +164,12 @@
                                           "value":  1758.5
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  683.4
-                                      },
-                                      {
                                           "name":  "lasersub",
                                           "value":  599.8
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  0
                                       }
                                   ],
                      "distance":  [
