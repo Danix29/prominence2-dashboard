@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T22:17:33.2134302Z",
+    "updated_at":  "2026-09-22T22:18:49.2737052Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,16 +30,16 @@
                                           "value":  620.5
                                       },
                                       {
+                                          "name":  "lasersub",
+                                          "value":  492.2
+                                      },
+                                      {
                                           "name":  "Miguelhl",
                                           "value":  490.9
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  490.9
-                                      },
-                                      {
                                           "name":  "Geltz",
-                                          "value":  460
+                                          "value":  461.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -47,7 +47,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  175.8
+                                          "value":  177
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  30066.4
+                                          "value":  30122.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  20701.9
+                                          "value":  20769.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -197,7 +197,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  10786.9
+                                          "value":  10946.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  177.1
+                                          "value":  178.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  48.4
+                                          "value":  49.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  37.1
+                                          "value":  38.3
                                       },
                                       {
                                           "name":  "Miguelhl",
