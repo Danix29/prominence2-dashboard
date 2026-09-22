@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-22T18:27:49.6157617Z",
+    "updated_at":  "2026-09-22T18:29:05.7255436Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -32,12 +32,12 @@
                                           "value":  490.9
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  348.3
+                                          "name":  "lasersub",
+                                          "value":  348.6
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  347.4
+                                          "name":  "Geltz",
+                                          "value":  348.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  20682.2
+                                          "value":  20776
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  0.8
+                                          "value":  2.1
                                       }
                                   ],
                      "achievements":  [
