@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T00:31:12.6295297Z",
+    "updated_at":  "2026-09-23T00:32:28.7451460Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -42,11 +42,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  378.4
+                                          "value":  379.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  308.5
+                                          "value":  309.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -98,7 +98,7 @@
                                    },
                                    {
                                        "name":  "Dan_niel03",
-                                       "value":  120
+                                       "value":  122
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  1449.9
+                                          "value":  1459.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -192,15 +192,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  20783.1
+                                          "value":  20835.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  19375.2
+                                          "value":  19420.5
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5781.3
+                                          "value":  0
                                       }
                                   ],
                      "survivor":  [
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  55.8
+                                          "value":  57.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  3.9
+                                          "value":  5.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -256,7 +256,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  14
+                                              "value":  15
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 02:31",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Spooky Scary Skeleton"
+                   },
                    {
                        "time":  "23/09 02:28",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "23/09 00:25",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro The Chaos of Hell"
-                   },
-                   {
-                       "time":  "23/09 00:23",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro The Chaos of Hell"
                    }
                ]
 }
