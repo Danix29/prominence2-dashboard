@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T00:11:51.2392388Z",
+    "updated_at":  "2026-09-23T00:13:07.3637409Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -32,11 +32,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  601.1
+                                          "value":  602.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  574.1
+                                          "value":  575.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -44,11 +44,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  359.5
+                                          "value":  360.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  289.9
+                                          "value":  291.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -178,7 +178,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  34992.5
+                                          "value":  35063
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -186,7 +186,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  25923.2
+                                          "value":  25950.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -194,7 +194,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  19746.4
+                                          "value":  19774
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -208,19 +208,19 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  162.5
+                                          "value":  163.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  147.2
+                                          "value":  148.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  106.4
+                                          "value":  107.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  37.2
+                                          "value":  38.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -267,6 +267,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 02:13",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro You Are A Pirate"
+                   },
                    {
                        "time":  "23/09 01:58",
                        "type":  "logro",
@@ -461,11 +466,6 @@
                        "time":  "22/09 23:28",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro A Terrible Fortress"
-                   },
-                   {
-                       "time":  "22/09 23:27",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Stare Into Despair"
                    }
                ]
 }
