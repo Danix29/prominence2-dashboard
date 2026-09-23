@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T20:30:15.9778160Z",
+    "updated_at":  "2026-09-23T20:31:31.9466381Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  667.4
+                                          "value":  668.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  632.7
+                                          "value":  634
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  569.1
+                                          "value":  570.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -185,15 +185,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  38402.3
+                                          "value":  38428
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  37849.1
+                                          "value":  37865.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  28628.8
+                                          "value":  28675.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  221.1
+                                          "value":  222.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  213.5
+                                          "value":  214.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -227,7 +227,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  12.5
+                                          "value":  13.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 22:31",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Jack and the beanstalk"
+                   },
                    {
                        "time":  "23/09 22:29",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 18:08",
                        "type":  "death",
                        "text":  "Wenza06 was killed by magic"
-                   },
-                   {
-                       "time":  "23/09 18:06",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Embracing the Sculk"
                    }
                ]
 }
