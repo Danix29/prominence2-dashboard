@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T11:44:38.4660363Z",
+    "updated_at":  "2026-09-23T11:45:54.7893954Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  495.8
+                                          "value":  497.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  100.2
+                                          "value":  101.5
                                       }
                                   ],
                      "deaths":  [
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24310.7
+                                          "value":  24383.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5997.7
+                                          "value":  6146
                                       }
                                   ],
                      "survivor":  [
@@ -222,11 +222,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  36
+                                          "value":  37.3
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  13.1
+                                          "value":  14.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -260,11 +260,16 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  9
+                                              "value":  10
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 13:44",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro A Terrible Fortress"
+                   },
                    {
                        "time":  "23/09 13:39",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "23/09 00:51",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Those Were the Days"
-                   },
-                   {
-                       "time":  "23/09 00:35",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Eterna, Quanta, Arcana"
                    }
                ]
 }
