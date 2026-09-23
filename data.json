@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T15:20:30.9813843Z",
+    "updated_at":  "2026-09-23T15:21:48.4663717Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  736.8
+                                          "value":  738.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  709.4
+                                          "value":  710.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  551.9
+                                          "value":  553.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -87,7 +87,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  684
+                                       "value":  692
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  23235.6
+                                          "value":  23257.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -177,15 +177,15 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  40672.1
+                                          "value":  40846.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  39886.8
+                                          "value":  40121.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  36911.8
+                                          "value":  37060.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -223,15 +223,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  17.8
+                                          "value":  19.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  17.1
+                                          "value":  18.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9
+                                          "value":  0
                                       }
                                   ],
                      "achievements":  [
