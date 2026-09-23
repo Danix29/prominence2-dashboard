@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T20:42:57.2202674Z",
+    "updated_at":  "2026-09-23T20:44:13.3986855Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  680.1
+                                          "value":  681.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  645.4
+                                          "value":  646.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  581.8
+                                          "value":  583
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -163,7 +163,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  2703.2
+                                          "value":  2709.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -189,11 +189,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  38068.8
+                                          "value":  38084.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  29019.5
+                                          "value":  29059.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  233.8
+                                          "value":  235
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  226.2
+                                          "value":  227.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -227,7 +227,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  25.2
+                                          "value":  26.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -237,7 +237,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  55
+                                              "value":  57
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 22:43",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Under Pressure"
+                   },
                    {
                        "time":  "23/09 22:42",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 18:08",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Even the rats avoid this place"
-                   },
-                   {
-                       "time":  "23/09 18:08",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Even the rats avoid this place"
                    }
                ]
 }
