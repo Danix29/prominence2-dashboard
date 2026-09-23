@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T11:45:54.7893954Z",
+    "updated_at":  "2026-09-23T11:47:11.0980387Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  497.1
+                                          "value":  498.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  101.5
+                                          "value":  102.7
                                       }
                                   ],
                      "deaths":  [
@@ -71,12 +71,12 @@
                                         "value":  8
                                     },
                                     {
-                                        "name":  "lasersub",
+                                        "name":  "Wenza06",
                                         "value":  7
                                     },
                                     {
-                                        "name":  "Wenza06",
-                                        "value":  6
+                                        "name":  "lasersub",
+                                        "value":  7
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -110,7 +110,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  29
+                                       "value":  31
                                    }
                                ],
                      "dmgdealt":  [
@@ -136,7 +136,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  938.2
+                                          "value":  1001.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -170,7 +170,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  683.4
+                                          "value":  847.9
                                       }
                                   ],
                      "distance":  [
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24383.1
+                                          "value":  24390.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  6146
+                                          "value":  6262.3
                                       }
                                   ],
                      "survivor":  [
@@ -222,15 +222,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  37.3
-                                      },
-                                      {
-                                          "name":  "Wenza06",
-                                          "value":  14.3
+                                          "value":  38.6
                                       },
                                       {
                                           "name":  "DanixNuts",
                                           "value":  3.6
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 13:46",
+                       "type":  "death",
+                       "text":  "Wenza06 was slain by Wither Skeleton"
+                   },
                    {
                        "time":  "23/09 13:44",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "23/09 00:51",
                        "type":  "death",
                        "text":  "Dan_niel03 was slain by Piglin Brute"
-                   },
-                   {
-                       "time":  "23/09 00:51",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro Those Were the Days"
                    }
                ]
 }
