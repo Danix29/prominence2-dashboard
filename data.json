@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T14:21:34.5348484Z",
+    "updated_at":  "2026-09-23T14:22:50.5481485Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  678.3
+                                          "value":  679.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  652.6
+                                          "value":  653.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  493.4
+                                          "value":  494.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -87,7 +87,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  490
+                                       "value":  492
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -95,7 +95,7 @@
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  154
+                                       "value":  156
                                    },
                                    {
                                        "name":  "lasersub",
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19328.3
+                                          "value":  19393
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -155,7 +155,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  11239.4
+                                          "value":  11341.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -181,15 +181,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  34297.8
+                                          "value":  34435.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  32002.4
+                                          "value":  32124.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  26590.4
+                                          "value":  26702.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -223,15 +223,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  11.8
+                                          "value":  13.1
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  4.3
+                                          "value":  5.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3.2
+                                          "value":  4.4
                                       }
                                   ],
                      "achievements":  [
@@ -241,7 +241,7 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  38
+                                              "value":  39
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -266,6 +266,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 16:22",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro A crafter that runs on cells..."
+                   },
+                   {
+                       "time":  "23/09 16:22",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro A crafter that runs on cells..."
+                   },
+                   {
+                       "time":  "23/09 16:22",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro A crafter that runs on cells..."
+                   },
+                   {
+                       "time":  "23/09 16:22",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Jack and the beanstalk"
+                   },
                    {
                        "time":  "23/09 16:21",
                        "type":  "logro",
@@ -445,26 +465,6 @@
                        "time":  "23/09 16:00",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:00",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 15:59",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 15:59",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 15:59",
-                       "type":  "death",
-                       "text":  "DanixNuts was blown up by Grenadier"
                    }
                ]
 }
