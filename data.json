@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T19:43:18.9951392Z",
+    "updated_at":  "2026-09-23T19:44:34.9411177Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub"
+                                        "lasersub",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -33,11 +34,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  620.4
+                                          "value":  621.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  586.5
+                                          "value":  587
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -187,7 +188,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  35867.9
+                                          "value":  35922.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -205,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  174.7
+                                          "value":  175.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  166.6
+                                          "value":  167.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 21:43",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "23/09 21:36",
                        "type":  "join",
@@ -458,11 +464,6 @@
                        "time":  "23/09 17:28",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 17:28",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
                    }
                ]
 }
