@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T12:27:48.0695516Z",
+    "updated_at":  "2026-09-23T12:29:04.2980055Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  538.9
+                                          "value":  540.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  143.3
+                                          "value":  144.6
                                       }
                                   ],
                      "deaths":  [
@@ -154,7 +154,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  8632
+                                          "value":  8640.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -183,12 +183,12 @@
                                           "value":  27502.6
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  26361.6
+                                          "name":  "Miguelhl",
+                                          "value":  26447
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  26323
+                                          "name":  "Geltz",
+                                          "value":  26361.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  79.1
+                                          "value":  80.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -226,7 +226,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  41
+                                          "value":  42.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 14:29",
+                       "type":  "leave",
+                       "text":  "Wenza06 ha salido de Prominence II"
+                   },
                    {
                        "time":  "23/09 13:51",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "23/09 01:07",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Sleeping in the Cold Below"
-                   },
-                   {
-                       "time":  "23/09 01:07",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Sleeping in the Cold Below"
                    }
                ]
 }
