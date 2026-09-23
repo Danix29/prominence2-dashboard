@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T14:57:11.9103620Z",
+    "updated_at":  "2026-09-23T14:58:28.4859382Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  713.8
+                                          "value":  715.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  686.4
+                                          "value":  687.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  528.9
+                                          "value":  530.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -65,7 +65,7 @@
                                     },
                                     {
                                         "name":  "daaviid_2006",
-                                        "value":  36
+                                        "value":  39
                                     },
                                     {
                                         "name":  "Geltz",
@@ -87,15 +87,15 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  602
+                                       "value":  616
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  453
+                                       "value":  457
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  185
+                                       "value":  190
                                    },
                                    {
                                        "name":  "lasersub",
@@ -150,12 +150,12 @@
                                           "value":  20841
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  12127.7
+                                          "name":  "daaviid_2006",
+                                          "value":  12530.5
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  12022.1
+                                          "name":  "Miguelhl",
+                                          "value":  12205.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  37147.2
+                                          "value":  37308.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -185,11 +185,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  35443.7
+                                          "value":  35632.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  31511.7
+                                          "value":  31643
                                       },
                                       {
                                           "name":  "Geltz",
@@ -223,15 +223,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  36.9
+                                          "value":  38.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  26.1
+                                          "value":  27.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  0
+                                          "value":  0.1
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 16:58",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was blown up by Grenadier"
+                   },
+                   {
+                       "time":  "23/09 16:58",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 16:57",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Leaping Zombie"
+                   },
                    {
                        "time":  "23/09 16:57",
                        "type":  "death",
@@ -450,21 +465,6 @@
                        "time":  "23/09 16:02",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:02",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:02",
-                       "type":  "death",
-                       "text":  "DanixNuts was blown up by Grenadier"
-                   },
-                   {
-                       "time":  "23/09 16:02",
-                       "type":  "death",
-                       "text":  "DanixNuts was blown up by Grenadier"
                    }
                ]
 }
