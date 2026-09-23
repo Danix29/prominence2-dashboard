@@ -1,13 +1,13 @@
 {
-    "updated_at":  "2026-09-23T01:30:47.6612697Z",
+    "updated_at":  "2026-09-23T01:31:51.4264236Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  true,
-                        "sleeping":  false,
+                        "running":  false,
+                        "sleeping":  true,
                         "players":  [
-                                        "There are 0 of a max of 20 players online:"
+
                                     ]
                     },
                     {
