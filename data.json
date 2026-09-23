@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T20:58:10.2438262Z",
+    "updated_at":  "2026-09-23T20:59:26.2758348Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,7 @@
                         "sleeping":  false,
                         "players":  [
                                         "lasersub",
-                                        "Geltz",
-                                        "daaviid_2006"
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -35,15 +34,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  695.3
+                                          "value":  696.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  660.6
+                                          "value":  661.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  597
+                                          "value":  598.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -106,18 +105,18 @@
                                        "value":  131
                                    },
                                    {
-                                       "name":  "Wenza06",
-                                       "value":  76
+                                       "name":  "Geltz",
+                                       "value":  84
                                    },
                                    {
-                                       "name":  "Geltz",
-                                       "value":  74
+                                       "name":  "Wenza06",
+                                       "value":  76
                                    }
                                ],
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  2390
+                                          "value":  2688.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -163,7 +162,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  2714.5
+                                          "value":  2726.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -185,15 +184,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  39141.3
+                                          "value":  39270.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  38924.3
+                                          "value":  38990.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  29977.2
+                                          "value":  30112.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  249
+                                          "value":  250.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  241.4
+                                          "value":  242.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -219,7 +218,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  40.4
+                                          "value":  41.6
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -266,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 22:59",
+                       "type":  "join",
+                       "text":  "daaviid_2006 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "23/09 22:59",
+                       "type":  "leave",
+                       "text":  "daaviid_2006 ha salido de Prominence II"
+                   },
                    {
                        "time":  "23/09 22:48",
                        "type":  "logro",
@@ -453,16 +462,6 @@
                    },
                    {
                        "time":  "23/09 18:11",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Sewer\u0027s Tentacle"
-                   },
-                   {
-                       "time":  "23/09 18:10",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Sewer\u0027s Tentacle"
-                   },
-                   {
-                       "time":  "23/09 18:10",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Sewer\u0027s Tentacle"
                    }
