@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T00:42:39.8185811Z",
+    "updated_at":  "2026-09-23T00:43:56.0392368Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -41,7 +41,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  389.8
+                                          "value":  391.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -191,7 +191,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  20936.2
+                                          "value":  21007.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -221,7 +221,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  15.3
+                                          "value":  16.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -235,7 +235,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  42
+                                              "value":  43
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 02:43",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Electric Magic"
+                   },
                    {
                        "time":  "23/09 02:36",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "23/09 00:33",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Eterna, Quanta, Arcana"
-                   },
-                   {
-                       "time":  "23/09 00:33",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Introduction to Chaos"
                    }
                ]
 }
