@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T11:48:27.0844870Z",
+    "updated_at":  "2026-09-23T11:49:43.0997558Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  499.6
+                                          "value":  500.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  104
+                                          "value":  105.2
                                       }
                                   ],
                      "deaths":  [
@@ -170,7 +170,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  847.9
+                                          "value":  850.6
                                       }
                                   ],
                      "distance":  [
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24390.1
+                                          "value":  24424.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  6296.5
+                                          "value":  6373.4
                                       }
                                   ],
                      "survivor":  [
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  39.8
+                                          "value":  41
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1.6
+                                          "value":  2.9
                                       }
                                   ],
                      "achievements":  [
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  28
+                                              "value":  29
                                           },
                                           {
                                               "name":  "Geltz",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 13:48",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro The Chaos of Hell"
+                   },
                    {
                        "time":  "23/09 13:46",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "23/09 00:54",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro War Pigs"
-                   },
-                   {
-                       "time":  "23/09 00:51",
-                       "type":  "death",
-                       "text":  "Dan_niel03 was slain by Piglin Brute"
                    }
                ]
 }
