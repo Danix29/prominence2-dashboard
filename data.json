@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T15:01:00.6993759Z",
+    "updated_at":  "2026-09-23T15:02:17.2596637Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  717.6
+                                          "value":  718.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  690.2
+                                          "value":  691.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  532.7
+                                          "value":  534
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -57,15 +57,15 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  75
+                                        "value":  78
                                     },
                                     {
                                         "name":  "daaviid_2006",
-                                        "value":  45
+                                        "value":  47
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  41
+                                        "value":  46
                                     },
                                     {
                                         "name":  "Geltz",
@@ -87,7 +87,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  624
+                                       "value":  628
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -147,15 +147,15 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  21550.4
+                                          "value":  22338.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  13321.6
+                                          "value":  13631.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  12676.8
+                                          "value":  13569.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  37768.2
+                                          "value":  37896.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  36051.9
+                                          "value":  36163.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  31867.7
+                                          "value":  32049.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -222,15 +222,15 @@
                                           "value":  42.3
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0.9
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
-                                          "value":  0.2
+                                          "value":  0.4
                                       },
                                       {
                                           "name":  "Miguelhl",
+                                          "value":  0.3
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
                                           "value":  0.1
                                       }
                                   ],
@@ -266,6 +266,56 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 17:02",
+                       "type":  "death",
+                       "text":  "DanixNuts was blown up by Grenadier"
+                   },
+                   {
+                       "time":  "23/09 17:02",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 17:01",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 17:01",
+                       "type":  "death",
+                       "text":  "Miguelhl was blown up by Grenadier"
+                   },
+                   {
+                       "time":  "23/09 17:01",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 17:01",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 17:01",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 17:01",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 17:01",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 17:01",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Shieldbearer"
+                   },
                    {
                        "time":  "23/09 17:00",
                        "type":  "death",
@@ -415,56 +465,6 @@
                        "time":  "23/09 16:22",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro A crafter that runs on cells..."
-                   },
-                   {
-                       "time":  "23/09 16:22",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro A crafter that runs on cells..."
-                   },
-                   {
-                       "time":  "23/09 16:22",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Jack and the beanstalk"
-                   },
-                   {
-                       "time":  "23/09 16:21",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Jack and the beanstalk"
-                   },
-                   {
-                       "time":  "23/09 16:20",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Elite enemy!"
-                   },
-                   {
-                       "time":  "23/09 16:20",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Elite enemy!"
-                   },
-                   {
-                       "time":  "23/09 16:19",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Elite enemy!"
-                   },
-                   {
-                       "time":  "23/09 16:18",
-                       "type":  "death",
-                       "text":  "Miguelhl was blown up by Grenadier"
-                   },
-                   {
-                       "time":  "23/09 16:17",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Mutated Bat"
-                   },
-                   {
-                       "time":  "23/09 16:14",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Love the serenity..."
-                   },
-                   {
-                       "time":  "23/09 16:14",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Arcane Empowerment"
                    }
                ]
 }
