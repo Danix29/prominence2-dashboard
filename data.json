@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T11:38:16.7376875Z",
+    "updated_at":  "2026-09-23T11:39:33.8583911Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  93.9
+                                          "value":  95.2
                                       }
                                   ],
                      "deaths":  [
@@ -221,15 +221,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  30.9
+                                          "value":  31
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  6.8
+                                          "value":  8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3.6
+                                          "value":  0
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 13:39",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "23/09 13:34",
                        "type":  "join",
@@ -458,11 +463,6 @@
                        "time":  "23/09 00:35",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Eterna, Quanta, Arcana"
-                   },
-                   {
-                       "time":  "23/09 00:35",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Introduction to Chaos"
                    }
                ]
 }
