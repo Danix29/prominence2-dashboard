@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T16:05:06.1770469Z",
+    "updated_at":  "2026-09-23T16:06:22.2026308Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  781.1
+                                          "value":  782.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  753.6
+                                          "value":  754.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -51,7 +51,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  150.5
+                                          "value":  151.8
                                       }
                                   ],
                      "deaths":  [
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  41815.9
+                                          "value":  41872.4
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  41583.9
+                                          "value":  41613.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -201,7 +201,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  8860.8
+                                          "value":  8980.5
                                       }
                                   ],
                      "survivor":  [
@@ -219,11 +219,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  40.7
+                                          "value":  41.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  36
+                                          "value":  37.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -231,7 +231,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  2.3
+                                          "value":  3.6
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 18:06",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Embracing the Sculk"
+                   },
                    {
                        "time":  "23/09 18:02",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                    },
                    {
                        "time":  "23/09 16:57",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:48",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
