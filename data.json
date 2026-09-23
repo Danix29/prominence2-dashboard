@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T14:40:39.5391379Z",
+    "updated_at":  "2026-09-23T14:41:55.4458213Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "daaviid_2006",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -26,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  697.3
+                                          "value":  698.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  670.7
+                                          "value":  671.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  512.4
+                                          "value":  513.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,15 +181,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  35288.5
+                                          "value":  35305.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  33427.5
+                                          "value":  33517.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  30027.7
+                                          "value":  30054.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -222,15 +223,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  30.8
+                                          "value":  32.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  21.1
+                                          "value":  21.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9.6
+                                          "value":  10.8
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 16:41",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "23/09 16:39",
                        "type":  "leave",
@@ -459,11 +465,6 @@
                        "time":  "23/09 16:02",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:01",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
                    }
                ]
 }
