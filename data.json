@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T20:45:29.3199970Z",
+    "updated_at":  "2026-09-23T20:46:45.1928765Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  682.6
+                                          "value":  683.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  647.9
+                                          "value":  649.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  584.3
+                                          "value":  585.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -116,16 +116,16 @@
                                ],
                      "dmgdealt":  [
                                       {
+                                          "name":  "Wenza06",
+                                          "value":  98546.1
+                                      },
+                                      {
                                           "name":  "Geltz",
                                           "value":  2217.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  2098.7
-                                      },
-                                      {
-                                          "name":  "Wenza06",
-                                          "value":  1725.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -189,11 +189,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  38152.3
+                                          "value":  38230.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  29136.2
+                                          "value":  29188.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  236.3
+                                          "value":  237.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  228.8
+                                          "value":  230
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -223,7 +223,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  27.8
+                                          "value":  29
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 22:46",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Who\u0027s the Pillager Now?"
+                   },
                    {
                        "time":  "23/09 22:45",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 18:09",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Sewer\u0027s Tentacle"
-                   },
-                   {
-                       "time":  "23/09 18:09",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Sewer\u0027s Tentacle"
                    }
                ]
 }
