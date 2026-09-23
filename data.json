@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T16:45:47.8739083Z",
+    "updated_at":  "2026-09-23T16:47:04.1816156Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,11 +25,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  818.6
+                                          "value":  819.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  790
+                                          "value":  790.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -175,11 +175,11 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  43857.8
+                                          "value":  43858.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  43545.5
+                                          "value":  43586.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -217,19 +217,19 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  8.8
+                                          "value":  10.1
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  9.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  7
+                                          "value":  7.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
                                           "value":  3.7
-                                      },
-                                      {
-                                          "name":  "Wenza06",
-                                          "value":  0
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 18:46",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "23/09 18:45",
                        "type":  "join",
@@ -458,11 +463,6 @@
                        "time":  "23/09 17:02",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:02",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
                ]
 }
