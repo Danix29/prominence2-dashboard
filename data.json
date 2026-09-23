@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T16:22:53.4450083Z",
+    "updated_at":  "2026-09-23T16:24:09.6878451Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  796.1
+                                          "value":  797
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -216,16 +216,16 @@
                                           "value":  60.8
                                       },
                                       {
+                                          "name":  "DanixNuts",
+                                          "value":  9.8
+                                      },
+                                      {
                                           "name":  "Miguelhl",
                                           "value":  9.3
                                       },
                                       {
                                           "name":  "Wenza06",
                                           "value":  9.2
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  8.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 18:23",
+                       "type":  "join",
+                       "text":  "DanixNuts ha entrado en Prominence II"
+                   },
                    {
                        "time":  "23/09 18:21",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "23/09 17:01",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:01",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Leaping Zombie"
                    }
                ]
 }
