@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T13:32:44.2257317Z",
+    "updated_at":  "2026-09-23T13:34:00.6425622Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl",
                                         "DanixNuts",
-                                        "daaviid_2006"
+                                        "daaviid_2006",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  629.6
+                                          "value":  630.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  603.9
+                                          "value":  605.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  444.7
+                                          "value":  445.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -61,7 +61,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  29
+                                        "value":  30
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -151,11 +151,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  9841.5
+                                          "value":  9963.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  8850.4
+                                          "value":  8986.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -181,11 +181,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  29462.7
+                                          "value":  29648.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  27783.3
+                                          "value":  27811.7
                                       },
                                       {
                                           "name":  "Geltz",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  22479.1
+                                          "value":  22501.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -214,10 +214,6 @@
                                           "value":  159.3
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  144.1
-                                      },
-                                      {
                                           "name":  "Dan_niel03",
                                           "value":  60.8
                                       },
@@ -227,11 +223,15 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  12.9
+                                          "value":  14.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  6.9
+                                          "value":  8.2
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 15:33",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Enderman"
+                   },
                    {
                        "time":  "23/09 15:29",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 01:19",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Mastering the Inferno"
-                   },
-                   {
-                       "time":  "23/09 01:16",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
                    }
                ]
 }
