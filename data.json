@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T21:27:20.8406724Z",
+    "updated_at":  "2026-09-23T21:28:36.9172333Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  724.5
+                                          "value":  725.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  689.8
+                                          "value":  691
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  626
+                                          "value":  627.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -141,7 +141,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  0
+                                          "value":  894.7
                                       }
                                   ],
                      "dmgtaken":  [
@@ -189,11 +189,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  40110.4
+                                          "value":  40176.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  32100.1
+                                          "value":  32130.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  270.6
+                                          "value":  271.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  69.5
+                                          "value":  70.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -227,7 +227,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  13.1
+                                          "value":  14.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 23:28",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Baby\u0027s First Rocket"
+                   },
                    {
                        "time":  "23/09 23:21",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 18:17",
                        "type":  "leave",
                        "text":  "Wenza06 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 18:12",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Remain Grounded"
                    }
                ]
 }
