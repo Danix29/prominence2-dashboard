@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T11:49:43.0997558Z",
+    "updated_at":  "2026-09-23T11:50:59.0505088Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  500.9
+                                          "value":  502.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  105.2
+                                          "value":  106.5
                                       }
                                   ],
                      "deaths":  [
@@ -110,7 +110,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  31
+                                       "value":  32
                                    }
                                ],
                      "dmgdealt":  [
@@ -136,7 +136,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1001.9
+                                          "value":  1031.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -170,7 +170,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  850.6
+                                          "value":  920
                                       }
                                   ],
                      "distance":  [
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24424.4
+                                          "value":  24449.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  6373.4
+                                          "value":  6523.9
                                       }
                                   ],
                      "survivor":  [
@@ -222,15 +222,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  41
+                                          "value":  42.3
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  4.2
                                       },
                                       {
                                           "name":  "DanixNuts",
                                           "value":  3.6
-                                      },
-                                      {
-                                          "name":  "Wenza06",
-                                          "value":  2.9
                                       }
                                   ],
                      "achievements":  [
