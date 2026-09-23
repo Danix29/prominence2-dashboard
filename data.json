@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T11:39:33.8583911Z",
+    "updated_at":  "2026-09-23T11:40:49.9714706Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06"
+                                        "Wenza06",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -37,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  490.9
+                                          "value":  492.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -49,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  95.2
+                                          "value":  96.4
                                       }
                                   ],
                      "deaths":  [
@@ -187,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  23934.3
+                                          "value":  24001.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -199,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5824.8
+                                          "value":  5847.9
                                       }
                                   ],
                      "survivor":  [
@@ -221,15 +222,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  31
+                                          "value":  32.3
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  8
+                                          "value":  9.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0
+                                          "value":  3.6
                                       }
                                   ],
                      "achievements":  [
