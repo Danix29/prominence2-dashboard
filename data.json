@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T16:21:37.2072359Z",
+    "updated_at":  "2026-09-23T16:22:53.4450083Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl"
+
                                     ]
                     },
                     {
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  770.1
+                                          "value":  770.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  42700.4
+                                          "value":  42702.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  9.2
+                                          "value":  9.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 18:21",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "23/09 18:19",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "23/09 17:01",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:01",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
                    }
                ]
 }
