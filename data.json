@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T20:28:59.9661952Z",
+    "updated_at":  "2026-09-23T20:30:15.9778160Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  666.1
+                                          "value":  667.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  631.4
+                                          "value":  632.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  567.8
+                                          "value":  569.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -185,15 +185,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  38356.1
+                                          "value":  38402.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  37783.3
+                                          "value":  37849.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  28550.7
+                                          "value":  28628.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  219.8
+                                          "value":  221.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  212.3
+                                          "value":  213.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -227,7 +227,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  11.3
+                                          "value":  12.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -237,7 +237,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  53
+                                              "value":  54
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 22:29",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Your Soul Shall Be Mine"
+                   },
                    {
                        "time":  "23/09 22:27",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 18:06",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Embracing the Sculk"
-                   },
-                   {
-                       "time":  "23/09 18:06",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Sleeping in the Cold Below"
                    }
                ]
 }
