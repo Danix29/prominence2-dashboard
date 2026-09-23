@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T13:39:06.2589838Z",
+    "updated_at":  "2026-09-23T13:40:22.5938823Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
                                         "daaviid_2006",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "DanixNuts"
                                     ]
                     },
                     {
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  635.9
+                                          "value":  637.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  610.2
+                                          "value":  611.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  451
+                                          "value":  452.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -57,7 +57,7 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  43
+                                        "value":  44
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  13424.5
+                                          "value":  13611.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -181,11 +181,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  29842
+                                          "value":  29862.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  27994.5
+                                          "value":  28045.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  22625.8
+                                          "value":  22651.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,16 +222,16 @@
                                           "value":  42.3
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  19.2
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
-                                          "value":  13.2
+                                          "value":  14.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  3.5
+                                          "value":  4.8
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  1.1
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 15:39",
+                       "type":  "death",
+                       "text":  "DanixNuts was shot by Miguelhl"
+                   },
                    {
                        "time":  "23/09 15:35",
                        "type":  "death",
@@ -460,11 +465,6 @@
                        "time":  "23/09 01:19",
                        "type":  "logro",
                        "text":  "Dan_niel03 ha conseguido el logro Mastering the Inferno"
-                   },
-                   {
-                       "time":  "23/09 01:19",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Mastering the Inferno"
                    }
                ]
 }
