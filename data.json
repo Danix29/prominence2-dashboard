@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T14:22:50.5481485Z",
+    "updated_at":  "2026-09-23T14:24:06.9454238Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  679.5
+                                          "value":  680.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  653.8
+                                          "value":  655.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  494.6
+                                          "value":  495.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -87,7 +87,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  492
+                                       "value":  494
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -95,7 +95,7 @@
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  156
+                                       "value":  158
                                    },
                                    {
                                        "name":  "lasersub",
@@ -151,7 +151,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  11502.9
+                                          "value":  11522.9
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -181,15 +181,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  34435.5
+                                          "value":  34521.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  32124.6
+                                          "value":  32200.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  26702.9
+                                          "value":  26772.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -223,29 +223,29 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  13.1
+                                          "value":  14.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  5.6
+                                          "value":  6.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  4.4
+                                          "value":  5.7
                                       }
                                   ],
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  46
+                                              "value":  48
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  39
+                                              "value":  41
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  35
+                                              "value":  37
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 16:23",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro A room with a view!"
+                   },
+                   {
+                       "time":  "23/09 16:23",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro A room with a view!"
+                   },
+                   {
+                       "time":  "23/09 16:23",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro A room with a view!"
+                   },
                    {
                        "time":  "23/09 16:22",
                        "type":  "logro",
@@ -448,21 +463,6 @@
                    },
                    {
                        "time":  "23/09 16:01",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:00",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:00",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:00",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Leaping Zombie"
                    }
