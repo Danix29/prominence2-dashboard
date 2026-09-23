@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T16:52:09.4761369Z",
+    "updated_at":  "2026-09-23T16:53:25.7875062Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  825
+                                          "value":  826.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  794.1
+                                          "value":  795.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -86,7 +86,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  743
+                                       "value":  744
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -176,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  44016.5
+                                          "value":  44086.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  43973.5
+                                          "value":  44020.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,11 +218,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  15.2
+                                          "value":  16.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  11.2
+                                          "value":  12.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -235,12 +235,12 @@
                                   ],
                      "achievements":  [
                                           {
-                                              "name":  "daaviid_2006",
-                                              "value":  50
+                                              "name":  "DanixNuts",
+                                              "value":  51
                                           },
                                           {
-                                              "name":  "DanixNuts",
-                                              "value":  49
+                                              "name":  "daaviid_2006",
+                                              "value":  50
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 18:53",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Destructive Tendencies"
+                   },
+                   {
+                       "time":  "23/09 18:52",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Withering Heights"
+                   },
                    {
                        "time":  "23/09 18:48",
                        "type":  "join",
@@ -454,16 +464,6 @@
                        "time":  "23/09 17:11",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:03",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:02",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Leaping Zombie"
                    }
                ]
 }
