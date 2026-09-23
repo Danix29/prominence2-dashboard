@@ -1,13 +1,13 @@
 {
-    "updated_at":  "2026-09-23T11:33:12.0433326Z",
+    "updated_at":  "2026-09-23T11:34:28.4432693Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  89.8
+                                          "value":  90.1
                                       }
                                   ],
                      "deaths":  [
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  2.5
+                                          "value":  3
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 13:34",
+                       "type":  "join",
+                       "text":  "Wenza06 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "23/09 03:25",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "23/09 00:35",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Introduction to Chaos"
-                   },
-                   {
-                       "time":  "23/09 00:35",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro The Basics"
                    }
                ]
 }
