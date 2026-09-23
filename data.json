@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T00:27:14.5796212Z",
+    "updated_at":  "2026-09-23T00:28:40.2877252Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Dan_niel03",
-                                        "daaviid_2006There are 2 of a max of 20 players online: Dan_niel03",
                                         "daaviid_2006"
                                     ]
                     },
@@ -43,11 +41,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  374.5
+                                          "value":  375.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  304.9
+                                          "value":  306.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -65,7 +63,7 @@
                                     },
                                     {
                                         "name":  "daaviid_2006",
-                                        "value":  27
+                                        "value":  28
                                     },
                                     {
                                         "name":  "Geltz",
@@ -116,6 +114,10 @@
                                ],
                      "dmgdealt":  [
                                       {
+                                          "name":  "Geltz",
+                                          "value":  1924
+                                      },
+                                      {
                                           "name":  "daaviid_2006",
                                           "value":  1674.4
                                       },
@@ -138,16 +140,16 @@
                                       {
                                           "name":  "lasersub",
                                           "value":  587.1
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  0
                                       }
                                   ],
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
                                           "value":  13366.5
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  9690.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -168,10 +170,6 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  683.4
-                                      },
-                                      {
-                                          "name":  "daaviid_2006",
-                                          "value":  0
                                       }
                                   ],
                      "distance":  [
@@ -193,11 +191,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  20343.3
+                                          "value":  20582
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  19297.5
+                                          "value":  19318.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -215,7 +213,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  52.3
+                                          "value":  53.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -231,7 +229,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  0.2
+                                          "value":  1.4
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +264,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 02:28",
+                       "type":  "join",
+                       "text":  "Dan_niel03 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "23/09 02:28",
+                       "type":  "leave",
+                       "text":  "Dan_niel03 ha salido de Prominence II"
+                   },
                    {
                        "time":  "23/09 02:26",
                        "type":  "death",
@@ -455,16 +463,6 @@
                        "time":  "23/09 00:10",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro A Seedy Place"
-                   },
-                   {
-                       "time":  "23/09 00:07",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Local Brewery"
-                   },
-                   {
-                       "time":  "23/09 00:06",
-                       "type":  "join",
-                       "text":  "Dan_niel03 ha entrado en Prominence II"
                    }
                ]
 }
