@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T20:25:11.7045460Z",
+    "updated_at":  "2026-09-23T20:26:27.5888184Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,15 +35,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  662.3
+                                          "value":  663.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  627.6
+                                          "value":  628.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  564
+                                          "value":  565.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -95,7 +95,7 @@
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  221
+                                       "value":  222
                                    },
                                    {
                                        "name":  "lasersub",
@@ -185,15 +185,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  38275
+                                          "value":  38322.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  37562.6
+                                          "value":  37604
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  28499.7
+                                          "value":  28515.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  216
+                                          "value":  217.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  208.5
+                                          "value":  209.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -231,7 +231,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  7.5
+                                          "value":  8.7
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 22:26",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Zip Zap"
+                   },
                    {
                        "time":  "23/09 22:23",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 18:06",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Embracing the Sculk"
-                   },
-                   {
-                       "time":  "23/09 18:02",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro I was here, i lived, i.."
                    }
                ]
 }
