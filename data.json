@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T11:50:59.0505088Z",
+    "updated_at":  "2026-09-23T11:52:15.1373441Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  502.1
+                                          "value":  503.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  106.5
+                                          "value":  107.8
                                       }
                                   ],
                      "deaths":  [
@@ -110,7 +110,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  32
+                                       "value":  34
                                    }
                                ],
                      "dmgdealt":  [
@@ -136,7 +136,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1031.9
+                                          "value":  1091
                                       },
                                       {
                                           "name":  "lasersub",
@@ -170,7 +170,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  920
+                                          "value":  929.8
                                       }
                                   ],
                      "distance":  [
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  24449.3
+                                          "value":  24515.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  6523.9
+                                          "value":  6624.3
                                       }
                                   ],
                      "survivor":  [
@@ -222,11 +222,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  42.3
+                                          "value":  43.6
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  4.2
+                                          "value":  5.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -260,11 +260,21 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  10
+                                              "value":  12
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 13:51",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Gold Tier Upgrade"
+                   },
+                   {
+                       "time":  "23/09 13:51",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Into Fire"
+                   },
                    {
                        "time":  "23/09 13:48",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "23/09 01:07",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Sleeping in the Cold Below"
-                   },
-                   {
-                       "time":  "23/09 01:07",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Always Watching"
-                   },
-                   {
-                       "time":  "23/09 00:54",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro War Pigs"
                    }
                ]
 }
