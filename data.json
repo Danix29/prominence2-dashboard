@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T21:41:18.0940321Z",
+    "updated_at":  "2026-09-23T21:42:34.1945875Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+
                                     ]
                     },
                     {
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  703.7
+                                          "value":  704.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -191,7 +191,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  32724.2
+                                          "value":  32725.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -220,12 +220,12 @@
                                           "value":  38.1
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  27.3
+                                          "name":  "Geltz",
+                                          "value":  28
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  27
+                                          "name":  "DanixNuts",
+                                          "value":  27.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 23:42",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "23/09 23:39",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "23/09 18:23",
                        "type":  "join",
                        "text":  "DanixNuts ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "23/09 18:21",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
                    }
                ]
 }
