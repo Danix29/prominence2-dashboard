@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T15:58:43.6861612Z",
+    "updated_at":  "2026-09-23T16:00:00.0898345Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "Miguelhl",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -26,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  774.8
+                                          "value":  776
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  747.3
+                                          "value":  748.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -50,7 +51,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  144.8
+                                          "value":  145.4
                                       }
                                   ],
                      "deaths":  [
@@ -170,7 +171,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1054.3
+                                          "value":  1061.9
                                       }
                                   ],
                      "distance":  [
@@ -200,7 +201,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  8257
+                                          "value":  8296.9
                                       }
                                   ],
                      "survivor":  [
@@ -218,15 +219,15 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  42.3
+                                          "value":  43.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  34.4
+                                          "value":  35.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  29.7
+                                          "value":  30.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -265,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 17:59",
+                       "type":  "join",
+                       "text":  "Wenza06 ha entrado en Prominence II"
+                   },
                    {
                        "time":  "23/09 17:28",
                        "type":  "leave",
@@ -459,11 +465,6 @@
                        "time":  "23/09 16:41",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "23/09 16:39",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
                    }
                ]
 }
