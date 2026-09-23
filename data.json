@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T14:35:34.3073997Z",
+    "updated_at":  "2026-09-23T14:36:50.7364813Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,6 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "daaviid_2006",
+                                        "Miguelhl",
+                                        "DanixNutsThere are 3 of a max of 20 players online: daaviid_2006",
                                         "Miguelhl",
                                         "DanixNuts"
                                     ]
@@ -27,11 +29,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  692.2
+                                          "value":  693.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  666.5
+                                          "value":  667.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +45,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  507.3
+                                          "value":  508.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -87,7 +89,7 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  522
+                                       "value":  523
                                    },
                                    {
                                        "name":  "Miguelhl",
@@ -147,11 +149,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  20453.9
+                                          "value":  20459.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  11620.9
+                                          "value":  11641.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -181,15 +183,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  35115.7
+                                          "value":  35239
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  33186.9
+                                          "value":  33241.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  27203.4
+                                          "value":  27304.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -223,29 +225,29 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  25.8
+                                          "value":  27
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  17.1
+                                          "value":  18.3
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  4.5
+                                          "value":  5.7
                                       }
                                   ],
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  49
+                                              "value":  50
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  42
+                                              "value":  43
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  38
+                                              "value":  39
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +268,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 16:36",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Steam rolled"
+                   },
+                   {
+                       "time":  "23/09 16:36",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Steam rolled"
+                   },
+                   {
+                       "time":  "23/09 16:36",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Steam rolled"
+                   },
                    {
                        "time":  "23/09 16:31",
                        "type":  "death",
@@ -450,21 +467,6 @@
                        "time":  "23/09 16:01",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:01",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 16:01",
-                       "type":  "death",
-                       "text":  "Miguelhl was blown up by Grenadier"
-                   },
-                   {
-                       "time":  "23/09 16:01",
-                       "type":  "death",
-                       "text":  "Miguelhl was shot by Undead Archer"
                    }
                ]
 }
