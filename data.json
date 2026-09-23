@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T16:12:44.2229976Z",
+    "updated_at":  "2026-09-23T16:14:00.3919567Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  788.7
+                                          "value":  790
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  761.3
+                                          "value":  762.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -51,7 +51,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  158.1
+                                          "value":  159.4
                                       }
                                   ],
                      "deaths":  [
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  42321.1
+                                          "value":  42355.9
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  42191.4
+                                          "value":  42230.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -201,7 +201,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  9421.8
+                                          "value":  9467.6
                                       }
                                   ],
                      "survivor":  [
@@ -219,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  4.3
+                                          "value":  5.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -227,11 +227,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  1.6
+                                          "value":  2.8
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  0.4
+                                          "value":  1.6
                                       }
                                   ],
                      "achievements":  [
@@ -241,11 +241,11 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  46
+                                              "value":  48
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  41
+                                              "value":  43
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 18:12",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Remain Grounded"
+                   },
                    {
                        "time":  "23/09 18:12",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 17:01",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:01",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Shieldbearer"
                    }
                ]
 }
