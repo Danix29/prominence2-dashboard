@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T00:25:48.9806059Z",
+    "updated_at":  "2026-09-23T00:27:14.5796212Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,6 +8,7 @@
                         "sleeping":  false,
                         "players":  [
                                         "Dan_niel03",
+                                        "daaviid_2006There are 2 of a max of 20 players online: Dan_niel03",
                                         "daaviid_2006"
                                     ]
                     },
@@ -42,11 +43,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  373.4
+                                          "value":  374.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  303.8
+                                          "value":  304.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -115,12 +116,8 @@
                                ],
                      "dmgdealt":  [
                                       {
-                                          "name":  "Geltz",
-                                          "value":  1924
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
-                                          "value":  1661.3
+                                          "value":  1674.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -141,16 +138,16 @@
                                       {
                                           "name":  "lasersub",
                                           "value":  587.1
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  0
                                       }
                                   ],
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
                                           "value":  13366.5
-                                      },
-                                      {
-                                          "name":  "daaviid_2006",
-                                          "value":  9477.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -171,6 +168,10 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  683.4
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  0
                                       }
                                   ],
                      "distance":  [
@@ -192,11 +193,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  20136.4
+                                          "value":  20343.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  19281.5
+                                          "value":  19297.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -214,7 +215,7 @@
                                       },
                                       {
                                           "name":  "Dan_niel03",
-                                          "value":  51.1
+                                          "value":  52.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -230,7 +231,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  2.2
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -256,7 +257,7 @@
                                           },
                                           {
                                               "name":  "Dan_niel03",
-                                              "value":  13
+                                              "value":  14
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 02:26",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was blown up by Creeper"
+                   },
+                   {
+                       "time":  "23/09 02:26",
+                       "type":  "logro",
+                       "text":  "Dan_niel03 ha conseguido el logro Invitation to the Tea Party"
+                   },
                    {
                        "time":  "23/09 02:24",
                        "type":  "leave",
@@ -454,16 +465,6 @@
                        "time":  "23/09 00:06",
                        "type":  "join",
                        "text":  "Dan_niel03 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "23/09 00:06",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro A Seedy Place"
-                   },
-                   {
-                       "time":  "23/09 00:02",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Bonfire Lit"
                    }
                ]
 }
