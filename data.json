@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T14:02:17.8544997Z",
+    "updated_at":  "2026-09-23T14:03:34.4774213Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,9 +7,9 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "daaviid_2006",
+                                        "Miguelhl",
                                         "DanixNuts",
-                                        "Miguelhl"
+                                        "daaviid_2006"
                                     ]
                     },
                     {
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  659.1
+                                          "value":  660.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  633.4
+                                          "value":  634.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  474.2
+                                          "value":  475.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -57,7 +57,7 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  64
+                                        "value":  67
                                     },
                                     {
                                         "name":  "Miguelhl",
@@ -65,7 +65,7 @@
                                     },
                                     {
                                         "name":  "daaviid_2006",
-                                        "value":  30
+                                        "value":  32
                                     },
                                     {
                                         "name":  "Geltz",
@@ -91,19 +91,19 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  351
+                                       "value":  355
                                    },
                                    {
                                        "name":  "lasersub",
                                        "value":  138
                                    },
                                    {
-                                       "name":  "Dan_niel03",
-                                       "value":  131
+                                       "name":  "daaviid_2006",
+                                       "value":  136
                                    },
                                    {
-                                       "name":  "daaviid_2006",
-                                       "value":  127
+                                       "name":  "Dan_niel03",
+                                       "value":  131
                                    },
                                    {
                                        "name":  "Wenza06",
@@ -133,7 +133,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  1323.1
+                                          "value":  1324
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -147,15 +147,15 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  17645.6
-                                      },
-                                      {
-                                          "name":  "Miguelhl",
-                                          "value":  10527.3
+                                          "value":  18233
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  10517.4
+                                          "value":  10802
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  10531.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -181,11 +181,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  31863.1
+                                          "value":  32054.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  29722.4
+                                          "value":  29842.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  24677.7
+                                          "value":  24770.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,16 +222,16 @@
                                           "value":  42.3
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  21.4
-                                      },
-                                      {
                                           "name":  "Miguelhl",
-                                          "value":  0.3
+                                          "value":  1.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.2
+                                          "value":  0.6
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  0.3
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,31 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 16:03",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Zombie"
+                   },
+                   {
+                       "time":  "23/09 16:02",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 16:02",
+                       "type":  "death",
+                       "text":  "DanixNuts was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "23/09 16:02",
+                       "type":  "death",
+                       "text":  "DanixNuts was blown up by Grenadier"
+                   },
+                   {
+                       "time":  "23/09 16:02",
+                       "type":  "death",
+                       "text":  "DanixNuts was blown up by Grenadier"
+                   },
                    {
                        "time":  "23/09 16:02",
                        "type":  "death",
@@ -440,31 +465,6 @@
                        "time":  "23/09 15:20",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "23/09 14:48",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro I was here, i lived, i.."
-                   },
-                   {
-                       "time":  "23/09 14:29",
-                       "type":  "leave",
-                       "text":  "Wenza06 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 13:51",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Gold Tier Upgrade"
-                   },
-                   {
-                       "time":  "23/09 13:51",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Into Fire"
-                   },
-                   {
-                       "time":  "23/09 13:48",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro The Chaos of Hell"
                    }
                ]
 }
