@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T16:11:27.8302121Z",
+    "updated_at":  "2026-09-23T16:12:44.2229976Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "Wenza06",
-                                        "Miguelhl",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  787.4
+                                          "value":  788.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  760
+                                          "value":  761.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -51,7 +51,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  156.9
+                                          "value":  158.1
                                       }
                                   ],
                      "deaths":  [
@@ -61,7 +61,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  52
+                                        "value":  53
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -87,11 +87,11 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  728
+                                       "value":  738
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  531
+                                       "value":  534
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -147,11 +147,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  25052.9
+                                          "value":  25059.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  15835.4
+                                          "value":  16155.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  42198.2
+                                          "value":  42321.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  42008.6
+                                          "value":  42191.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -201,7 +201,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  9272.1
+                                          "value":  9421.8
                                       }
                                   ],
                      "survivor":  [
@@ -218,20 +218,20 @@
                                           "value":  60.8
                                       },
                                       {
+                                          "name":  "Wenza06",
+                                          "value":  4.3
+                                      },
+                                      {
                                           "name":  "daaviid_2006",
                                           "value":  3.7
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  3
+                                          "name":  "DanixNuts",
+                                          "value":  1.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1.5
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  0.3
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -266,6 +266,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 18:12",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Remain Grounded"
+                   },
+                   {
+                       "time":  "23/09 18:12",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Something in your eye?"
+                   },
+                   {
+                       "time":  "23/09 18:12",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Something in your eye?"
+                   },
+                   {
+                       "time":  "23/09 18:12",
+                       "type":  "death",
+                       "text":  "Miguelhl was slain by Conjunctivius"
+                   },
                    {
                        "time":  "23/09 18:11",
                        "type":  "death",
@@ -445,26 +465,6 @@
                        "time":  "23/09 17:01",
                        "type":  "death",
                        "text":  "DanixNuts was slain by Shieldbearer"
-                   },
-                   {
-                       "time":  "23/09 17:00",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:00",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:00",
-                       "type":  "death",
-                       "text":  "Miguelhl was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:00",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
                ]
 }
