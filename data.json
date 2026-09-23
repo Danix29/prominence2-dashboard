@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T13:28:54.7998799Z",
+    "updated_at":  "2026-09-23T13:30:10.9752993Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  625.8
+                                          "value":  627
                                       },
                                       {
                                           "name":  "lasersub",
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  600.1
+                                          "value":  601.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  440.8
+                                          "value":  442.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -181,11 +181,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  29144.7
+                                          "value":  29215.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  27679.4
+                                          "value":  27699.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  22398
+                                          "value":  22419.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  140.2
+                                          "value":  141.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -227,11 +227,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  9
+                                          "value":  10.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  3.1
+                                          "value":  4.3
                                       }
                                   ],
                      "achievements":  [
@@ -244,11 +244,11 @@
                                               "value":  36
                                           },
                                           {
-                                              "name":  "lasersub",
-                                              "value":  30
+                                              "name":  "Miguelhl",
+                                              "value":  32
                                           },
                                           {
-                                              "name":  "Miguelhl",
+                                              "name":  "lasersub",
                                               "value":  30
                                           },
                                           {
@@ -266,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 15:29",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Create: Testosterone"
+                   },
+                   {
+                       "time":  "23/09 15:29",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Nanomachines, son!"
+                   },
                    {
                        "time":  "23/09 15:25",
                        "type":  "death",
@@ -455,16 +465,6 @@
                        "time":  "23/09 01:16",
                        "type":  "join",
                        "text":  "lasersub ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "23/09 01:15",
-                       "type":  "leave",
-                       "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 01:08",
-                       "type":  "logro",
-                       "text":  "Dan_niel03 ha conseguido el logro The Purity of the Seas"
                    }
                ]
 }
