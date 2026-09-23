@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T14:20:18.2873184Z",
+    "updated_at":  "2026-09-23T14:21:34.5348484Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  677
+                                          "value":  678.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  651.3
+                                          "value":  652.6
                                       },
                                       {
                                           "name":  "lasersub",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  492.1
+                                          "value":  493.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -87,15 +87,15 @@
                      "kills":  [
                                    {
                                        "name":  "DanixNuts",
-                                       "value":  487
+                                       "value":  490
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  414
+                                       "value":  418
                                    },
                                    {
                                        "name":  "daaviid_2006",
-                                       "value":  153
+                                       "value":  154
                                    },
                                    {
                                        "name":  "lasersub",
@@ -147,7 +147,7 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  19285.2
+                                          "value":  19328.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -181,15 +181,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  34246
+                                          "value":  34297.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  31895.4
+                                          "value":  32002.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  26465.3
+                                          "value":  26590.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -223,15 +223,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  10.6
+                                          "value":  11.8
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  3.1
+                                          "value":  4.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1.9
+                                          "value":  3.2
                                       }
                                   ],
                      "achievements":  [
@@ -241,11 +241,11 @@
                                           },
                                           {
                                               "name":  "DanixNuts",
-                                              "value":  37
+                                              "value":  38
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  33
+                                              "value":  35
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 16:21",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Jack and the beanstalk"
+                   },
+                   {
+                       "time":  "23/09 16:20",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Elite enemy!"
+                   },
                    {
                        "time":  "23/09 16:20",
                        "type":  "logro",
@@ -455,16 +465,6 @@
                        "time":  "23/09 15:59",
                        "type":  "death",
                        "text":  "DanixNuts was blown up by Grenadier"
-                   },
-                   {
-                       "time":  "23/09 15:52",
-                       "type":  "death",
-                       "text":  "DanixNuts was killed by magic whilst trying to escape Miguelhl"
-                   },
-                   {
-                       "time":  "23/09 15:50",
-                       "type":  "death",
-                       "text":  "Miguelhl was shot by DanixNuts"
                    }
                ]
 }
