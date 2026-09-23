@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T16:36:53.6187902Z",
+    "updated_at":  "2026-09-23T16:38:10.3379771Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  809.7
+                                          "value":  811
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  782.2
+                                          "value":  783.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -56,11 +56,11 @@
                      "deaths":  [
                                     {
                                         "name":  "DanixNuts",
-                                        "value":  88
+                                        "value":  89
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  53
+                                        "value":  55
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -146,11 +146,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  25388.4
+                                          "value":  25602.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  16327.3
+                                          "value":  16499.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  43564.2
+                                          "value":  43681.2
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  43308.6
+                                          "value":  43382.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  0.4
+                                          "value":  1.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  0.1
+                                          "value":  0.6
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "23/09 18:38",
+                       "type":  "logro",
+                       "text":  "DanixNuts ha conseguido el logro Blackstone Golem"
+                   },
                    {
                        "time":  "23/09 18:36",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "23/09 17:02",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Leaping Zombie"
-                   },
-                   {
-                       "time":  "23/09 17:01",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Leaping Zombie"
                    }
                ]
 }
