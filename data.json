@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-23T14:36:50.7364813Z",
+    "updated_at":  "2026-09-23T14:38:06.9505627Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,6 @@
                         "sleeping":  false,
                         "players":  [
                                         "daaviid_2006",
-                                        "Miguelhl",
-                                        "DanixNutsThere are 3 of a max of 20 players online: daaviid_2006",
                                         "Miguelhl",
                                         "DanixNuts"
                                     ]
@@ -29,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  693.5
+                                          "value":  694.7
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  667.8
+                                          "value":  669
                                       },
                                       {
                                           "name":  "lasersub",
@@ -45,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  508.6
+                                          "value":  509.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -183,15 +181,15 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  35239
+                                          "value":  35283.9
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  33241.9
+                                          "value":  33307.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  27304.9
+                                          "value":  27333.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -225,15 +223,15 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  27
+                                          "value":  28.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  18.3
+                                          "value":  19.6
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  5.7
+                                          "value":  7
                                       }
                                   ],
                      "achievements":  [
