@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T11:05:15.3693194Z",
+    "updated_at":  "2026-09-24T11:06:31.4031913Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  179.7
+                                          "value":  180.9
                                       }
                                   ],
                      "deaths":  [
@@ -109,17 +109,17 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  116
+                                       "value":  122
                                    }
                                ],
                      "dmgdealt":  [
                                       {
-                                          "name":  "Geltz",
-                                          "value":  3770.4
+                                          "name":  "Wenza06",
+                                          "value":  3859
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  3552.2
+                                          "name":  "Geltz",
+                                          "value":  3770.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  10158
+                                          "value":  10195.2
                                       }
                                   ],
                      "survivor":  [
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  25.8
+                                          "value":  27.1
                                       }
                                   ],
                      "achievements":  [
