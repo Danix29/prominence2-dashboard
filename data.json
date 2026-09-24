@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T13:18:45.8293740Z",
+    "updated_at":  "2026-09-24T13:20:01.8791178Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  824.8
+                                          "value":  826.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  818.2
+                                          "value":  819.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  639.5
+                                          "value":  640.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  45158.1
+                                          "value":  45236.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  45096.1
+                                          "value":  45119.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  40791.8
+                                          "value":  40856
                                       },
                                       {
                                           "name":  "Geltz",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  364.4
+                                          "value":  365.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  82.9
+                                          "value":  84.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -223,7 +223,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  41.8
+                                          "value":  43.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  43
+                                              "value":  44
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 15:19",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro DJ"
+                   },
                    {
                        "time":  "24/09 15:16",
                        "type":  "join",
@@ -460,11 +465,6 @@
                        "time":  "23/09 23:21",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro DJ"
-                   },
-                   {
-                       "time":  "23/09 23:14",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Mutant Zombie"
                    }
                ]
 }
