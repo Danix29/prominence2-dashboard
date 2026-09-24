@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T20:44:38.2217400Z",
+    "updated_at":  "2026-09-24T20:45:54.3830036Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  969.6
+                                          "value":  970.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  968.1
+                                          "value":  969.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -76,7 +76,7 @@
                                     },
                                     {
                                         "name":  "lasersub",
-                                        "value":  14
+                                        "value":  15
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -128,7 +128,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1729
+                                          "value":  1754.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -166,7 +166,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  4560.6
+                                          "value":  4690.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  54052.9
+                                          "value":  54097.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  47174.7
+                                          "value":  47305.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -210,7 +210,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  63.5
+                                          "value":  64.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -221,16 +221,16 @@
                                           "value":  27.3
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  15.5
-                                      },
-                                      {
                                           "name":  "Wenza06",
                                           "value":  5.4
                                       },
                                       {
                                           "name":  "Miguelhl",
                                           "value":  2
+                                      },
+                                      {
+                                          "name":  "lasersub",
+                                          "value":  1.2
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 22:44",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Wither Skeleton"
+                   },
                    {
                        "time":  "24/09 22:44",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "24/09 17:51",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 17:48",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Blast Protection Not Included"
                    }
                ]
 }
