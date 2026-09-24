@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T16:58:05.7041378Z",
+    "updated_at":  "2026-09-24T16:59:22.0528640Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1023.9
+                                          "value":  1025.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  891.2
+                                          "value":  892.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -72,7 +72,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  16
+                                        "value":  17
                                     },
                                     {
                                         "name":  "lasersub",
@@ -158,7 +158,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  5552.9
+                                          "value":  5615.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  58952.9
+                                          "value":  58977.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  43906.7
+                                          "value":  43966.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -225,12 +225,12 @@
                                           "value":  5.4
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  4.3
+                                          "name":  "Miguelhl",
+                                          "value":  3.3
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  2
+                                          "name":  "Geltz",
+                                          "value":  0.3
                                       }
                                   ],
                      "achievements":  [
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  35
+                                              "value":  36
                                           },
                                           {
                                               "name":  "lasersub",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 18:59",
+                       "type":  "death",
+                       "text":  "Geltz tried to swim in lava"
+                   },
+                   {
+                       "time":  "24/09 18:58",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Those Were the Days"
+                   },
                    {
                        "time":  "24/09 18:56",
                        "type":  "death",
@@ -452,16 +462,6 @@
                    },
                    {
                        "time":  "24/09 17:03",
-                       "type":  "death",
-                       "text":  "Miguelhl froze to death"
-                   },
-                   {
-                       "time":  "24/09 17:02",
-                       "type":  "death",
-                       "text":  "Miguelhl froze to death"
-                   },
-                   {
-                       "time":  "24/09 17:02",
                        "type":  "death",
                        "text":  "Miguelhl froze to death"
                    }
