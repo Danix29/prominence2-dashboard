@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T11:06:31.4031913Z",
+    "updated_at":  "2026-09-24T11:07:47.5064194Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  180.9
+                                          "value":  182.2
                                       }
                                   ],
                      "deaths":  [
@@ -169,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1393.5
+                                          "value":  1393.8
                                       }
                                   ],
                      "distance":  [
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  10195.2
+                                          "value":  10299.9
                                       }
                                   ],
                      "survivor":  [
@@ -220,16 +220,16 @@
                                           "value":  38.1
                                       },
                                       {
+                                          "name":  "Wenza06",
+                                          "value":  28.4
+                                      },
+                                      {
                                           "name":  "Geltz",
                                           "value":  28
                                       },
                                       {
                                           "name":  "DanixNuts",
                                           "value":  27.3
-                                      },
-                                      {
-                                          "name":  "Wenza06",
-                                          "value":  27.1
                                       }
                                   ],
                      "achievements":  [
