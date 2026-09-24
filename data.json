@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T12:08:44.3393314Z",
+    "updated_at":  "2026-09-24T12:10:00.5924217Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -35,11 +35,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  772.6
+                                          "value":  773.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  712.6
+                                          "value":  713.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -51,7 +51,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  243.1
+                                          "value":  244.4
                                       }
                                   ],
                      "deaths":  [
@@ -99,7 +99,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  181
+                                       "value":  184
                                    },
                                    {
                                        "name":  "lasersub",
@@ -117,7 +117,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5026.8
+                                          "value":  5055.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -163,7 +163,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  3384.4
+                                          "value":  3405.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -185,7 +185,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  42642.5
+                                          "value":  42702.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  33201.4
+                                          "value":  33251.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -201,13 +201,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  14331.9
+                                          "value":  14487
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  318.8
+                                          "value":  320.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -223,7 +223,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  35.9
+                                          "value":  37.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -231,7 +231,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  19.4
+                                          "value":  20.7
                                       }
                                   ],
                      "achievements":  [
@@ -249,7 +249,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  31
+                                              "value":  32
                                           },
                                           {
                                               "name":  "Geltz",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 14:09",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Hidden in the Depths"
+                   },
                    {
                        "time":  "24/09 14:00",
                        "type":  "join",
@@ -460,11 +465,6 @@
                        "time":  "23/09 19:01",
                        "type":  "leave",
                        "text":  "DanixNuts ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 18:53",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Destructive Tendencies"
                    }
                ]
 }
