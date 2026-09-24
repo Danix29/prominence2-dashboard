@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T10:48:45.4177476Z",
+    "updated_at":  "2026-09-24T10:50:01.6837457Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06"
+
                                     ]
                     },
                     {
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  163.5
+                                          "value":  164.5
                                       }
                                   ],
                      "deaths":  [
@@ -109,7 +109,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  76
+                                       "value":  80
                                    }
                                ],
                      "dmgdealt":  [
@@ -123,7 +123,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1725.7
+                                          "value":  1884.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  9671.7
+                                          "value":  9705
                                       }
                                   ],
                      "survivor":  [
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  9.7
+                                          "value":  10.6
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 12:49",
+                       "type":  "join",
+                       "text":  "Wenza06 ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "24/09 12:49",
+                       "type":  "leave",
+                       "text":  "Wenza06 ha salido de Prominence II"
+                   },
                    {
                        "time":  "24/09 12:48",
                        "type":  "join",
@@ -453,16 +463,6 @@
                        "time":  "23/09 18:38",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Blackstone Golem"
-                   },
-                   {
-                       "time":  "23/09 18:36",
-                       "type":  "death",
-                       "text":  "DanixNuts was slain by Blackstone Golem"
-                   },
-                   {
-                       "time":  "23/09 18:24",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
                    }
                ]
 }
