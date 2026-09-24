@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T20:29:21.1456041Z",
+    "updated_at":  "2026-09-24T20:30:37.2311112Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  954.4
+                                          "value":  955.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  952.8
+                                          "value":  954.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -106,7 +106,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  202
+                                       "value":  204
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -120,7 +120,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  5729.4
+                                          "value":  5771.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  53501
+                                          "value":  53643
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  46101.2
+                                          "value":  46264.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  48.2
+                                          "value":  49.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  0.2
+                                          "value":  1.5
                                       }
                                   ],
                      "achievements":  [
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  37
+                                              "value":  38
                                           },
                                           {
                                               "name":  "lasersub",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 22:30",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Spooky Scary Skeleton"
+                   },
                    {
                        "time":  "24/09 22:29",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "24/09 17:42",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro An Ancient Tomb"
-                   },
-                   {
-                       "time":  "24/09 17:41",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Harder Than Gold"
                    }
                ]
 }
