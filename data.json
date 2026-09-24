@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T20:52:15.2437307Z",
+    "updated_at":  "2026-09-24T20:53:31.6036928Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  977.3
+                                          "value":  978.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  975.7
+                                          "value":  977
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -102,7 +102,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  248
+                                       "value":  250
                                    },
                                    {
                                        "name":  "Wenza06",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7058.2
+                                          "value":  7094.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -162,7 +162,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  5346.9
+                                          "value":  5417.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  54792.8
+                                          "value":  54845.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  47959.3
+                                          "value":  48007.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -210,7 +210,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  71.1
+                                          "value":  72.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  0.3
+                                          "value":  1.6
                                       }
                                   ],
                      "achievements":  [
@@ -252,7 +252,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  36
+                                              "value":  37
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 22:53",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Red Nether"
+                   },
                    {
                        "time":  "24/09 22:51",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "24/09 17:56",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Arcane Power"
-                   },
-                   {
-                       "time":  "24/09 17:54",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Embracing the Sculk"
                    }
                ]
 }
