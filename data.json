@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T14:28:11.8754643Z",
+    "updated_at":  "2026-09-24T14:29:28.5583069Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -28,11 +28,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  894.1
+                                          "value":  895.4
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  884.2
+                                          "value":  885.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -40,11 +40,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  804.9
+                                          "value":  806.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  708.8
+                                          "value":  710
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -62,11 +62,11 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  59
+                                        "value":  61
                                     },
                                     {
                                         "name":  "daaviid_2006",
-                                        "value":  53
+                                        "value":  55
                                     },
                                     {
                                         "name":  "Wenza06",
@@ -152,11 +152,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  18239.2
+                                          "value":  18460
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  16367.8
+                                          "value":  16690.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -178,23 +178,23 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  49509
+                                          "value":  49613.8
                                       },
                                       {
                                           "name":  "lasersub",
                                           "value":  49090.6
                                       },
                                       {
+                                          "name":  "daaviid_2006",
+                                          "value":  44499.7
+                                      },
+                                      {
                                           "name":  "DanixNuts",
                                           "value":  44462.4
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  44440.4
-                                      },
-                                      {
                                           "name":  "Geltz",
-                                          "value":  39494.1
+                                          "value":  39506.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -208,23 +208,19 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  128.2
+                                          "value":  129.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
                                           "value":  60.8
                                       },
                                       {
+                                          "name":  "lasersub",
+                                          "value":  27.4
+                                      },
+                                      {
                                           "name":  "DanixNuts",
                                           "value":  27.3
-                                      },
-                                      {
-                                          "name":  "lasersub",
-                                          "value":  26.1
-                                      },
-                                      {
-                                          "name":  "daaviid_2006",
-                                          "value":  24.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -232,7 +228,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  0.1
+                                          "value":  1
+                                      },
+                                      {
+                                          "name":  "daaviid_2006",
+                                          "value":  0.9
                                       }
                                   ],
                      "achievements":  [
@@ -267,6 +267,21 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 16:28",
+                       "type":  "death",
+                       "text":  "daaviid_2006 froze to death"
+                   },
+                   {
+                       "time":  "24/09 16:28",
+                       "type":  "death",
+                       "text":  "Miguelhl froze to death"
+                   },
+                   {
+                       "time":  "24/09 16:28",
+                       "type":  "death",
+                       "text":  "daaviid_2006 was slain by Star Crawler"
+                   },
                    {
                        "time":  "24/09 16:28",
                        "type":  "death",
@@ -451,21 +466,6 @@
                        "time":  "24/09 14:26",
                        "type":  "logro",
                        "text":  "Wenza06 ha conseguido el logro Behind bars"
-                   },
-                   {
-                       "time":  "24/09 14:24",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "24/09 14:24",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 14:21",
-                       "type":  "logro",
-                       "text":  "Wenza06 ha conseguido el logro Mine Cells"
                    }
                ]
 }
