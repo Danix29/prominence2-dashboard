@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T12:44:26.8450853Z",
+    "updated_at":  "2026-09-24T12:45:43.1744866Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  748.2
+                                          "value":  749.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  278.8
+                                          "value":  280.1
                                       }
                                   ],
                      "deaths":  [
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  14
+                                        "value":  16
                                     },
                                     {
                                         "name":  "Geltz",
@@ -166,7 +166,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  3048.9
+                                          "value":  3373
                                       },
                                       {
                                           "name":  "lasersub",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  35510.8
+                                          "value":  35596.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  17134.5
+                                          "value":  17224.2
                                       }
                                   ],
                      "survivor":  [
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  71.5
+                                          "value":  72.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1
+                                          "value":  0.7
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 14:45",
+                       "type":  "death",
+                       "text":  "Wenza06 was slain by Leaping Zombie"
+                   },
+                   {
+                       "time":  "24/09 14:44",
+                       "type":  "death",
+                       "text":  "Wenza06 was slain by Leaping Zombie"
+                   },
                    {
                        "time":  "24/09 14:43",
                        "type":  "death",
@@ -454,16 +464,6 @@
                        "time":  "23/09 22:29",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Your Soul Shall Be Mine"
-                   },
-                   {
-                       "time":  "23/09 22:27",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro One with Nature"
-                   },
-                   {
-                       "time":  "23/09 22:26",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Zip Zap"
                    }
                ]
 }
