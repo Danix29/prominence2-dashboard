@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T16:05:54.3874903Z",
+    "updated_at":  "2026-09-24T16:07:10.7517060Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  971.7
+                                          "value":  973
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  803.5
+                                          "value":  804.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -135,12 +135,12 @@
                                           "value":  1566.4
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  1324.9
-                                      },
-                                      {
                                           "name":  "Miguelhl",
                                           "value":  1314
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0
                                       }
                                   ],
                      "dmgtaken":  [
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  55067.3
+                                          "value":  55160.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  49013.6
+                                          "value":  49079.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  63.9
+                                          "value":  65.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  59.3
+                                          "value":  60.6
                                       },
                                       {
                                           "name":  "DanixNuts",
