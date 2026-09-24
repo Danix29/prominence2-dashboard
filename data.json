@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T15:41:38.8872643Z",
+    "updated_at":  "2026-09-24T15:42:56.3063051Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  947.9
+                                          "value":  949.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  848.5
+                                          "value":  849.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  779.6
+                                          "value":  780.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -146,6 +146,10 @@
                                   ],
                      "dmgtaken":  [
                                       {
+                                          "name":  "Dan_niel03",
+                                          "value":  109496
+                                      },
+                                      {
                                           "name":  "DanixNuts",
                                           "value":  25714.1
                                       },
@@ -158,12 +162,8 @@
                                           "value":  19367.1
                                       },
                                       {
-                                          "name":  "Dan_niel03",
-                                          "value":  5211.1
-                                      },
-                                      {
                                           "name":  "Geltz",
-                                          "value":  4247.5
+                                          "value":  4261
                                       },
                                       {
                                           "name":  "lasersub",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  53273.9
+                                          "value":  53282.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -185,7 +185,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  48505
+                                          "value":  48511.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  41779.8
+                                          "value":  41839.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  171.8
+                                          "value":  173.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -215,11 +215,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  40
+                                          "value":  41.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  35.5
+                                          "value":  36.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  50
+                                              "value":  51
                                           },
                                           {
                                               "name":  "Geltz",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 17:42",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro An Ancient Tomb"
+                   },
                    {
                        "time":  "24/09 17:41",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "24/09 16:28",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Star Crawler"
-                   },
-                   {
-                       "time":  "24/09 16:14",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Not FDA Approved"
                    }
                ]
 }
