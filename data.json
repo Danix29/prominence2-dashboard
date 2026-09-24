@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T17:17:12.2196216Z",
+    "updated_at":  "2026-09-24T17:18:28.6167343Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1040
+                                          "value":  1041.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  910.3
+                                          "value":  911.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -60,7 +60,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  73
+                                        "value":  74
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -150,7 +150,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22577.5
+                                          "value":  22750.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  59580.1
+                                          "value":  59634.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  44683.9
+                                          "value":  44705.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -221,16 +221,16 @@
                                           "value":  13.5
                                       },
                                       {
+                                          "name":  "Geltz",
+                                          "value":  5.4
+                                      },
+                                      {
                                           "name":  "Wenza06",
                                           "value":  5.4
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  4.2
-                                      },
-                                      {
                                           "name":  "Miguelhl",
-                                          "value":  2.8
+                                          "value":  1.1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 19:17",
+                       "type":  "death",
+                       "text":  "Miguelhl tried to swim in lava to escape The Decaying King"
+                   },
                    {
                        "time":  "24/09 19:15",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "24/09 17:28",
                        "type":  "leave",
                        "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 17:28",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
                    }
                ]
 }
