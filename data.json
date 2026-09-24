@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T21:03:42.2375770Z",
+    "updated_at":  "2026-09-24T21:04:58.5212021Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  988.6
+                                          "value":  989.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  987.2
+                                          "value":  988.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  55422.9
+                                          "value":  55445
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  48627.8
+                                          "value":  48724.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -210,7 +210,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  82.5
+                                          "value":  83.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  11.8
+                                          "value":  13
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 23:04",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "24/09 23:04",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "24/09 23:02",
                        "type":  "logro",
@@ -454,16 +464,6 @@
                        "time":  "24/09 18:39",
                        "type":  "death",
                        "text":  "Geltz tried to swim in lava to escape The Decaying King"
-                   },
-                   {
-                       "time":  "24/09 18:38",
-                       "type":  "death",
-                       "text":  "Miguelhl was blown up by Skeleton Creeper"
-                   },
-                   {
-                       "time":  "24/09 18:37",
-                       "type":  "death",
-                       "text":  "Miguelhl tried to swim in lava"
                    }
                ]
 }
