@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T15:24:41.9097444Z",
+    "updated_at":  "2026-09-24T15:25:58.1119844Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  933.2
+                                          "value":  934.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -39,11 +39,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  831.7
+                                          "value":  833
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  762.8
+                                          "value":  764.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -185,7 +185,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  47207.9
+                                          "value":  47289.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  40472.4
+                                          "value":  40505.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  155
+                                          "value":  156.3
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -219,11 +219,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  23.2
+                                          "value":  24.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  20.9
+                                          "value":  22.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  49
+                                              "value":  50
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 17:25",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Dye your backpack!"
+                   },
                    {
                        "time":  "24/09 17:18",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "24/09 15:52",
                        "type":  "join",
                        "text":  "Geltz ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "24/09 15:51",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Leaping Zombie"
                    }
                ]
 }
