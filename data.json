@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T21:40:34.0361107Z",
+    "updated_at":  "2026-09-24T21:41:50.0904882Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1025.4
+                                          "value":  1026.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1024
+                                          "value":  1025.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -67,11 +67,11 @@
                                         "value":  64
                                     },
                                     {
-                                        "name":  "Geltz",
-                                        "value":  21
+                                        "name":  "lasersub",
+                                        "value":  23
                                     },
                                     {
-                                        "name":  "lasersub",
+                                        "name":  "Geltz",
                                         "value":  21
                                     },
                                     {
@@ -94,7 +94,7 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  315
+                                       "value":  319
                                    },
                                    {
                                        "name":  "lasersub",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  8863.1
+                                          "value":  9056.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3393.7
+                                          "value":  3455.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -158,11 +158,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  10185.7
+                                          "value":  10576.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  6438.6
+                                          "value":  6878.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  57367.9
+                                          "value":  57434.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  51147.9
+                                          "value":  51177.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  119.3
+                                          "value":  120.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  0
+                                          "value":  0.1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 23:41",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Zoglin"
+                   },
+                   {
+                       "time":  "24/09 23:41",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Zoglin"
+                   },
                    {
                        "time":  "24/09 23:40",
                        "type":  "death",
@@ -454,16 +464,6 @@
                        "time":  "24/09 18:52",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 18:52",
-                       "type":  "death",
-                       "text":  "Geltz was slain by Piglin"
-                   },
-                   {
-                       "time":  "24/09 18:52",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro The Final Frontier"
                    }
                ]
 }
