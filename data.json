@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T22:13:34.1487453Z",
+    "updated_at":  "2026-09-24T22:14:50.0903621Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1058.3
+                                          "value":  1059.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1057
+                                          "value":  1058.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -98,7 +98,7 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  338
+                                       "value":  339
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3801.1
+                                          "value":  3908.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -162,7 +162,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  7527.1
+                                          "value":  7529.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -175,16 +175,16 @@
                                   ],
                      "distance":  [
                                       {
+                                          "name":  "lasersub",
+                                          "value":  59809.2
+                                      },
+                                      {
                                           "name":  "Miguelhl",
                                           "value":  59689
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  59507.6
-                                      },
-                                      {
                                           "name":  "Geltz",
-                                          "value":  52856.7
+                                          "value":  52984.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  152.2
+                                          "value":  153.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,7 +218,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  31.8
+                                          "value":  33.1
                                       },
                                       {
                                           "name":  "DanixNuts",
