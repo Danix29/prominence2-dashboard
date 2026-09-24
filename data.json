@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T16:53:00.0540502Z",
+    "updated_at":  "2026-09-24T16:54:16.2554656Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1018.8
+                                          "value":  1020
                                       },
                                       {
                                           "name":  "lasersub",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  886.1
+                                          "value":  887.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -72,7 +72,7 @@
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  15
+                                        "value":  16
                                     },
                                     {
                                         "name":  "lasersub",
@@ -90,7 +90,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  620
+                                       "value":  621
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -158,7 +158,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  5399.2
+                                          "value":  5507.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  58570.2
+                                          "value":  58729.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  43570.6
+                                          "value":  43632.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -226,11 +226,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1.5
+                                          "value":  2.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  0.7
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 18:53",
+                       "type":  "death",
+                       "text":  "Geltz tried to swim in lava"
+                   },
                    {
                        "time":  "24/09 18:52",
                        "type":  "leave",
@@ -454,11 +459,6 @@
                        "time":  "24/09 17:02",
                        "type":  "death",
                        "text":  "Miguelhl froze to death"
-                   },
-                   {
-                       "time":  "24/09 17:01",
-                       "type":  "death",
-                       "text":  "daaviid_2006 froze to death"
                    },
                    {
                        "time":  "24/09 17:01",
