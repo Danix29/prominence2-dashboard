@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T15:48:02.1388503Z",
+    "updated_at":  "2026-09-24T15:49:20.0333327Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  954.2
+                                          "value":  955.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -35,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  854.8
+                                          "value":  856.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  785.9
+                                          "value":  787.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -91,7 +91,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  602
+                                       "value":  609
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -163,7 +163,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  4492
+                                          "value":  4504.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -177,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  53954.9
+                                          "value":  54088.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -193,7 +193,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  42108.8
+                                          "value":  42176
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -211,11 +211,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  46.3
+                                          "value":  47.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  41.8
+                                          "value":  43.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -226,12 +226,12 @@
                                           "value":  13.5
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  5.4
+                                          "name":  "Geltz",
+                                          "value":  5.7
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  4.4
+                                          "name":  "Wenza06",
+                                          "value":  5.4
                                       }
                                   ],
                      "achievements":  [
@@ -240,11 +240,11 @@
                                               "value":  68
                                           },
                                           {
-                                              "name":  "DanixNuts",
-                                              "value":  51
+                                              "name":  "Miguelhl",
+                                              "value":  52
                                           },
                                           {
-                                              "name":  "Miguelhl",
+                                              "name":  "DanixNuts",
                                               "value":  51
                                           },
                                           {
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 17:48",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Blast Protection Not Included"
+                   },
                    {
                        "time":  "24/09 17:45",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "24/09 16:28",
                        "type":  "death",
                        "text":  "daaviid_2006 froze to death"
-                   },
-                   {
-                       "time":  "24/09 16:28",
-                       "type":  "death",
-                       "text":  "Miguelhl froze to death"
                    }
                ]
 }
