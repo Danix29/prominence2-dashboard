@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T15:53:09.1431750Z",
+    "updated_at":  "2026-09-24T15:54:25.9977189Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  959.1
+                                          "value":  960.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  790.9
+                                          "value":  792.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -90,7 +90,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  610
+                                       "value":  611
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -150,7 +150,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  20143
+                                          "value":  20144
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  54343.6
+                                          "value":  54449
                                       },
                                       {
                                           "name":  "lasersub",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  48677.5
+                                          "value":  48706.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -210,11 +210,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  51.3
+                                          "value":  52.5
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  46.7
+                                          "value":  48
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -240,7 +240,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  52
+                                              "value":  53
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 17:54",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro Embracing the Sculk"
+                   },
+                   {
+                       "time":  "24/09 17:53",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro It Bites"
+                   },
                    {
                        "time":  "24/09 17:51",
                        "type":  "leave",
@@ -454,16 +464,6 @@
                        "time":  "24/09 16:31",
                        "type":  "leave",
                        "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 16:31",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Star Crawler"
-                   },
-                   {
-                       "time":  "24/09 16:29",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Star Crawler"
                    }
                ]
 }
