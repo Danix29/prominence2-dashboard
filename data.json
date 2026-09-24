@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T13:38:30.6384810Z",
+    "updated_at":  "2026-09-24T13:39:46.9818605Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,11 +27,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  844.5
+                                          "value":  845.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  837.9
+                                          "value":  839.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  659.2
+                                          "value":  660.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -177,11 +177,11 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  46387
+                                          "value":  46432.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  45769.2
+                                          "value":  45834.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  41483
+                                          "value":  41529.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -207,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  384.1
+                                          "value":  385.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  102.7
+                                          "value":  104
                                       },
                                       {
                                           "name":  "Geltz",
@@ -219,7 +219,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  61.6
+                                          "value":  62.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 15:39",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Baby\u0027s First Rocket"
+                   },
                    {
                        "time":  "24/09 15:27",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 23:39",
                        "type":  "leave",
                        "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 23:38",
-                       "type":  "leave",
-                       "text":  "daaviid_2006 ha salido de Prominence II"
                    }
                ]
 }
