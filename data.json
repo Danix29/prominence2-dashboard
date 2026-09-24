@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T19:56:09.9317712Z",
+    "updated_at":  "2026-09-24T19:57:26.8605747Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  921.2
+                                          "value":  922.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  919.6
+                                          "value":  920.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -184,11 +184,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  51430.6
+                                          "value":  51493.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  44981
+                                          "value":  44986.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -218,11 +218,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  20.9
+                                          "value":  22.2
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  15
+                                          "value":  16.3
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -248,11 +248,11 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  36
+                                              "value":  37
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  32
+                                              "value":  33
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 21:56",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Cincinnasite Ore"
+                   },
                    {
                        "time":  "24/09 21:56",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "24/09 17:40",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Ruby Ore"
-                   },
-                   {
-                       "time":  "24/09 17:40",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Red Nether"
                    }
                ]
 }
