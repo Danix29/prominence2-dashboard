@@ -1,13 +1,13 @@
 {
-    "updated_at":  "2026-09-24T19:47:15.2374970Z",
+    "updated_at":  "2026-09-24T19:48:32.0619120Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  913
+                                          "value":  913.5
                                       },
                                       {
                                           "name":  "lasersub",
@@ -187,7 +187,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  44727
+                                          "value":  44737.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -221,7 +221,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  6.7
+                                          "value":  7.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 21:47",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "24/09 19:19",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "24/09 17:34",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro New Whip"
-                   },
-                   {
-                       "time":  "24/09 17:32",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Into Fire"
                    }
                ]
 }
