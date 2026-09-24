@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T16:17:21.8162850Z",
+    "updated_at":  "2026-09-24T16:18:38.1290713Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  983.2
+                                          "value":  984.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  814.9
+                                          "value":  816.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  56015.2
+                                          "value":  56247.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  50220
+                                          "value":  50297.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  75.3
+                                          "value":  76.6
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  70.8
+                                          "value":  72.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 18:18",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro World of illusion"
+                   },
                    {
                        "time":  "24/09 18:02",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "24/09 16:38",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "24/09 16:35",
-                       "type":  "leave",
-                       "text":  "daaviid_2006 ha salido de Prominence II"
                    }
                ]
 }
