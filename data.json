@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T13:26:23.9077747Z",
+    "updated_at":  "2026-09-24T13:27:40.0329455Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -31,11 +31,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  832.4
+                                          "value":  833.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  825.8
+                                          "value":  827.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -43,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  647.1
+                                          "value":  648.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -102,16 +102,16 @@
                                        "value":  222
                                    },
                                    {
-                                       "name":  "lasersub",
-                                       "value":  183
-                                   },
-                                   {
                                        "name":  "Geltz",
                                        "value":  163
                                    },
                                    {
                                        "name":  "Dan_niel03",
                                        "value":  131
+                                   },
+                                   {
+                                       "name":  "lasersub",
+                                       "value":  2
                                    }
                                ],
                      "dmgdealt":  [
@@ -176,12 +176,12 @@
                                   ],
                      "distance":  [
                                       {
-                                          "name":  "lasersub",
-                                          "value":  45468.8
+                                          "name":  "Miguelhl",
+                                          "value":  45515.4
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  45422.4
+                                          "name":  "lasersub",
+                                          "value":  45480.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -189,7 +189,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  41116.5
+                                          "value":  41163.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  372
+                                          "value":  373.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  90.6
+                                          "value":  91.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -223,7 +223,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  49.5
+                                          "value":  50.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -245,7 +245,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  45
+                                              "value":  46
                                           },
                                           {
                                               "name":  "lasersub",
@@ -266,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 15:27",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro A Realistical Logical Ideologist"
+                   },
                    {
                        "time":  "24/09 15:24",
                        "type":  "logro",
@@ -460,11 +465,6 @@
                        "time":  "23/09 23:38",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 23:28",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Baby\u0027s First Rocket"
                    }
                ]
 }
