@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T13:00:57.2866267Z",
+    "updated_at":  "2026-09-24T13:02:13.7009519Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+
                                     ]
                     },
                     {
@@ -37,7 +37,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  764.7
+                                          "value":  765
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -191,7 +191,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  36960.4
+                                          "value":  36968.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -209,7 +209,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  88
+                                          "value":  88.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +264,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 15:02",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
+                   {
+                       "time":  "24/09 15:01",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "24/09 14:53",
                        "type":  "leave",
@@ -453,16 +463,6 @@
                        "time":  "23/09 22:59",
                        "type":  "join",
                        "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "23/09 22:59",
-                       "type":  "leave",
-                       "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 22:48",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Rocket Science"
                    }
                ]
 }
