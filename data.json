@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T17:08:17.0999233Z",
+    "updated_at":  "2026-09-24T17:09:34.2477738Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl",
                                         "Geltz"
                                     ]
                     },
@@ -26,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1034
+                                          "value":  1034.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -34,7 +33,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  901.4
+                                          "value":  902.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -67,12 +66,12 @@
                                         "value":  64
                                     },
                                     {
-                                        "name":  "Wenza06",
+                                        "name":  "Geltz",
                                         "value":  20
                                     },
                                     {
-                                        "name":  "Geltz",
-                                        "value":  19
+                                        "name":  "Wenza06",
+                                        "value":  20
                                     },
                                     {
                                         "name":  "lasersub",
@@ -158,7 +157,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  5827
+                                          "value":  5978.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  59347.1
+                                          "value":  59358.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -192,7 +191,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  44373.2
+                                          "value":  44416.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,7 +221,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  12.2
+                                          "value":  12.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -230,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  2.1
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 19:08",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "24/09 19:06",
                        "type":  "death",
@@ -459,11 +463,6 @@
                        "time":  "24/09 17:25",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Dye your backpack!"
-                   },
-                   {
-                       "time":  "24/09 17:18",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Can\u0027t Be Used as a Weapon"
                    }
                ]
 }
