@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T22:38:57.3258818Z",
+    "updated_at":  "2026-09-24T22:40:13.4345435Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+
                                     ]
                     },
                     {
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  1083.7
+                                          "value":  1084.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -205,7 +205,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  177.6
+                                          "value":  178.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 00:39",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "25/09 00:35",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "24/09 21:48",
                        "type":  "join",
                        "text":  "lasersub ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "24/09 21:47",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
