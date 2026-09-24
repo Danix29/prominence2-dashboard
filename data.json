@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T11:48:24.4181430Z",
+    "updated_at":  "2026-09-24T11:49:40.5009829Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06",
-                                        "lasersub"
+                                        "lasersub",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  752.3
+                                          "value":  753.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  222.8
+                                          "value":  224.1
                                       }
                                   ],
                      "deaths":  [
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  11
+                                        "value":  12
                                     },
                                     {
                                         "name":  "Geltz",
@@ -166,11 +166,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2567.9
+                                          "value":  2574.5
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1735.2
+                                          "value":  1879.5
                                       }
                                   ],
                      "distance":  [
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  41565.5
+                                          "value":  41590.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -200,13 +200,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  12186.7
+                                          "value":  12350.8
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  298.4
+                                          "value":  299.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -221,16 +221,16 @@
                                           "value":  38.1
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  31.1
-                                      },
-                                      {
                                           "name":  "Geltz",
                                           "value":  28
                                       },
                                       {
                                           "name":  "DanixNuts",
                                           "value":  27.3
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  0.4
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 13:49",
+                       "type":  "death",
+                       "text":  "Wenza06 was slain by Iron Golem"
+                   },
                    {
                        "time":  "24/09 13:32",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "23/09 18:48",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "23/09 18:46",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
                    }
                ]
 }
