@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T16:02:05.1223372Z",
+    "updated_at":  "2026-09-24T16:03:21.6746813Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  967.9
+                                          "value":  969.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  799.6
+                                          "value":  800.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  48877.4
+                                          "value":  48889.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -205,16 +205,16 @@
                                   ],
                      "survivor":  [
                                       {
+                                          "name":  "daaviid_2006",
+                                          "value":  61.3
+                                      },
+                                      {
                                           "name":  "Dan_niel03",
                                           "value":  60.8
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  60
-                                      },
-                                      {
                                           "name":  "Miguelhl",
-                                          "value":  55.5
+                                          "value":  56.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -236,7 +236,7 @@
                      "achievements":  [
                                           {
                                               "name":  "daaviid_2006",
-                                              "value":  70
+                                              "value":  71
                                           },
                                           {
                                               "name":  "Miguelhl",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 18:02",
+                       "type":  "logro",
+                       "text":  "daaviid_2006 ha conseguido el logro The Martian"
+                   },
                    {
                        "time":  "24/09 17:56",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "24/09 16:35",
                        "type":  "leave",
                        "text":  "daaviid_2006 ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 16:32",
-                       "type":  "death",
-                       "text":  "daaviid_2006 was slain by Star Crawler"
                    }
                ]
 }
