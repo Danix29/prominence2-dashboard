@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T21:07:31.2994818Z",
+    "updated_at":  "2026-09-24T21:08:47.6403463Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  992.4
+                                          "value":  993.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  991
+                                          "value":  992.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -94,11 +94,11 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  273
+                                       "value":  276
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  253
+                                       "value":  254
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7217.6
+                                          "value":  7249.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2300.2
+                                          "value":  2393.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -158,11 +158,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  7914.6
+                                          "value":  8056.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  5593.9
+                                          "value":  5600.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  55781.3
+                                          "value":  55867.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  49149.9
+                                          "value":  49264.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -210,7 +210,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  86.2
+                                          "value":  87.5
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  15.6
+                                          "value":  16.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -247,12 +247,12 @@
                                               "value":  51
                                           },
                                           {
-                                              "name":  "Geltz",
+                                              "name":  "lasersub",
                                               "value":  39
                                           },
                                           {
-                                              "name":  "lasersub",
-                                              "value":  38
+                                              "name":  "Geltz",
+                                              "value":  39
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 23:08",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Cincinnasite Ore"
+                   },
                    {
                        "time":  "24/09 23:04",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "24/09 18:41",
                        "type":  "death",
                        "text":  "Miguelhl tried to swim in lava"
-                   },
-                   {
-                       "time":  "24/09 18:39",
-                       "type":  "death",
-                       "text":  "Geltz tried to swim in lava to escape The Decaying King"
                    }
                ]
 }
