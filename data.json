@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T15:00:26.9727030Z",
+    "updated_at":  "2026-09-24T15:01:46.9307441Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "daaviid_2006",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "daaviid_2006"
                                     ]
                     },
                     {
@@ -30,7 +30,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  909
+                                          "value":  910.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  738.6
+                                          "value":  739.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -59,12 +59,12 @@
                                         "value":  89
                                     },
                                     {
-                                        "name":  "Miguelhl",
-                                        "value":  61
+                                        "name":  "daaviid_2006",
+                                        "value":  64
                                     },
                                     {
-                                        "name":  "daaviid_2006",
-                                        "value":  59
+                                        "name":  "Miguelhl",
+                                        "value":  62
                                     },
                                     {
                                         "name":  "Wenza06",
@@ -135,12 +135,12 @@
                                           "value":  1566.4
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  1292.6
+                                          "name":  "DanixNuts",
+                                          "value":  1324.9
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  0
+                                          "name":  "Miguelhl",
+                                          "value":  1292.6
                                       }
                                   ],
                      "dmgtaken":  [
@@ -149,12 +149,12 @@
                                           "value":  25714.1
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  18536.1
+                                          "name":  "daaviid_2006",
+                                          "value":  18789.9
                                       },
                                       {
-                                          "name":  "daaviid_2006",
-                                          "value":  17840.2
+                                          "name":  "Miguelhl",
+                                          "value":  18769.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  50698.4
+                                          "value":  50730.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  45311.7
+                                          "value":  45368.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -217,10 +217,6 @@
                                           "value":  27.3
                                       },
                                       {
-                                          "name":  "Miguelhl",
-                                          "value":  14.7
-                                      },
-                                      {
                                           "name":  "lasersub",
                                           "value":  13.5
                                       },
@@ -229,8 +225,12 @@
                                           "value":  5.4
                                       },
                                       {
+                                          "name":  "Miguelhl",
+                                          "value":  0.5
+                                      },
+                                      {
                                           "name":  "daaviid_2006",
-                                          "value":  0
+                                          "value":  0.3
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,26 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 17:01",
+                       "type":  "death",
+                       "text":  "daaviid_2006 froze to death"
+                   },
+                   {
+                       "time":  "24/09 17:01",
+                       "type":  "death",
+                       "text":  "daaviid_2006 froze to death"
+                   },
+                   {
+                       "time":  "24/09 17:00",
+                       "type":  "death",
+                       "text":  "daaviid_2006 froze to death"
+                   },
+                   {
+                       "time":  "24/09 17:00",
+                       "type":  "death",
+                       "text":  "daaviid_2006 froze to death"
+                   },
                    {
                        "time":  "24/09 16:59",
                        "type":  "join",
@@ -444,26 +464,6 @@
                        "time":  "24/09 15:24",
                        "type":  "logro",
                        "text":  "Miguelhl ha conseguido el logro Astronaut"
-                   },
-                   {
-                       "time":  "24/09 15:19",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro DJ"
-                   },
-                   {
-                       "time":  "24/09 15:16",
-                       "type":  "join",
-                       "text":  "daaviid_2006 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "24/09 15:15",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "24/09 15:06",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
