@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T12:48:15.4884193Z",
+    "updated_at":  "2026-09-24T12:49:31.7219047Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  752
+                                          "value":  753.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  282.6
+                                          "value":  283.9
                                       }
                                   ],
                      "deaths":  [
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  19
+                                        "value":  20
                                     },
                                     {
                                         "name":  "Geltz",
@@ -98,7 +98,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  219
+                                       "value":  220
                                    },
                                    {
                                        "name":  "lasersub",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5793.5
+                                          "value":  5889.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -162,7 +162,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  3709.7
+                                          "value":  3958.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  35754.2
+                                          "value":  35856.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  17356.2
+                                          "value":  17484.9
                                       }
                                   ],
                      "survivor":  [
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  75.3
+                                          "value":  76.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1.3
+                                          "value":  1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 14:49",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Tunnel Treasures"
+                   },
+                   {
+                       "time":  "24/09 14:48",
+                       "type":  "death",
+                       "text":  "Wenza06 was blown up by Grenadier"
+                   },
                    {
                        "time":  "24/09 14:46",
                        "type":  "death",
@@ -454,16 +464,6 @@
                        "time":  "23/09 22:46",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Who\u0027s the Pillager Now?"
-                   },
-                   {
-                       "time":  "23/09 22:45",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Smart Blasting"
-                   },
-                   {
-                       "time":  "23/09 22:43",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro Under Pressure"
                    }
                ]
 }
