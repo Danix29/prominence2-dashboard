@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T11:50:56.5172847Z",
+    "updated_at":  "2026-09-24T11:52:12.7802210Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -34,7 +34,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  754.8
+                                          "value":  756.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  225.3
+                                          "value":  226.6
                                       }
                                   ],
                      "deaths":  [
@@ -102,7 +102,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  140
+                                       "value":  142
                                    },
                                    {
                                        "name":  "Dan_niel03",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Wenza06",
-                                          "value":  4249.6
+                                          "value":  4257.6
                                       },
                                       {
                                           "name":  "Geltz",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  41590.9
+                                          "value":  41636
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -200,13 +200,13 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  12497.7
+                                          "value":  12616.4
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  301
+                                          "value":  302.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1.6
+                                          "value":  2.9
                                       }
                                   ],
                      "achievements":  [
@@ -260,11 +260,16 @@
                                           },
                                           {
                                               "name":  "Wenza06",
-                                              "value":  13
+                                              "value":  14
                                           }
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 13:51",
+                       "type":  "logro",
+                       "text":  "Wenza06 ha conseguido el logro Dye your backpack!"
+                   },
                    {
                        "time":  "24/09 13:49",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "23/09 18:52",
                        "type":  "logro",
                        "text":  "DanixNuts ha conseguido el logro Withering Heights"
-                   },
-                   {
-                       "time":  "23/09 18:48",
-                       "type":  "join",
-                       "text":  "Miguelhl ha entrado en Prominence II"
                    }
                ]
 }
