@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T13:47:25.6790889Z",
+    "updated_at":  "2026-09-24T13:48:42.0283873Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  853.4
+                                          "value":  854.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -42,7 +42,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  668.1
+                                          "value":  669.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  46833.6
+                                          "value":  46978.1
                                       },
                                       {
                                           "name":  "lasersub",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  41988.3
+                                          "value":  42096.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  390.8
+                                          "value":  391
                                       },
                                       {
                                           "name":  "Geltz",
@@ -214,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  70.5
+                                          "value":  71.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  2.3
+                                          "value":  3.6
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 15:48",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "24/09 15:45",
                        "type":  "leave",
@@ -459,11 +464,6 @@
                        "time":  "24/09 12:48",
                        "type":  "join",
                        "text":  "Wenza06 ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "23/09 23:42",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
