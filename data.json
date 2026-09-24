@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T17:10:50.2624448Z",
+    "updated_at":  "2026-09-24T17:12:06.2289482Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+                                        "Geltz",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -25,15 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1034.8
-                                      },
-                                      {
-                                          "name":  "lasersub",
-                                          "value":  912.5
+                                          "value":  1034.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  903.9
+                                          "value":  905.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,6 +47,10 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  288.4
+                                      },
+                                      {
+                                          "name":  "lasersub",
+                                          "value":  0
                                       }
                                   ],
                      "deaths":  [
@@ -187,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  44493.1
+                                          "value":  44523.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -221,7 +222,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  12.8
+                                          "value":  13
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -229,7 +230,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1.7
+                                          "value":  3
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 19:11",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "24/09 19:08",
                        "type":  "leave",
@@ -458,11 +464,6 @@
                        "time":  "24/09 17:28",
                        "type":  "leave",
                        "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 17:25",
-                       "type":  "logro",
-                       "text":  "Miguelhl ha conseguido el logro Dye your backpack!"
                    }
                ]
 }
