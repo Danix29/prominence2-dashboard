@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T21:57:04.5312781Z",
+    "updated_at":  "2026-09-24T21:58:20.6492622Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,16 +25,16 @@
     "rankings":  {
                      "playtime":  [
                                       {
+                                          "name":  "Geltz",
+                                          "value":  1043.1
+                                      },
+                                      {
                                           "name":  "Miguelhl",
                                           "value":  1042.3
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  1041.8
-                                      },
-                                      {
                                           "name":  "lasersub",
-                                          "value":  1040.5
+                                          "value":  1041.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -94,11 +94,11 @@
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  330
+                                       "value":  331
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  308
+                                       "value":  310
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  9426.4
+                                          "value":  9466.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -158,7 +158,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  11202.5
+                                          "value":  11212
                                       },
                                       {
                                           "name":  "lasersub",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  58108.6
+                                          "value":  58156.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  51679.6
+                                          "value":  51725.1
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  135.7
+                                          "value":  137
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  15.3
+                                          "value":  16.6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -248,11 +248,11 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  42
+                                              "value":  43
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  41
+                                              "value":  42
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 23:57",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Punch em!"
+                   },
+                   {
+                       "time":  "24/09 23:57",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Punch em!"
+                   },
                    {
                        "time":  "24/09 23:55",
                        "type":  "join",
@@ -454,16 +464,6 @@
                        "time":  "24/09 19:11",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "24/09 19:08",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 19:06",
-                       "type":  "death",
-                       "text":  "Geltz tried to swim in lava to escape The Decaying King"
                    }
                ]
 }
