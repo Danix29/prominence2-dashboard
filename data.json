@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T12:40:38.5059540Z",
+    "updated_at":  "2026-09-24T12:41:54.6658953Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06",
-                                        "Geltz"
+                                        "Geltz",
+                                        "Wenza06"
                                     ]
                     },
                     {
@@ -38,7 +38,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  744.4
+                                          "value":  745.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -50,7 +50,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  275
+                                          "value":  276.3
                                       }
                                   ],
                      "deaths":  [
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  12
+                                        "value":  13
                                     },
                                     {
                                         "name":  "Geltz",
@@ -98,7 +98,7 @@
                                    },
                                    {
                                        "name":  "Wenza06",
-                                       "value":  214
+                                       "value":  217
                                    },
                                    {
                                        "name":  "lasersub",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5643
+                                          "value":  5724.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -165,12 +165,12 @@
                                           "value":  3474.5
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  2812.1
+                                          "name":  "Wenza06",
+                                          "value":  2895.5
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  2772.5
+                                          "name":  "lasersub",
+                                          "value":  2812.1
                                       }
                                   ],
                      "distance":  [
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  35370.4
+                                          "value":  35417.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  16938.6
+                                          "value":  16989.4
                                       }
                                   ],
                      "survivor":  [
@@ -214,15 +214,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  67.7
+                                          "value":  69
                                       },
                                       {
                                           "name":  "Dan_niel03",
                                           "value":  60.8
-                                      },
-                                      {
-                                          "name":  "Wenza06",
-                                          "value":  51.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -231,6 +227,10 @@
                                       {
                                           "name":  "DanixNuts",
                                           "value":  27.3
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 14:40",
+                       "type":  "death",
+                       "text":  "Wenza06 was slain by Leaping Zombie"
+                   },
                    {
                        "time":  "24/09 14:38",
                        "type":  "leave",
@@ -459,11 +464,6 @@
                        "time":  "23/09 22:23",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Even the rats avoid this place"
-                   },
-                   {
-                       "time":  "23/09 22:21",
-                       "type":  "join",
-                       "text":  "daaviid_2006 ha entrado en Prominence II"
                    }
                ]
 }
