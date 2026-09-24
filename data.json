@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T11:09:03.4470855Z",
+    "updated_at":  "2026-09-24T11:10:19.6910739Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  183.5
+                                          "value":  184.7
                                       }
                                   ],
                      "deaths":  [
@@ -71,7 +71,7 @@
                                     },
                                     {
                                         "name":  "Wenza06",
-                                        "value":  9
+                                        "value":  10
                                     },
                                     {
                                         "name":  "lasersub",
@@ -115,7 +115,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Wenza06",
-                                          "value":  3859
+                                          "value":  3895.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -169,7 +169,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  1393.8
+                                          "value":  1493.1
                                       }
                                   ],
                      "distance":  [
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  10361.8
+                                          "value":  10480.5
                                       }
                                   ],
                      "survivor":  [
@@ -220,16 +220,16 @@
                                           "value":  38.1
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  29.6
-                                      },
-                                      {
                                           "name":  "Geltz",
                                           "value":  28
                                       },
                                       {
                                           "name":  "DanixNuts",
                                           "value":  27.3
+                                      },
+                                      {
+                                          "name":  "Wenza06",
+                                          "value":  1.2
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 13:09",
+                       "type":  "death",
+                       "text":  "Wenza06 was slain by Automaton"
+                   },
                    {
                        "time":  "24/09 12:49",
                        "type":  "join",
@@ -458,11 +463,6 @@
                        "time":  "23/09 18:44",
                        "type":  "leave",
                        "text":  "Miguelhl ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "23/09 18:38",
-                       "type":  "logro",
-                       "text":  "DanixNuts ha conseguido el logro Blackstone Golem"
                    }
                ]
 }
