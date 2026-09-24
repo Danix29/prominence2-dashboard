@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T19:48:32.0619120Z",
+    "updated_at":  "2026-09-24T19:49:48.2496684Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+                                        "Geltz",
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -29,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  913.5
+                                          "value":  914.8
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  912.5
+                                          "value":  913.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -183,11 +184,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  51197.4
+                                          "value":  51251.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  44737.2
+                                          "value":  44768
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -217,11 +218,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  13.5
+                                          "value":  14.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  7.4
+                                          "value":  8.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 21:48",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "24/09 21:47",
                        "type":  "join",
@@ -458,11 +464,6 @@
                        "time":  "24/09 17:38",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro A glorious Past"
-                   },
-                   {
-                       "time":  "24/09 17:34",
-                       "type":  "logro",
-                       "text":  "daaviid_2006 ha conseguido el logro New Whip"
                    }
                ]
 }
