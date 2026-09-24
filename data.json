@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T16:23:43.5604753Z",
+    "updated_at":  "2026-09-24T16:25:00.1938300Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,7 +8,8 @@
                         "sleeping":  false,
                         "players":  [
                                         "daaviid_2006",
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -26,7 +27,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  989.5
+                                          "value":  990.8
                                       },
                                       {
                                           "name":  "lasersub",
@@ -34,7 +35,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  858
+                                          "value":  858.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -42,7 +43,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  821.3
+                                          "value":  822.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +177,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  56625.6
+                                          "value":  56787.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -184,7 +185,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  50960.4
+                                          "value":  51050.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,11 +207,11 @@
                      "survivor":  [
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  81.7
+                                          "value":  83
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  77.2
+                                          "value":  78.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -226,7 +227,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  7.5
+                                          "value":  7.8
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -265,6 +266,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 18:24",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "24/09 18:18",
                        "type":  "logro",
@@ -459,11 +465,6 @@
                        "time":  "24/09 16:38",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Star Crawler"
-                   },
-                   {
-                       "time":  "24/09 16:38",
-                       "type":  "join",
-                       "text":  "daaviid_2006 ha entrado en Prominence II"
                    }
                ]
 }
