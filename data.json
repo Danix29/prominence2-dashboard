@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T21:32:56.9709925Z",
+    "updated_at":  "2026-09-24T21:34:13.1914941Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1017.8
+                                          "value":  1019.1
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1016.4
+                                          "value":  1017.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -94,11 +94,11 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  276
+                                       "value":  278
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  254
+                                       "value":  262
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7249.8
+                                          "value":  7628.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2394.9
+                                          "value":  2509.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -158,11 +158,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  8063.3
+                                          "value":  8852.3
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  5656.9
+                                          "value":  5971.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  56798
+                                          "value":  56903.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  50438.8
+                                          "value":  50624.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  111.7
+                                          "value":  112.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -215,10 +215,6 @@
                                       {
                                           "name":  "Dan_niel03",
                                           "value":  60.8
-                                      },
-                                      {
-                                          "name":  "lasersub",
-                                          "value":  41
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -231,6 +227,10 @@
                                       {
                                           "name":  "Miguelhl",
                                           "value":  2
+                                      },
+                                      {
+                                          "name":  "lasersub",
+                                          "value":  0.1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 23:34",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Wither Skeleton"
+                   },
                    {
                        "time":  "24/09 23:08",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "24/09 18:44",
                        "type":  "death",
                        "text":  "Geltz tried to swim in lava"
-                   },
-                   {
-                       "time":  "24/09 18:41",
-                       "type":  "death",
-                       "text":  "Miguelhl tried to swim in lava"
                    }
                ]
 }
