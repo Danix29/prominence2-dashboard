@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T13:06:02.4244516Z",
+    "updated_at":  "2026-09-24T13:07:18.5032158Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz",
                                         "lasersub"
                                     ]
                     },
@@ -34,11 +33,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  805.5
+                                          "value":  806.8
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  768.6
+                                          "value":  769.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -180,7 +179,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  44545.3
+                                          "value":  44624.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -192,7 +191,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  37180.2
+                                          "value":  37231.6
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -206,11 +205,11 @@
                      "survivor":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  351.6
+                                          "value":  352.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  91.9
+                                          "value":  92.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 15:06",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "24/09 15:02",
                        "type":  "join",
@@ -459,11 +463,6 @@
                        "time":  "23/09 23:01",
                        "type":  "logro",
                        "text":  "daaviid_2006 ha conseguido el logro Ocean Cleanup"
-                   },
-                   {
-                       "time":  "23/09 23:01",
-                       "type":  "death",
-                       "text":  "Geltz was blown up by Skeleton Creeper"
                    }
                ]
 }
