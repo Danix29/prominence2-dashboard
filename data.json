@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T21:35:29.3602752Z",
+    "updated_at":  "2026-09-24T21:36:45.4598426Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1020.3
+                                          "value":  1021.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1018.9
+                                          "value":  1020.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -76,7 +76,7 @@
                                     },
                                     {
                                         "name":  "lasersub",
-                                        "value":  19
+                                        "value":  20
                                     },
                                     {
                                         "name":  "Dan_niel03",
@@ -94,11 +94,11 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  280
+                                       "value":  285
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  264
+                                       "value":  281
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  7674.4
+                                          "value":  8061.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  2527.3
+                                          "value":  2969.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -158,11 +158,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  8855.9
+                                          "value":  9065.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  5979.9
+                                          "value":  6219.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  56978.5
+                                          "value":  57025.8
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -188,7 +188,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  50772.8
+                                          "value":  50866.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  114.2
+                                          "value":  115.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1.3
+                                          "value":  0.2
                                       }
                                   ],
                      "achievements":  [
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  39
+                                              "value":  40
                                           },
                                           {
                                               "name":  "Geltz",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 23:36",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Wither Skeleton"
+                   },
+                   {
+                       "time":  "24/09 23:35",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Spooky Scary Skeleton"
+                   },
                    {
                        "time":  "24/09 23:34",
                        "type":  "death",
@@ -454,16 +464,6 @@
                        "time":  "24/09 18:49",
                        "type":  "death",
                        "text":  "Miguelhl was slain by Jungle Skeleton"
-                   },
-                   {
-                       "time":  "24/09 18:48",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Hearty Meal"
-                   },
-                   {
-                       "time":  "24/09 18:44",
-                       "type":  "death",
-                       "text":  "Geltz tried to swim in lava"
                    }
                ]
 }
