@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T11:23:01.4730135Z",
+    "updated_at":  "2026-09-24T11:24:17.8251084Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Wenza06"
+
                                     ]
                     },
                     {
@@ -49,7 +49,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  197.4
+                                          "value":  198.7
                                       }
                                   ],
                      "deaths":  [
@@ -199,7 +199,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  11510.9
+                                          "value":  11538.7
                                       }
                                   ],
                      "survivor":  [
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  5.7
+                                          "value":  7
                                       }
                                   ],
                      "achievements":  [
