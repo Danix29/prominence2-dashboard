@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-24T15:50:36.5068685Z",
+    "updated_at":  "2026-09-24T15:51:52.9339337Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,7 @@
                         "sleeping":  false,
                         "players":  [
                                         "daaviid_2006",
-                                        "Miguelhl",
-                                        "Geltz"
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -27,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  956.8
+                                          "value":  958
                                       },
                                       {
                                           "name":  "lasersub",
@@ -35,7 +34,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  857.4
+                                          "value":  858
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -43,7 +42,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  788.5
+                                          "value":  789.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -146,10 +145,6 @@
                                   ],
                      "dmgtaken":  [
                                       {
-                                          "name":  "Geltz",
-                                          "value":  114825.8
-                                      },
-                                      {
                                           "name":  "DanixNuts",
                                           "value":  25714.1
                                       },
@@ -166,6 +161,10 @@
                                           "value":  5211.1
                                       },
                                       {
+                                          "name":  "Geltz",
+                                          "value":  4527
+                                      },
+                                      {
                                           "name":  "lasersub",
                                           "value":  4091.8
                                       },
@@ -177,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  54232
+                                          "value":  54249
                                       },
                                       {
                                           "name":  "lasersub",
@@ -185,7 +184,7 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  48542.2
+                                          "value":  48574.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -193,7 +192,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  42228.2
+                                          "value":  42242.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -211,11 +210,11 @@
                                       },
                                       {
                                           "name":  "daaviid_2006",
-                                          "value":  48.9
+                                          "value":  50.2
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  44.4
+                                          "value":  45.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -227,7 +226,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  7
+                                          "value":  7.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -266,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "24/09 17:51",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "24/09 17:48",
                        "type":  "logro",
@@ -460,11 +464,6 @@
                        "time":  "24/09 16:29",
                        "type":  "death",
                        "text":  "daaviid_2006 was slain by Star Crawler"
-                   },
-                   {
-                       "time":  "24/09 16:28",
-                       "type":  "death",
-                       "text":  "daaviid_2006 froze to death"
                    }
                ]
 }
