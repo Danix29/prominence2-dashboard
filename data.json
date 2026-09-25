@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T12:08:47.6722322Z",
+    "updated_at":  "2026-09-25T12:10:03.6496108Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1097.1
+                                          "value":  1098.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  62669.3
+                                          "value":  62688.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  37.4
+                                          "value":  38.7
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -239,7 +239,7 @@
                                           },
                                           {
                                               "name":  "Miguelhl",
-                                              "value":  55
+                                              "value":  56
                                           },
                                           {
                                               "name":  "DanixNuts",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 14:08",
+                       "type":  "logro",
+                       "text":  "Miguelhl ha conseguido el logro Arcane Power"
+                   },
                    {
                        "time":  "25/09 13:59",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "24/09 22:44",
                        "type":  "death",
                        "text":  "lasersub was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "24/09 22:44",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Ruby Ore"
                    }
                ]
 }
