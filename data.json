@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T11:58:39.2049361Z",
+    "updated_at":  "2026-09-25T11:59:55.2986640Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "DanixNuts",
                                         "Miguelhl"
                                     ]
                     },
@@ -26,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1087
+                                          "value":  1088.3
                                       },
                                       {
                                           "name":  "Geltz",
@@ -38,7 +37,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  879.4
+                                          "value":  880.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -176,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  62292.2
+                                          "value":  62301.7
                                       },
                                       {
                                           "name":  "lasersub",
@@ -192,7 +191,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  46254.4
+                                          "value":  46323
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -218,11 +217,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  27.3
+                                          "value":  28.5
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  25.4
+                                          "value":  26.4
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 13:59",
+                       "type":  "leave",
+                       "text":  "DanixNuts ha salido de Prominence II"
+                   },
                    {
                        "time":  "25/09 13:34",
                        "type":  "join",
@@ -459,11 +463,6 @@
                        "time":  "24/09 22:44",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Ruby Ore"
-                   },
-                   {
-                       "time":  "24/09 22:41",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro A glorious Past"
                    }
                ]
 }
