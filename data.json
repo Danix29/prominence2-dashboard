@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T17:48:15.5484767Z",
+    "updated_at":  "2026-09-25T17:49:31.6324753Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1118.6
+                                          "value":  1119.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -92,6 +92,10 @@
                                        "value":  630
                                    },
                                    {
+                                       "name":  "Geltz",
+                                       "value":  358
+                                   },
+                                   {
                                        "name":  "lasersub",
                                        "value":  355
                                    },
@@ -106,10 +110,6 @@
                                    {
                                        "name":  "Dan_niel03",
                                        "value":  131
-                                   },
-                                   {
-                                       "name":  "Geltz",
-                                       "value":  0
                                    }
                                ],
                      "dmgdealt":  [
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  63299.1
+                                          "value":  63348.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  58.9
+                                          "value":  60.2
                                       },
                                       {
                                           "name":  "DanixNuts",
