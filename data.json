@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T21:16:18.2438698Z",
+    "updated_at":  "2026-09-25T21:17:34.3653180Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  1190.2
+                                          "value":  1191.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1183
+                                          "value":  1184.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  67182.2
+                                          "value":  67188.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  57934.5
+                                          "value":  57973.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -221,16 +221,16 @@
                                           "value":  26.4
                                       },
                                       {
+                                          "name":  "Geltz",
+                                          "value":  6.4
+                                      },
+                                      {
                                           "name":  "Wenza06",
                                           "value":  5.4
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  5.2
-                                      },
-                                      {
                                           "name":  "lasersub",
-                                          "value":  3.7
+                                          "value":  5
                                       }
                                   ],
                      "achievements":  [
