@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T12:17:41.2060921Z",
+    "updated_at":  "2026-09-25T12:18:57.4067985Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl"
+
                                     ]
                     },
                     {
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1106
+                                          "value":  1106.8
                                       },
                                       {
                                           "name":  "Geltz",
@@ -175,7 +175,7 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  62717.5
+                                          "value":  62718.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  46.3
+                                          "value":  46.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 14:18",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "25/09 14:08",
                        "type":  "logro",
@@ -456,11 +461,6 @@
                    },
                    {
                        "time":  "24/09 22:51",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "24/09 22:44",
                        "type":  "death",
                        "text":  "lasersub was slain by Wither Skeleton"
                    }
