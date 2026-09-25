@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T21:30:16.1269379Z",
+    "updated_at":  "2026-09-25T21:31:32.4054838Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  1204.2
+                                          "value":  1205.5
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1196.9
+                                          "value":  1198.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -68,11 +68,11 @@
                                     },
                                     {
                                         "name":  "lasersub",
-                                        "value":  38
+                                        "value":  39
                                     },
                                     {
                                         "name":  "Geltz",
-                                        "value":  25
+                                        "value":  26
                                     },
                                     {
                                         "name":  "Wenza06",
@@ -94,7 +94,7 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  400
+                                       "value":  401
                                    },
                                    {
                                        "name":  "Geltz",
@@ -116,11 +116,11 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  11436
+                                          "value":  11584.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  6945.7
+                                          "value":  7345.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -158,11 +158,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  17072.4
+                                          "value":  17560.7
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  12156.3
+                                          "value":  12547.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  67832.4
+                                          "value":  67935.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  58522.5
+                                          "value":  58604.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -225,12 +225,12 @@
                                           "value":  5.4
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  0.5
+                                          "name":  "Geltz",
+                                          "value":  1.3
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  0
+                                          "name":  "lasersub",
+                                          "value":  1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 23:30",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Nether Gauntlet"
+                   },
                    {
                        "time":  "25/09 23:30",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "25/09 19:36",
                        "type":  "join",
                        "text":  "Miguelhl ha entrado en Prominence II"
-                   },
-                   {
-                       "time":  "25/09 14:18",
-                       "type":  "leave",
-                       "text":  "Miguelhl ha salido de Prominence II"
                    }
                ]
 }
