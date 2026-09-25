@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T19:00:42.7509130Z",
+    "updated_at":  "2026-09-25T19:01:58.7488926Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,15 +30,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1148.6
+                                          "value":  1149.9
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1139.8
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  880.6
+                                          "value":  1141.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -51,6 +47,10 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  288.4
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0
                                       }
                                   ],
                      "deaths":  [
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  233.7
+                                          "value":  235
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3.3
+                                          "value":  4.6
                                       }
                                   ],
                      "achievements":  [
