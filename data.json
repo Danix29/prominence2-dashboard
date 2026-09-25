@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T11:30:45.6818267Z",
+    "updated_at":  "2026-09-25T11:32:01.7467993Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,8 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl",
-                                        "DanixNuts"
+                                        "DanixNuts",
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -34,11 +34,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1059.2
+                                          "value":  1060.4
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  851.5
+                                          "value":  852.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -60,7 +60,7 @@
                                     },
                                     {
                                         "name":  "Miguelhl",
-                                        "value":  74
+                                        "value":  75
                                     },
                                     {
                                         "name":  "daaviid_2006",
@@ -150,7 +150,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22750.2
+                                          "value":  22948.9
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  61225.8
+                                          "value":  61379
                                       },
                                       {
                                           "name":  "Geltz",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  45242.2
+                                          "value":  45382.8
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -218,11 +218,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  41.7
-                                      },
-                                      {
-                                          "name":  "Miguelhl",
-                                          "value":  19
+                                          "value":  43
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -231,6 +227,10 @@
                                       {
                                           "name":  "lasersub",
                                           "value":  3.7
+                                      },
+                                      {
+                                          "name":  "Miguelhl",
+                                          "value":  0.7
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 13:31",
+                       "type":  "death",
+                       "text":  "Miguelhl was shot by DanixNuts"
+                   },
                    {
                        "time":  "25/09 13:16",
                        "type":  "join",
@@ -459,11 +464,6 @@
                        "time":  "24/09 22:29",
                        "type":  "death",
                        "text":  "lasersub was slain by Wither Skeleton"
-                   },
-                   {
-                       "time":  "24/09 21:56",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Cincinnasite Ore"
                    }
                ]
 }
