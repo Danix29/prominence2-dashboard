@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T18:48:00.1480557Z",
+    "updated_at":  "2026-09-25T18:49:16.2880151Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl",
                                         "lasersub",
                                         "Geltz"
                                     ]
@@ -27,15 +26,15 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1173.9
+                                          "value":  1175
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1135.9
+                                          "value":  1137.2
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1127.1
+                                          "value":  1128.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -181,11 +180,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  64508.7
+                                          "value":  64551
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  55835.6
+                                          "value":  55873.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -207,11 +206,11 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  221
+                                          "value":  222.3
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  114.2
+                                          "value":  115
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -223,7 +222,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  28.5
+                                          "value":  29.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -266,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 20:48",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "25/09 20:42",
                        "type":  "join",
@@ -460,11 +464,6 @@
                        "time":  "24/09 23:39",
                        "type":  "death",
                        "text":  "lasersub was slain by Zoglin"
-                   },
-                   {
-                       "time":  "24/09 23:36",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Wither Skeleton"
                    }
                ]
 }
