@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T19:01:58.7488926Z",
+    "updated_at":  "2026-09-25T19:03:14.8656771Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,6 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz",
                                         "lasersub"
                                     ]
                     },
@@ -30,11 +29,15 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1149.9
+                                          "value":  1151.2
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1141.1
+                                          "value":  1141.7
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  880.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -47,10 +50,6 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  288.4
-                                      },
-                                      {
-                                          "name":  "DanixNuts",
-                                          "value":  0
                                       }
                                   ],
                      "deaths":  [
@@ -206,7 +205,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  235
+                                          "value":  235.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -225,12 +224,12 @@
                                           "value":  26.4
                                       },
                                       {
-                                          "name":  "Wenza06",
-                                          "value":  5.4
+                                          "name":  "lasersub",
+                                          "value":  5.8
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  4.6
+                                          "name":  "Wenza06",
+                                          "value":  5.4
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 21:02",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "25/09 20:57",
                        "type":  "death",
@@ -459,11 +463,6 @@
                        "time":  "24/09 23:44",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Eternal Expedition"
-                   },
-                   {
-                       "time":  "24/09 23:43",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro Eternal Expedition"
                    }
                ]
 }
