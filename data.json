@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T22:24:51.5193637Z",
+    "updated_at":  "2026-09-25T22:26:07.7241347Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+
                                     ]
                     },
                     {
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1251.5
+                                          "value":  1252.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  61324.2
+                                          "value":  61340.1
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  54.6
+                                          "value":  55.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "26/09 00:25",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "26/09 00:24",
                        "type":  "logro",
@@ -458,11 +463,6 @@
                        "time":  "25/09 21:02",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "25/09 20:57",
-                       "type":  "death",
-                       "text":  "lasersub withered away"
                    }
                ]
 }
