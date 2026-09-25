@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T11:32:01.7467993Z",
+    "updated_at":  "2026-09-25T11:33:17.7541996Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -34,11 +34,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1060.4
+                                          "value":  1061.7
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  852.7
+                                          "value":  854
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -90,7 +90,7 @@
                                    },
                                    {
                                        "name":  "Miguelhl",
-                                       "value":  628
+                                       "value":  629
                                    },
                                    {
                                        "name":  "Geltz",
@@ -146,11 +146,11 @@
                      "dmgtaken":  [
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  25714.1
+                                          "value":  25930.1
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  22948.9
+                                          "value":  23113.6
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -180,7 +180,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  61379
+                                          "value":  61468.1
                                       },
                                       {
                                           "name":  "Geltz",
@@ -192,7 +192,7 @@
                                       },
                                       {
                                           "name":  "DanixNuts",
-                                          "value":  45382.8
+                                          "value":  45398.9
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -217,10 +217,6 @@
                                           "value":  60.8
                                       },
                                       {
-                                          "name":  "DanixNuts",
-                                          "value":  43
-                                      },
-                                      {
                                           "name":  "Wenza06",
                                           "value":  5.4
                                       },
@@ -230,7 +226,11 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  0.7
+                                          "value":  2
+                                      },
+                                      {
+                                          "name":  "DanixNuts",
+                                          "value":  0.1
                                       }
                                   ],
                      "achievements":  [
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 13:33",
+                       "type":  "death",
+                       "text":  "DanixNuts was killed by magic whilst trying to escape Miguelhl"
+                   },
                    {
                        "time":  "25/09 13:31",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "24/09 22:30",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro Spooky Scary Skeleton"
-                   },
-                   {
-                       "time":  "24/09 22:29",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Wither Skeleton"
                    }
                ]
 }
