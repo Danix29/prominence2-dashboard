@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T21:45:30.9677809Z",
+    "updated_at":  "2026-09-25T21:46:47.1718076Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  1219.5
+                                          "value":  1220.7
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1212.2
+                                          "value":  1213.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -94,7 +94,7 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  403
+                                       "value":  404
                                    },
                                    {
                                        "name":  "Geltz",
@@ -120,7 +120,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  7645.4
+                                          "value":  7665.7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -158,7 +158,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  18218.2
+                                          "value":  18235.2
                                       },
                                       {
                                           "name":  "lasersub",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  68358
+                                          "value":  68413.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  59128.3
+                                          "value":  59149.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -200,7 +200,7 @@
                                       },
                                       {
                                           "name":  "Wenza06",
-                                          "value":  17773.4
+                                          "value":  0
                                       }
                                   ],
                      "survivor":  [
@@ -222,11 +222,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  15.3
+                                          "value":  16.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  15
+                                          "value":  16.2
                                       },
                                       {
                                           "name":  "Wenza06",
