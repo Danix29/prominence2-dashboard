@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T17:50:47.8432290Z",
+    "updated_at":  "2026-09-25T17:52:03.9190100Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl"
+                                        "Miguelhl",
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -25,7 +26,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1121.2
+                                          "value":  1122.4
                                       },
                                       {
                                           "name":  "Geltz",
@@ -33,7 +34,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1079.6
+                                          "value":  1080
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -175,11 +176,11 @@
                      "distance":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  63366.8
+                                          "value":  63374.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  61506.3
+                                          "value":  61508.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -213,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  61.4
+                                          "value":  62.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -229,7 +230,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  3.7
+                                          "value":  4.2
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 19:51",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "25/09 19:36",
                        "type":  "join",
@@ -458,11 +464,6 @@
                        "time":  "24/09 22:53",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Red Nether"
-                   },
-                   {
-                       "time":  "24/09 22:51",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Zombie"
                    }
                ]
 }
