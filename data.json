@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T22:08:21.9892244Z",
+    "updated_at":  "2026-09-25T22:09:38.2024482Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  1242.3
+                                          "value":  1243.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1235
+                                          "value":  1236.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -94,11 +94,11 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  458
+                                       "value":  462
                                    },
                                    {
                                        "name":  "Geltz",
-                                       "value":  387
+                                       "value":  391
                                    },
                                    {
                                        "name":  "daaviid_2006",
@@ -116,11 +116,11 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  13175.5
+                                          "value":  13601.2
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  10286.9
+                                          "value":  10534.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -153,16 +153,16 @@
                                           "value":  23602.2
                                       },
                                       {
+                                          "name":  "Geltz",
+                                          "value":  19885.5
+                                      },
+                                      {
                                           "name":  "daaviid_2006",
                                           "value":  19538.9
                                       },
                                       {
-                                          "name":  "Geltz",
-                                          "value":  19244.2
-                                      },
-                                      {
                                           "name":  "lasersub",
-                                          "value":  13624.6
+                                          "value":  13845.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  69816
+                                          "value":  69968.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  60481.3
+                                          "value":  60586
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,7 +218,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  38.1
+                                          "value":  39.4
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -230,7 +230,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  0.5
+                                          "value":  1.7
                                       }
                                   ],
                      "achievements":  [
@@ -252,7 +252,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  48
+                                              "value":  49
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "26/09 00:08",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro I was here, i lived, i.."
+                   },
                    {
                        "time":  "26/09 00:07",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "25/09 20:33",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "25/09 20:29",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
