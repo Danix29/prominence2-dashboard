@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T22:23:35.3392118Z",
+    "updated_at":  "2026-09-25T22:24:51.5193637Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1250.2
+                                          "value":  1251.5
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  61307.5
+                                          "value":  61324.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -217,7 +217,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  53.4
+                                          "value":  54.6
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -251,7 +251,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  49
+                                              "value":  50
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "26/09 00:24",
+                       "type":  "logro",
+                       "text":  "Geltz ha conseguido el logro Upgrades!"
+                   },
                    {
                        "time":  "26/09 00:20",
                        "type":  "leave",
@@ -456,11 +461,6 @@
                    },
                    {
                        "time":  "25/09 20:57",
-                       "type":  "death",
-                       "text":  "lasersub withered away"
-                   },
-                   {
-                       "time":  "25/09 20:54",
                        "type":  "death",
                        "text":  "lasersub withered away"
                    }
