@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T18:11:08.3886415Z",
+    "updated_at":  "2026-09-25T18:12:24.8338416Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -27,15 +27,15 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1138.8
+                                          "value":  1140.1
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1102.2
+                                          "value":  1103.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1099.1
+                                          "value":  1100.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -124,10 +124,6 @@
                                           "value":  6126.2
                                       },
                                       {
-                                          "name":  "lasersub",
-                                          "value":  5584.2
-                                      },
-                                      {
                                           "name":  "daaviid_2006",
                                           "value":  2208.3
                                       },
@@ -142,6 +138,10 @@
                                       {
                                           "name":  "Miguelhl",
                                           "value":  1314
+                                      },
+                                      {
+                                          "name":  "lasersub",
+                                          "value":  0
                                       }
                                   ],
                      "dmgtaken":  [
@@ -181,11 +181,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  62687.2
+                                          "value":  62721.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  54538.1
+                                          "value":  54564
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -207,7 +207,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  196.1
+                                          "value":  197.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -215,7 +215,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  79.1
+                                          "value":  80.4
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -227,7 +227,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  23.3
+                                          "value":  24.6
                                       },
                                       {
                                           "name":  "Wenza06",
