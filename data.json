@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T19:03:14.8656771Z",
+    "updated_at":  "2026-09-25T19:04:30.8874041Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "lasersub"
+
                                     ]
                     },
                     {
@@ -29,7 +29,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1151.2
+                                          "value":  1151.5
                                       },
                                       {
                                           "name":  "Geltz",
@@ -225,7 +225,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  5.8
+                                          "value":  6
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 21:03",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "25/09 21:02",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "24/09 23:47",
                        "type":  "logro",
                        "text":  "Geltz ha conseguido el logro War Pigs"
-                   },
-                   {
-                       "time":  "24/09 23:44",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Eternal Expedition"
                    }
                ]
 }
