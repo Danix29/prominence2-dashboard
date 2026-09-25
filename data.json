@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T18:53:04.8144060Z",
+    "updated_at":  "2026-09-25T18:54:21.1762036Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1141
+                                          "value":  1142.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1132.2
+                                          "value":  1133.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -94,7 +94,7 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  386
+                                       "value":  387
                                    },
                                    {
                                        "name":  "Geltz",
@@ -116,7 +116,7 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  10529.2
+                                          "value":  10549.9
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -124,7 +124,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  5676.3
+                                          "value":  5975.3
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -158,11 +158,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  13414
+                                          "value":  13440.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  9053.5
+                                          "value":  9210.7
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  64826.1
+                                          "value":  64939.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  56063.2
+                                          "value":  56154.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  226.1
+                                          "value":  227.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -222,7 +222,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  33.6
+                                          "value":  34.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -248,7 +248,7 @@
                                           },
                                           {
                                               "name":  "lasersub",
-                                              "value":  44
+                                              "value":  45
                                           },
                                           {
                                               "name":  "Geltz",
@@ -265,6 +265,16 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 20:54",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Destructive Tendencies"
+                   },
+                   {
+                       "time":  "25/09 20:53",
+                       "type":  "logro",
+                       "text":  "lasersub ha conseguido el logro Withering Heights"
+                   },
                    {
                        "time":  "25/09 20:48",
                        "type":  "leave",
@@ -452,16 +462,6 @@
                    },
                    {
                        "time":  "24/09 23:41",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Zoglin"
-                   },
-                   {
-                       "time":  "24/09 23:40",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Zoglin"
-                   },
-                   {
-                       "time":  "24/09 23:39",
                        "type":  "death",
                        "text":  "lasersub was slain by Zoglin"
                    }
