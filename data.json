@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T18:04:46.9444962Z",
+    "updated_at":  "2026-09-25T18:06:03.2459386Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -30,11 +30,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1095.9
+                                          "value":  1097.2
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1092.7
+                                          "value":  1094
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -180,11 +180,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  62243.9
+                                          "value":  62338.6
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  54401.8
+                                          "value":  54408
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -206,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  189.8
+                                          "value":  191
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -226,7 +226,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  16.9
+                                          "value":  18.2
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 20:05",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "25/09 20:03",
                        "type":  "leave",
@@ -459,11 +464,6 @@
                        "time":  "24/09 23:02",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Who is Cutting Onions?"
-                   },
-                   {
-                       "time":  "24/09 22:56",
-                       "type":  "join",
-                       "text":  "Geltz ha entrado en Prominence II"
                    }
                ]
 }
