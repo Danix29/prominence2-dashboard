@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T11:12:35.5063303Z",
+    "updated_at":  "2026-09-25T11:13:53.5288762Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -229,7 +229,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  2
+                                          "value":  2.2
                                       }
                                   ],
                      "achievements":  [
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 13:13",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "25/09 00:39",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "24/09 21:56",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Diamond Tier Upgrade"
-                   },
-                   {
-                       "time":  "24/09 21:48",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
                    }
                ]
 }
