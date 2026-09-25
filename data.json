@@ -1,13 +1,13 @@
 {
-    "updated_at":  "2026-09-25T20:34:25.0767905Z",
+    "updated_at":  "2026-09-25T20:35:41.5435209Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Geltz"
                                     ]
                     },
                     {
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1141.7
+                                          "value":  1142.3
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -183,7 +183,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  56438.5
+                                          "value":  56462.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -205,7 +205,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  235.4
+                                          "value":  236.2
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 22:34",
+                       "type":  "join",
+                       "text":  "Geltz ha entrado en Prominence II"
+                   },
                    {
                        "time":  "25/09 21:03",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "24/09 23:47",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro War Pigs"
-                   },
-                   {
-                       "time":  "24/09 23:47",
-                       "type":  "logro",
-                       "text":  "Geltz ha conseguido el logro War Pigs"
                    }
                ]
 }
