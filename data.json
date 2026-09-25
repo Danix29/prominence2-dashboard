@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T22:19:46.6586355Z",
+    "updated_at":  "2026-09-25T22:21:02.7713388Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  1253.7
+                                          "value":  1255
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1246.4
+                                          "value":  1247.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  70915.9
+                                          "value":  70951.3
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  61228.1
+                                          "value":  61264.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,7 +218,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  49.6
+                                          "value":  50.8
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -226,7 +226,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  7.4
+                                          "value":  8.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "26/09 00:20",
+                       "type":  "leave",
+                       "text":  "lasersub ha salido de Prominence II"
+                   },
                    {
                        "time":  "26/09 00:12",
                        "type":  "death",
@@ -459,11 +464,6 @@
                        "time":  "25/09 20:54",
                        "type":  "death",
                        "text":  "lasersub withered away"
-                   },
-                   {
-                       "time":  "25/09 20:54",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro Destructive Tendencies"
                    }
                ]
 }
