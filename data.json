@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T18:32:44.9175565Z",
+    "updated_at":  "2026-09-25T18:34:01.1801307Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -8,8 +8,7 @@
                         "sleeping":  false,
                         "players":  [
                                         "Miguelhl",
-                                        "lasersub",
-                                        "Geltz"
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -27,15 +26,15 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1158.7
-                                      },
-                                      {
-                                          "name":  "Geltz",
-                                          "value":  1120.7
+                                          "value":  1159.9
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1120.7
+                                          "value":  1121.9
+                                      },
+                                      {
+                                          "name":  "Geltz",
+                                          "value":  1121.5
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -159,7 +158,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  13391.6
+                                          "value":  13404.4
                                       },
                                       {
                                           "name":  "lasersub",
@@ -181,11 +180,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  63932.2
+                                          "value":  63957.4
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  55561.9
+                                          "value":  55611.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -207,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  214.5
+                                          "value":  215.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -215,7 +214,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  98.9
+                                          "value":  100.2
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -227,7 +226,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  13.2
+                                          "value":  14.5
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -266,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 20:33",
+                       "type":  "leave",
+                       "text":  "Geltz ha salido de Prominence II"
+                   },
                    {
                        "time":  "25/09 20:29",
                        "type":  "join",
@@ -460,11 +464,6 @@
                        "time":  "24/09 23:35",
                        "type":  "logro",
                        "text":  "lasersub ha conseguido el logro Spooky Scary Skeleton"
-                   },
-                   {
-                       "time":  "24/09 23:34",
-                       "type":  "death",
-                       "text":  "lasersub was slain by Wither Skeleton"
                    }
                ]
 }
