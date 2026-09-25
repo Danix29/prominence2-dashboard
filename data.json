@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T20:36:57.7177211Z",
+    "updated_at":  "2026-09-25T20:38:13.7651882Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,8 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Geltz"
+                                        "Geltz",
+                                        "lasersub"
                                     ]
                     },
                     {
@@ -29,11 +30,11 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  1151.5
+                                          "value":  1152.3
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1143.6
+                                          "value":  1144.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -157,7 +158,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  13514.7
+                                          "value":  13517.9
                                       },
                                       {
                                           "name":  "lasersub",
@@ -175,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  65239.5
+                                          "value":  65332.4
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -183,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  56539.4
+                                          "value":  56630.7
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -205,7 +206,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  237.5
+                                          "value":  238.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -225,7 +226,7 @@
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  6
+                                          "value":  7
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -264,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "25/09 22:37",
+                       "type":  "join",
+                       "text":  "lasersub ha entrado en Prominence II"
+                   },
                    {
                        "time":  "25/09 22:34",
                        "type":  "join",
@@ -458,11 +464,6 @@
                        "time":  "24/09 23:55",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "24/09 23:47",
-                       "type":  "logro",
-                       "text":  "lasersub ha conseguido el logro War Pigs"
                    }
                ]
 }
