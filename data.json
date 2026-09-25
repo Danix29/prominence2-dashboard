@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-25T22:05:49.6622708Z",
+    "updated_at":  "2026-09-25T22:07:06.0093271Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -26,11 +26,11 @@
                      "playtime":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  1239.8
+                                          "value":  1241
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  1232.5
+                                          "value":  1233.7
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -68,7 +68,7 @@
                                     },
                                     {
                                         "name":  "lasersub",
-                                        "value":  39
+                                        "value":  40
                                     },
                                     {
                                         "name":  "Geltz",
@@ -94,7 +94,7 @@
                                    },
                                    {
                                        "name":  "lasersub",
-                                       "value":  440
+                                       "value":  453
                                    },
                                    {
                                        "name":  "Geltz",
@@ -116,11 +116,11 @@
                      "dmgdealt":  [
                                       {
                                           "name":  "Geltz",
-                                          "value":  12877.2
+                                          "value":  12980.6
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  9282.1
+                                          "value":  10072.1
                                       },
                                       {
                                           "name":  "Wenza06",
@@ -158,11 +158,11 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  18566.1
+                                          "value":  19003.5
                                       },
                                       {
                                           "name":  "lasersub",
-                                          "value":  13063.1
+                                          "value":  13378.1
                                       },
                                       {
                                           "name":  "Dan_niel03",
@@ -176,7 +176,7 @@
                      "distance":  [
                                       {
                                           "name":  "lasersub",
-                                          "value":  69446.9
+                                          "value":  69624.1
                                       },
                                       {
                                           "name":  "Miguelhl",
@@ -184,7 +184,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  60306
+                                          "value":  60381.2
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -218,11 +218,7 @@
                                       },
                                       {
                                           "name":  "Geltz",
-                                          "value":  35.6
-                                      },
-                                      {
-                                          "name":  "lasersub",
-                                          "value":  35.3
+                                          "value":  36.9
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -231,6 +227,10 @@
                                       {
                                           "name":  "Wenza06",
                                           "value":  5.4
+                                      },
+                                      {
+                                          "name":  "lasersub",
+                                          "value":  0.3
                                       }
                                   ],
                      "achievements":  [
@@ -252,7 +252,7 @@
                                           },
                                           {
                                               "name":  "Geltz",
-                                              "value":  47
+                                              "value":  48
                                           },
                                           {
                                               "name":  "Wenza06",
@@ -265,6 +265,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "26/09 00:06",
+                       "type":  "death",
+                       "text":  "lasersub was slain by Vex"
+                   },
                    {
                        "time":  "26/09 00:05",
                        "type":  "logro",
@@ -459,11 +464,6 @@
                        "time":  "25/09 20:26",
                        "type":  "leave",
                        "text":  "Geltz ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "25/09 20:19",
-                       "type":  "death",
-                       "text":  "lasersub burned to death"
                    }
                ]
 }
