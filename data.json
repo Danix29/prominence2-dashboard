@@ -1,13 +1,13 @@
 {
-    "updated_at":  "2026-09-26T20:53:39.0302295Z",
+    "updated_at":  "2026-09-26T20:54:56.3162878Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
                         "address":  "nicely-wished.tun.ply.gg",
-                        "running":  false,
+                        "running":  true,
                         "sleeping":  false,
                         "players":  [
-
+                                        "Miguelhl"
                                     ]
                     },
                     {
@@ -33,7 +33,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1175
+                                          "value":  1175.2
                                       },
                                       {
                                           "name":  "DanixNuts",
@@ -179,7 +179,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  64714
+                                          "value":  64722.2
                                       },
                                       {
                                           "name":  "Geltz",
@@ -194,18 +194,18 @@
                                           "value":  46323
                                       },
                                       {
-                                          "name":  "Dan_niel03",
-                                          "value":  19550.9
-                                      },
-                                      {
                                           "name":  "Wenza06",
                                           "value":  17773.4
+                                      },
+                                      {
+                                          "name":  "Dan_niel03",
+                                          "value":  0.3
                                       }
                                   ],
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  115
+                                          "value":  115.5
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "26/09 22:54",
+                       "type":  "join",
+                       "text":  "Miguelhl ha entrado en Prominence II"
+                   },
                    {
                        "time":  "26/09 00:25",
                        "type":  "leave",
@@ -458,11 +463,6 @@
                        "time":  "25/09 21:03",
                        "type":  "leave",
                        "text":  "lasersub ha salido de Prominence II"
-                   },
-                   {
-                       "time":  "25/09 21:02",
-                       "type":  "leave",
-                       "text":  "Geltz ha salido de Prominence II"
                    }
                ]
 }
