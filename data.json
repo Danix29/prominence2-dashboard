@@ -1,5 +1,5 @@
 {
-    "updated_at":  "2026-09-27T12:49:45.8473533Z",
+    "updated_at":  "2026-09-27T12:51:01.8568099Z",
     "servers":  [
                     {
                         "name":  "Prominence II: Hasturian Era",
@@ -7,7 +7,7 @@
                         "running":  true,
                         "sleeping":  false,
                         "players":  [
-                                        "Miguelhl"
+
                                     ]
                     },
                     {
@@ -25,7 +25,7 @@
                      "playtime":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  1269.2
+                                          "value":  1270.3
                                       },
                                       {
                                           "name":  "lasersub",
@@ -179,7 +179,7 @@
                                       },
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  67559.8
+                                          "value":  67563.9
                                       },
                                       {
                                           "name":  "Geltz",
@@ -205,7 +205,7 @@
                      "survivor":  [
                                       {
                                           "name":  "Miguelhl",
-                                          "value":  209.4
+                                          "value":  210.4
                                       },
                                       {
                                           "name":  "daaviid_2006",
@@ -264,6 +264,11 @@
                                       ]
                  },
     "events":  [
+                   {
+                       "time":  "27/09 14:50",
+                       "type":  "leave",
+                       "text":  "Miguelhl ha salido de Prominence II"
+                   },
                    {
                        "time":  "27/09 13:37",
                        "type":  "join",
@@ -458,11 +463,6 @@
                        "time":  "25/09 23:03",
                        "type":  "death",
                        "text":  "lasersub was slain by Mutant Enderman"
-                   },
-                   {
-                       "time":  "25/09 22:37",
-                       "type":  "join",
-                       "text":  "lasersub ha entrado en Prominence II"
                    }
                ]
 }
